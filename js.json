@@ -1,0 +1,35 @@
+[
+    {
+        "id": "0",
+        "question": "What two different ways can scientists can combine elements?",
+        "options": [
+            "a. Atoms or molecules.",
+            "b. Atoms or compounds.",
+            "c. Molecules or mixtures.",
+            "d. Compounds or mixtures."
+        ],
+        "correct": "d. Compounds or mixtures."
+    },
+    {
+        "id": "1",
+        "question": " In which shell of an atom are the valence electrons located?",
+        "options": [
+            "a. The outermost.",
+            "b. The middle.",
+            "c. The second.",
+            "d. The first."
+        ],
+        "correct": "a. The outermost."
+    },
+    {
+        "id": "2",
+        "question": "How would you best describes a positive ion?",
+        "options": [
+            "a. An atom that has an equal number of electrons and protons.",
+            "b. An atom that lost an electron and has more protons.",
+            "c. An atom that lost a proton and has more electrons.",
+            "d. An atom that cannot throw off any protons."
+        ],
+        "correct": "b. An atom that lost an electron and has more protons."
+    }
+]
