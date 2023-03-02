@@ -187,7 +187,282 @@
         "correct": "b. Voltage divided by current."
     },
     {
-        "id": "",
+        "id": "17",
+        "question": "How much resistance of a circuit is applied with voltage of 120 volts and a current flow of 9 amperes?",
+        "options": [
+            "a. 0.13 ohms.",
+            "b. 1.3 ohms.",
+            "c. 13.33 ohms.",
+            "d. 108 ohms."
+        ],
+        "correct": "c. 13.33 ohms."
+    },
+    {
+        "id": "18",
+        "question": "What ohm measurement is the total resistance of a 5-ohm resistor and a 20-ohm resistor in parallel?",
+        "options": [
+            "a. 2 ohms.",
+            "b. 2.5 ohms.",
+            "c. 4 ohms.",
+            "d. 5.5 ohms."
+        ],
+        "correct": "c. 4 ohms."
+    },
+    {
+        "id": "19",
+        "question": "What ohm measurement is the total resistance of a 4-ohm resistor, a 10-ohm resistor, and a 12-ohm resistor in parallel?",
+        "options": [
+            "a. 2.3 ohms.",
+            "b. 3.2 ohms.",
+            "c. 3.9 ohms.",
+            "d. 4.2 ohms."
+        ],
+        "correct": "a. 2.3 ohms."
+    },
+    {
+        "id": "20",
+        "question": " What measurement is the current flow in amperes of a circuit with an applied voltage of 120 volts and a power consumption of 600 watts?",
+        "options": [
+            "a. 0.5 amperes.",
+            "b. 2 amperes.",
+            "c. 2.5 amperes.",
+            "d. 5 amperes."
+        ],
+        "correct": "d. 5 amperes."
+    },
+    {
+        "id": "21",
+        "question": "What amount of power in watts is consumed by a circuit with 120 volts applied and a resistance of 12 ohms?",
+        "options": [
+            "a. 10 watts.",
+            "b. 12 watts.",
+            "c. 1200 watts.",
+            "d. 1440 watts."
+        ],
+        "correct": "c. 1200 watts."
+    },
+    {
+        "id": "22",
+        "question": " How many watts of power are present in a 5-ohm unit of resistance in which 2 amperes are flowing?",
+        "options": [
+            "a. 20 watts.",
+            "b. 15 watts.",
+            "c. 10 watts.",
+            "d. 2.5 watts."
+        ],
+        "correct": "a. 20 watts."
+    },
+    {
+        "id": "23",
+        "question": "What completes an electrical cycle of an alternating current (AC) generator?",
+        "options": [
+            "a. One positive and two negative alternations in one second.",
+            "b. One positive and one negative alternation.",
+            "c. One negative alternation.",
+            "d. One positive alternation."
+        ],
+        "correct": "b. One positive and one negative alternation."
+    },
+    {
+        "id": "24",
+        "question": "How many rotations per minute (rpm) must a two-pole generator rotate to produce 60 hertz",
+        "options": [
+            "a. 1,200 rpm.",
+            "b. 1,800 rpm.",
+            "c. 3,600 rpm.",
+            "d. 4,000 rpm."
+        ],
+        "correct": "c. 3,600 rpm."
+    },
+    {
+        "id": "25",
+        "question": "How is the measurement of the apparent power of an alternating current (AC) electrical system expressed?",
+        "options": [
+            "a. Volt-amperes.",
+            "b. Kilovolt-amperes.",
+            "c. Millivolt-amperes.",
+            "d. Picovolt-amperes."
+        ],
+        "correct": "b. Kilovolt-amperes."
+    },
+    {
+        "id": "26",
+        "question": "What is the capacitance of a 125 microfarads (μF) capacitor when converted to farads?",
+        "options": [
+            "a. .000125 F.",
+            "b. .00125 F.",
+            "c. .0125 F.",
+            "d. 0.125 F."
+        ],
+        "correct": "a. .000125 F."
+    },
+    {
+        "id": "27",
+        "question": "The rules and equations for direct current (DC) circuits apply to alternating current (AC) circuits having",
+        "options": [
+            "a. resistive load elements alone",
+            "b. reactive load elements alone",
+            "c. capacitive load elements alone.",
+            "d. resistive and reactive load elements."
+        ],
+        "correct": "a. resistive load elements alone."
+    },
+    {
+        "id": "28",
+        "question": "A 110-volt alternating current (AC) motor records 20 in-line amperes and the in-line wattmeter shows only 1,936 watts being consumed. What would be the power factor of the AC circuit?",
+        "options": [
+            "a. 80 percent power factor (pf)",
+            "b. 83 percent pf.",
+            "c. 86 percent pf.",
+            "d. 88 percent pf"
+        ],
+        "correct": "d. 88 percent pf"
+    },
+    {
+        "id": "29",
+        "question": "What is the purpose of an electrical generator?",
+        "options": [
+            "a. Converts mechanical energy to electrical energy.",
+            "b. Converts electrical energy to mechanical energy.",
+            "c. Converts kinetic energy to electrical energy.",
+            "d. Converts kinetic energy to potential energy."
+        ],
+        "correct": "a. Converts mechanical energy to electrical energy."
+    },
+    {
+        "id": "30",
+        "question": "What type of generator has brushes riding on the commutator to carry the current to an external circuit?",
+        "options": [
+            "a. Universal.",
+            "b. Potential type.",
+            "c. Direct current type.",
+            "d. Alternating current type."
+        ],
+        "correct": "c. Direct current type."
+    },
+    {
+        "id": "31",
+        "question": "What feature is the advantage of having a rotating magnetic field alternator?",
+        "options": [
+            "a. It requires no slip rings and brushes.",
+            "b. Output is taken from the commutator.",
+            "c. Output is taken from the stationary stator coils.",
+            "d. It requires less power to rotate the magnetic field."
+        ],
+        "correct": "c. Output is taken from the stationary stator coils."
+    },
+    {
+        "id": "32",
+        "question": "The voltage of a primary cell depends on the type of",
+        "options": [
+            "a. electrolyte and type of cell.",
+            "b. cell and type of terminal posts.",
+            "c. electrode material and type of cell.",
+            "d. electrolyte and the electrode material."
+        ],
+        "correct": "d. electrolyte and the electrode material."
+    },
+    {
+        "id": "33",
+        "question": "Even though the open-circuit voltage of a lead-acid storage battery is approximately 2.2 volts, what number is the normal rating?",
+        "options": [
+            "a. 2.0.",
+            "b. 2.5.",
+            "c. 2.7.",
+            "d. 2.9."
+        ],
+        "correct": "a. 2.0."
+    },
+    {
+        "id": "34",
+        "question": "A step-up transformer produces a secondary voltage",
+        "options": [
+            "a. higher and secondary current lower than the voltage and current in the primary. ",
+            "b. lower and secondary current higher than the voltage and current in the primary.",
+            "c. and current higher than the voltage and current in the primary.",
+            "d. and current lower than the voltage and current in the primary."
+        ],
+        "correct": "a. higher and secondary current lower than the voltage and current in the primary."
+    },
+    {
+        "id": "35",
+        "question": "When setting up the bucket truck for rescue, where should you place the strap and how far from the bucket?",
+        "options": [
+            "a. Lower boom; 10 feet.",
+            "b. Lower boom; 15 feet.",
+            "c. Upper boom; 10 feet.",
+            "d. Upper boom; 15 feet."
+        ],
+        "correct": "c. Upper boom; 10 feet."
+    },
+    {
+        "id": "36",
+        "question": "What two items do you need when setting up the bucket truck for rescue?",
+        "options": [
+            "a. Handline and a set of rope blocks.",
+            "b. Strap and a set of rope blocks.",
+            "c. Hot stick and handline.",
+            "d. Strap and hot stick."
+        ],
+        "correct": "b. Strap and a set of rope blocks."
+    },
+    {
+        "id": "37",
+        "question": " Which piece of equipment should you use with the manhole guard when using the two-person method of manhole rescue?",
+        "options": [
+            "a. Handline.",
+            "b. Wire hoist.",
+            "c. Rope blocks.",
+            "d. Windlass handcrank."
+        ],
+        "correct": "d. Windlass handcrank."
+    },
+    {
+        "id": "38",
+        "question": "When rescuing a person from a manhole, your primary concern should be",
+        "options": [
+            "a. your own safety.",
+            "b. the speed of the rescue.",
+            "c. the depth of the manhole.",
+            "d. not to cause additional injuries."
+        ],
+        "correct": "a. your own safety."
+    },
+    {
+        "id": "39",
+        "question": "What action should you always take when using a two-way radio for line work?",
+        "options": [
+            "a. Get clearances from the shop",
+            "b. Know where other crews are working.",
+            "c. Identify yourself on each transmission.",
+            "d. Use the electrical shop code on each transmission."
+        ],
+        "correct": "c. Identify yourself on each transmission."
+    },
+    {
+        "id": "40",
+        "question": "Who is responsible for issuing a safe clearance?",
+        "options": [
+            "a. Craftsman.",
+            "b. Crew leader.",
+            "c. Superintendent.",
+            "d. Base civil engineer."
+        ],
+        "correct": "c. Superintendent."
+    },
+    {
+        "id": "41",
+        "question": "How many year(s) must safe clearance forms be retained after release?",
+        "options": [
+            "a. Four.",
+            "b. Three.",
+            "c. Two.",
+            "d. One."
+        ],
+        "correct": "d. One."
+    },
+    {
+        "id": "41",
         "question": "",
         "options": [
             "",
@@ -198,301 +473,26 @@
         "correct": ""
     },
     {
-        "id": "",
-        "question": "",
+        "id": "42",
+        "question": "Which Air Force (AF) form is used to record all blocking and tagging actions done on primary electrical circuits on Air Force installations?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "a. AF Form 269, Electrical Facilities Safe Clearance.",
+            "b. AF Form 561, BCE Weekly Work Schedule.",
+            "c. AF Form 979, Danger Tag.",
+            "d. AF Form 980, Caution Tag."
         ],
-        "correct": ""
+        "correct": "a. AF Form 269, Electrical Facilities Safe Clearance."
     },
     {
-        "id": "",
-        "question": "",
+        "id": "43",
+        "question": "Why do you use the Air Force (AF) Form 980, Caution Tag?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "a. To identify situations out of the ordinary.",
+            "b. To control and record all blocking and tagging.",
+            "c. To protect the crew working under safe clearance.",
+            "d. To record the names of the crew that are doing the task."
         ],
-        "correct": ""
-    },
-    {
-        "id": "",
-        "question": "",
-        "options": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct": ""
-    },
-    {
-        "id": "",
-        "question": "",
-        "options": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct": ""
-    },
-    {
-        "id": "",
-        "question": "",
-        "options": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct": ""
-    },
-    {
-        "id": "",
-        "question": "",
-        "options": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct": ""
-    },
-    {
-        "id": "",
-        "question": "",
-        "options": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct": ""
-    },
-    {
-        "id": "",
-        "question": "",
-        "options": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct": ""
-    },
-    {
-        "id": "",
-        "question": "",
-        "options": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct": ""
-    },
-    {
-        "id": "",
-        "question": "",
-        "options": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct": ""
-    },
-    {
-        "id": "",
-        "question": "",
-        "options": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct": ""
-    },
-    {
-        "id": "",
-        "question": "",
-        "options": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct": ""
-    },
-    {
-        "id": "",
-        "question": "",
-        "options": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct": ""
-    },
-    {
-        "id": "",
-        "question": "",
-        "options": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct": ""
-    },
-    {
-        "id": "",
-        "question": "",
-        "options": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct": ""
-    },
-    {
-        "id": "",
-        "question": "",
-        "options": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct": ""
-    },
-    {
-        "id": "",
-        "question": "",
-        "options": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct": ""
-    },
-    {
-        "id": "",
-        "question": "",
-        "options": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct": ""
-    },
-    {
-        "id": "",
-        "question": "",
-        "options": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct": ""
-    },
-    {
-        "id": "",
-        "question": "",
-        "options": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct": ""
-    },
-    {
-        "id": "",
-        "question": "",
-        "options": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct": ""
-    },
-    {
-        "id": "",
-        "question": "",
-        "options": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct": ""
-    },
-    {
-        "id": "",
-        "question": "",
-        "options": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct": ""
-    },
-    {
-        "id": "",
-        "question": "",
-        "options": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct": ""
-    },
-    {
-        "id": "",
-        "question": "",
-        "options": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct": ""
-    },
-    {
-        "id": "",
-        "question": "",
-        "options": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct": ""
-    },
-    {
-        "id": "",
-        "question": "",
-        "options": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct": ""
+        "correct": "a. To identify situations out of the ordinary."
     },
     {
         "id": "",
