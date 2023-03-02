@@ -31,5 +31,478 @@
             "d. An atom that cannot throw off any protons."
         ],
         "correct": "b. An atom that lost an electron and has more protons."
+    },
+    {
+        "id": "3",
+        "question": "What material permits a large number of free electrons to move through it?",
+        "options": [
+            "a. Conductor.",
+            "b. Insulator.",
+            "c. Resistor.",
+            "d. Ion."
+        ],
+        "correct": "a. Conductor."
+    },
+    {
+        "id": "4",
+        "question": "Which smallest current can be fatal under certain conditions?",
+        "options": [
+            "a. One-half of 1 amp",
+            "b. One-third of 1 amp.",
+            "c. One-tenth of 1 amp.",
+            "d. One-eighth of 1 amp."
+        ],
+        "correct": "c. One-tenth of 1 amp."
+    },
+    {
+        "id": "5",
+        "question": "What is used to move a sufficient number of electrons to perform a useful job?",
+        "options": [
+            "a. Heat.",
+            "b. Current.",
+            "c. Voltage.",
+            "d. Inductance."
+        ],
+        "correct": "c. Voltage."
+    },
+    {
+        "id": "6",
+        "question": "How is resistance defined with respect to electricity?",
+        "options": [
+            "a. The movement of electrons through a conductor.",
+            "b. The opposition to voltage in an electrical circuit.",
+            "c. The potential difference offered by a material.",
+            "d. The opposition to current flow."
+        ],
+        "correct": "d. The opposition to current flow."
+    },
+    {
+        "id": "7",
+        "question": "According to Ohm's law, how much voltage is needed to push one ampere of current through one ohm of resistance?",
+        "options": [
+            "a. 0.1 volt.",
+            "b. 1 volt.",
+            "c. 10 volts.",
+            "d. 100 volts."
+        ],
+        "correct": "b. 1 volt."
+    },
+    {
+        "id": "8",
+        "question": "What factor normally causes the resistance of a conductor to increase?",
+        "options": [
+            "a. Decrease in temperature",
+            "b. Increase in temperature.",
+            "c. Decrease in length.",
+            "d. Increase in size."
+        ],
+        "correct": "b. Increase in temperature."
+    },
+    {
+        "id": "9",
+        "question": "What unit of measurement is used to measure electrical power?",
+        "options": [
+            "a. Watts.",
+            "b. Volts.",
+            "c. Amps.",
+            "d. Ohms."
+        ],
+        "correct": "a. Watts."
+    },
+    {
+        "id": "10",
+        "question": "How much power does a 3-horsepower motor consumes?",
+        "options": [
+            "a. 0.755 kilowatts (kW).",
+            "b. 1.534 kW.",
+            "c. 2.238 kW.",
+            "d. 2.023 kW."
+        ],
+        "correct": "c. 2.238 kW."
+    },
+    {
+        "id": "11",
+        "question": "When do the magnetic lines of force in a magnet cross?",
+        "options": [
+            "a. When the north pole of a magnet is placed near the north pole of another magnet.",
+            "b. When the south pole of a magnet is placed near the north pole of another magnet.",
+            "c. When a permanent magnet and a temporary magnet are put together.",
+            "d. Magnetic lines of force never cross each other."
+        ],
+        "correct": "d. Magnetic lines of force never cross each other."
+    },
+    {
+        "id": "12",
+        "question": "How can a polarity be created and the strength of the magnetic lines of force around a conductor be increased?",
+        "options": [
+            "a. By decreasing current.",
+            "b. By increasing resistance.",
+            "c. By looping coils close together.",
+            "d. By increasing the size of the conductor."
+        ],
+        "correct": "c. By looping coils close together."
+    },
+    {
+        "id": "13",
+        "question": "What methods are the two most common for producing voltage?",
+        "options": [
+            "a. Chemical and mechanical.",
+            "b. Magnetic and mechanical. ",
+            "c. Chemical and heat.",
+            "d. Magnetic and heat."
+        ],
+        "correct": "a. Chemical and mechanical."
+    },
+    {
+        "id": "14",
+        "question": " What three things are needed to produce voltage by the principle of electromagnetic induction?",
+        "options": [
+            "a. Coil, core, and current.",
+            "b. Magnet, housing, and prime mover.",
+            "c. Coil, conductors, and relative motion.",
+            "d. Magnetic field, a conductor, and relative motion."
+        ],
+        "correct": "d. Magnetic field, a conductor, and relative motion."
+    },
+    {
+        "id": "15",
+        "question": "What type of current flow is the result of voltages produced by batteries and thermocouples?",
+        "options": [
+            "a. Direct current.",
+            "b. Alternating current.",
+            "c. Easily transformed current.",
+            "d. Current of no commercial value."
+        ],
+        "correct": "a. Direct current."
+    },
+    {
+        "id": "16",
+        "question": "Which formula is the correct one for finding the resistance of a circuit?",
+        "options": [
+            "a. Current divided by voltage.",
+            "b. Voltage divided by current.",
+            "c. Current divided by resistance",
+            "d. Voltage divided by resistance"
+        ],
+        "correct": "b. Voltage divided by current."
+    },
+    {
+        "id": "",
+        "question": "",
+        "options": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": ""
+    },
+    {
+        "id": "",
+        "question": "",
+        "options": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": ""
+    },
+    {
+        "id": "",
+        "question": "",
+        "options": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": ""
+    },
+    {
+        "id": "",
+        "question": "",
+        "options": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": ""
+    },
+    {
+        "id": "",
+        "question": "",
+        "options": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": ""
+    },
+    {
+        "id": "",
+        "question": "",
+        "options": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": ""
+    },
+    {
+        "id": "",
+        "question": "",
+        "options": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": ""
+    },
+    {
+        "id": "",
+        "question": "",
+        "options": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": ""
+    },
+    {
+        "id": "",
+        "question": "",
+        "options": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": ""
+    },
+    {
+        "id": "",
+        "question": "",
+        "options": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": ""
+    },
+    {
+        "id": "",
+        "question": "",
+        "options": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": ""
+    },
+    {
+        "id": "",
+        "question": "",
+        "options": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": ""
+    },
+    {
+        "id": "",
+        "question": "",
+        "options": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": ""
+    },
+    {
+        "id": "",
+        "question": "",
+        "options": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": ""
+    },
+    {
+        "id": "",
+        "question": "",
+        "options": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": ""
+    },
+    {
+        "id": "",
+        "question": "",
+        "options": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": ""
+    },
+    {
+        "id": "",
+        "question": "",
+        "options": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": ""
+    },
+    {
+        "id": "",
+        "question": "",
+        "options": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": ""
+    },
+    {
+        "id": "",
+        "question": "",
+        "options": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": ""
+    },
+    {
+        "id": "",
+        "question": "",
+        "options": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": ""
+    },
+    {
+        "id": "",
+        "question": "",
+        "options": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": ""
+    },
+    {
+        "id": "",
+        "question": "",
+        "options": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": ""
+    },
+    {
+        "id": "",
+        "question": "",
+        "options": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": ""
+    },
+    {
+        "id": "",
+        "question": "",
+        "options": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": ""
+    },
+    {
+        "id": "",
+        "question": "",
+        "options": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": ""
+    },
+    {
+        "id": "",
+        "question": "",
+        "options": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": ""
+    },
+    {
+        "id": "",
+        "question": "",
+        "options": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": ""
+    },
+    {
+        "id": "",
+        "question": "",
+        "options": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": ""
+    },
+    {
+        "id": "",
+        "question": "",
+        "options": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": ""
     }
 ]
