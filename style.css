@@ -13,7 +13,27 @@ body {
     background-size: cover;
 }
 
-.start-screen,
+.start-screen-wrapper {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.start-screen {
+    position: relative;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: #2196F3;
+    padding: 10px;
+    font-size: 0.9rem;
+}
+
+.start-screen>button {
+    margin: 10px;
+    padding: 5px;
+}
+
 .score-container {
     position: absolute;
     top: 0;
@@ -31,8 +51,7 @@ button {
     cursor: pointer;
 }
 
-#start-button,
-#restart {
+.primary-button {
     font-size: 1.3em;
     padding: 0.5em 1.8em;
     border-radius: 0.2em;
@@ -96,7 +115,7 @@ button {
     cursor: not-allowed;
 }
 
-#next-button {
+.secondary-button {
     font-size: 1em;
     margin-top: 1.5em;
     background-color: #0a69ed;
@@ -125,9 +144,41 @@ button {
 #user-score {
     font-size: 1.5em;
     color: #ffffff;
+    text-align: center;
 }
 
 .timer-icon {
     height: 2em;
     width: 2em;
+}
+
+
+@media screen and (max-width: 768px) {
+    .start-screen {
+        position: relative;
+        display: grid;
+        grid-template-columns: auto auto;
+        background-color: #2196F3;
+        padding: 10px;
+    }
+
+    .start-screen>button {
+        margin: 10px;
+    }
+
+}
+
+@media (min-width: 769px) {
+    .start-screen {
+        position: relative;
+        display: grid;
+        grid-template-columns: auto auto;
+        background-color: #2196F3;
+        padding: 10px;
+    }
+
+    .start-screen>button {
+        margin: 10px;
+        padding: 40px;
+    }
 }
