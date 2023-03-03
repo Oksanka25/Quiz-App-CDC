@@ -6,7 +6,8 @@
 }
 
 body {
-    background-color: #0a69ed;
+    /* background-color: #0a69ed; */
+    background-image: url("https://thumbs.dreamstime.com/b/blue-lightning-abstract-electrical-background-195086702.jpg");
 }
 
 .start-screen,
