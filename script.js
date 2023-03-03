@@ -5,21 +5,29 @@ let nextBtn = document.getElementById("next-button");
 let countOfQuestion = document.querySelector(".number-of-question");
 let displayContainer = document.getElementById("display-container");
 let scoreContainer = document.querySelector(".score-container");
-let restart = document.getElementById("restart");
+let restartBtn = document.getElementById("restart");
+let homeBtns = document.querySelectorAll(".home");
 let userScore = document.getElementById("user-score");
-let startScreen = document.querySelector(".start-screen");
-let startButton = document.getElementById("start-button");
+let startScreen = document.getElementById("start-screen");
 let questionCount;
 let scoreCount = 0;
-let count = 26;
+let timerSeconds = 26;
 let countdown;
 
-//Questions and Options array
+let currentVolumeName;
 
-function loadFromFile() {
+//To add new volumes
+const volumes = [
+    { label: "Start Volume 1", filePath: "volume1" },
+    { label: "Start Volume 2", filePath: "volume2" },
+    { label: "Start Volume 3", filePath: "volume3" },
+];
+
+//Questions and Options array
+function loadVolume(name) {
     let xhr = new XMLHttpRequest();
 
-    xhr.open("GET", "js.json", false);
+    xhr.open("GET", `${name}.json`, false);
 
     xhr.send();
 
@@ -33,34 +41,23 @@ function loadFromFile() {
 
     return xhr.response;
 }
-//     {
-//         id: "0",
-//         question: "Which is the most widely spoken language in the world?",
-//         options: ["Spanish", "Mandarin", "English", "German"],
-//         correct: "Mandarin",
-//     },
-//     {
-//         id: "1",
-//         question: "Which is the only continent in the world without a desert?",
-//         options: ["North America", "Asia", "Africa", "Europe"],
-//         correct: "Europe",
-//     },
-//     {
-//         id: "2",
-//         question: "Who invented Computer?",
-//         options: ["Charles Babbage", "Henry Luce", "Henry Babbage", "Charles Luce"],
-//         correct: "Charles Babbage",
-//     },
-// ];
 
-let quizArray = JSON.parse(loadFromFile());
+let quizArray = [];
 
 //Restart Quiz
-restart.addEventListener("click", () => {
-    initial();
-    displayContainer.classList.remove("hide");
+restartBtn.addEventListener("click", () => {
+    initial(currentVolumeName);
+    displayContainer.style.display = "block";
     scoreContainer.classList.add("hide");
 });
+
+homeBtns.forEach((button) =>
+    button.addEventListener("click", () => {
+        displayContainer.style.display = "none";
+        startScreen.style.display = "grid";
+        scoreContainer.classList.add("hide");
+    })
+);
 
 //Next Button
 nextBtn.addEventListener(
@@ -71,18 +68,18 @@ nextBtn.addEventListener(
         //if last question
         if (questionCount == quizArray.length) {
             //hide question container and display score
-            displayContainer.classList.add("hide");
+            displayContainer.style.display = "none";
             scoreContainer.classList.remove("hide");
             //user score
-            userScore.innerHTML =
-                "Your score is " + scoreCount + " out of " + questionCount;
+            userScore.innerHTML = `Your score is ${scoreCount} out of ${questionCount} <br> <strong>${(scoreCount / questionCount).toFixed(1) * 100
+                }%</strong>`;
         } else {
             //display questionCount
             countOfQuestion.innerHTML =
                 questionCount + 1 + " of " + quizArray.length + " Question";
             //display quiz
             quizDisplay(questionCount);
-            count = 26;
+            timerSeconds = 26;
             clearInterval(countdown);
             timerDisplay();
         }
@@ -92,9 +89,9 @@ nextBtn.addEventListener(
 //Timer
 const timerDisplay = () => {
     countdown = setInterval(() => {
-        count--;
-        timeLeft.innerHTML = `${count}s`;
-        if (count == 0) {
+        timerSeconds--;
+        timeLeft.innerHTML = `${timerSeconds}s`;
+        if (timerSeconds == 0) {
             clearInterval(countdown);
             displayNext();
         }
@@ -113,8 +110,10 @@ const quizDisplay = (questionCount) => {
 };
 
 //Quiz Creation
-function quizCreator() {
+function quizCreator(volumeName) {
     //randomly sort questions
+    quizArray = JSON.parse(loadVolume(volumeName));
+
     quizArray.sort(() => Math.random() - 0.5);
     //generate quiz
     for (let i of quizArray) {
@@ -171,26 +170,34 @@ function checker(userOption) {
 }
 
 //initial setup
-function initial() {
+function initial(volumeName) {
+    currentVolumeName = volumeName;
+    startScreen.style.display = "none";
+    displayContainer.style.display = "block";
     quizContainer.innerHTML = "";
     questionCount = 0;
     scoreCount = 0;
-    count = 26;
+    timerSeconds = 26;
+
     clearInterval(countdown);
     timerDisplay();
-    quizCreator();
+    quizCreator(volumeName);
     quizDisplay(questionCount);
 }
 
-//when user click on start button
-startButton.addEventListener("click", () => {
-    startScreen.classList.add("hide");
-    displayContainer.classList.remove("hide");
-    initial();
-});
+function createVolumeButton(label) {
+    let button = document.createElement("button");
+    button.className = "primary-button";
+    button.innerText = label;
+    return button;
+}
 
-//hide quiz and display start screen
-window.onload = () => {
-    startScreen.classList.remove("hide");
-    displayContainer.classList.add("hide");
-};
+//when user click on start button
+volumes.forEach((volume) => {
+    const createdButton = createVolumeButton(volume.label);
+    startScreen.appendChild(createdButton);
+
+    createdButton.addEventListener("click", () => {
+        initial(volume.filePath);
+    });
+});
