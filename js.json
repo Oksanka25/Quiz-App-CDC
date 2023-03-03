@@ -495,14 +495,575 @@
         "correct": "a. To identify situations out of the ordinary."
     },
     {
-        "id": "",
-        "question": "",
+        "id": "44",
+        "question": "At which of the following voltages can you work from the structure using rubber gloves?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "a. 24,900 volts and below.",
+            "b. 13,800 volts and below.",
+            "c. 13,200 volts and below.",
+            "d. 4,160 volts and below."
         ],
-        "correct": ""
+        "correct": "d. 4,160 volts and below."
+    },
+    {
+        "id": "45",
+        "question": "Which safety briefing point is not covered during a tailgate meeting? ",
+        "options": [
+            "a. Special practices or grounding requirements.",
+            "b. Certification of live line maintenance.",
+            "c. Description of the work to be done.",
+            "d. Identification of the work site."
+        ],
+        "correct": "b. Certification of live line maintenance."
+    },
+    {
+        "id": "46",
+        "question": "What document is used to record system problems, such as outages, surges, or low voltages?",
+        "options": [
+            "a. Power outage log.",
+            "b. Special procedure log.",
+            "c. Emergency maintenance record",
+            "d. Emergency operations checklist."
+        ],
+        "correct": "a. Power outage log."
+    },
+    {
+        "id": "47",
+        "question": " What records are kept to make sure proper maintenance and repair are done on the electrical distribution system?",
+        "options": [
+            "a. Equipment records only.",
+            "b. Maintenance records only.",
+            "c. Equipment and maintenance records.",
+            "d. Equipment, maintenance, and computer data records."
+        ],
+        "correct": "c. Equipment and maintenance records."
+    },
+    {
+        "id": "48",
+        "question": "Which of the following is not required to establish a proper maintenance program?",
+        "options": [
+            "a. Knowing the scope of work.",
+            "b. Establishing methods of application.",
+            "c. Establishing intervals of performance.",
+            "d. Having adequate and dependable supply of power."
+        ],
+        "correct": "d. Having adequate and dependable supply of power."
+    },
+    {
+        "id": "49",
+        "question": "Which instrument gives immediate qualitative information on the degree and type of distortion?",
+        "options": [
+            "a. Oscilloscope.",
+            "b. Wave analyzer.",
+            "c. Frequency meter.",
+            "d. Spectrum analyzer."
+        ],
+        "correct": "a. Oscilloscope."
+    },
+    {
+        "id": "50",
+        "question": " What frequencies, in hertz (Hz), are the most common for transmission of electrical power?",
+        "options": [
+            "a. 50, 60, 5.",
+            "b. 25, 50, 60.",
+            "c. 25, 50, 400.",
+            "d. 50, 60, 400."
+        ],
+        "correct": "d. 50, 60, 400."
+    },
+    {
+        "id": "51",
+        "question": "The output voltage of the electronic voltage regulator circuit",
+        "options": [
+            "a. cannot be adjusted to a specific value.",
+            "b. can be adjusted to a specific value.",
+            "c. is adjusted by the manufacturer.",
+            "d. is adjusted automatically."
+        ],
+        "correct": "b. can be adjusted to a specific value."
+    },
+    {
+        "id": "52",
+        "question": "What purpose does the zener diode in the electronic voltage regulator serve?",
+        "options": [
+            "a. Acts as a biasing source.",
+            "b. Regulates output voltage.",
+            "c. Sets the reference voltage.",
+            "d. Provides transistor reverse bias."
+        ],
+        "correct": "c. Sets the reference voltage."
+    },
+    {
+        "id": "53",
+        "question": "Input resistance to a common collector amplifier is high because the emitter signal opposes the",
+        "options": [
+            "a. base signal.",
+            "b. base resistance.",
+            "c. collector signal.",
+            "d. output resistance."
+        ],
+        "correct": "a. base signal."
+    },
+    {
+        "id": "54",
+        "question": "The process of returning a part of the output of an amplifier back to its input in such a manner that it cancels part of the input signal is known as",
+        "options": [
+            "a. degeneration.",
+            "b. signal cancellation.",
+            "c. high-input impedance.",
+            "d. regenerative feedback."
+        ],
+        "correct": "a. degeneration."
+    },
+    {
+        "id": "55",
+        "question": "Which gain characteristics of a common base transistor amplifier is less than one?",
+        "options": [
+            "a. Impedance.",
+            "b. Voltage.",
+            "c. Current.",
+            "d. Power."
+        ],
+        "correct": "c. Current."
+    },
+    {
+        "id": "56",
+        "question": "The controlling element in a common base configuration is the",
+        "options": [
+            "a. emitter.",
+            "b. collector.",
+            "c. emitter base.",
+            "d. collector base."
+        ],
+        "correct": "a. emitter."
+    },
+    {
+        "id": "57",
+        "question": " What does the positive alternation of an input signal to the base of an NPN transistor in a common emitter configuration cause?",
+        "options": [
+            "a. An increase in collector current.",
+            "b. A decrease in collector current.",
+            "c. An increase in base current.",
+            "d. A decrease in base current."
+        ],
+        "correct": "c. An increase in base current."
+    },
+    {
+        "id": "58",
+        "question": "In the common emitter configuration, the input is between the emitter and base and the output is between the",
+        "options": [
+            "a. base and collector.",
+            "b. base and common.",
+            "c. emitter and common.",
+            "d. collector and emitter."
+        ],
+        "correct": "d. collector and emitter."
+    },
+    {
+        "id": "59",
+        "question": "What does the word electronics mean?",
+        "options": [
+            "a. Vacuum.",
+            "b. Optimum current flow.",
+            "c. Precise voltage regulation.",
+            "d. Applications involving the control of electricity."
+        ],
+        "correct": "d. Applications involving the control of electricity."
+    },
+    {
+        "id": "60",
+        "question": "An electron is considered a free electron when it reaches the",
+        "options": [
+            "a. nucleus.",
+            "b. valence band.",
+            "c. forbidden level.",
+            "d. conduction band."
+        ],
+        "correct": "d. conduction band."
+    },
+    {
+        "id": "61",
+        "question": "A positive mobile charge is considered",
+        "options": [
+            "a. hole.",
+            "b. valence.",
+            "c. nucleus.",
+            "d. rectifier."
+        ],
+        "correct": "a. hole."
+    },
+    {
+        "id": "62",
+        "question": "Excessive external heat applied to electronic components",
+        "options": [
+            "a. has no adverse effects.",
+            "b. causes increased current flow",
+            "c. causes decreased current flow.",
+            "d. improves operation of components."
+        ],
+        "correct": "b. causes increased current flow."
+    },
+    {
+        "id": "63",
+        "question": "Which device should only be used in direct current (DC) circuits?",
+        "options": [
+            "a. Electrolytic capacitors.",
+            "b. Capacitors.",
+            "c. Resistors.",
+            "d. Diodes."
+        ],
+        "correct": "a. Electrolytic capacitors."
+    },
+    {
+        "id": "64",
+        "question": "Which of the following is another term for a diode? ",
+        "options": [
+            "a. PN junction.",
+            "b. PN resistor.",
+            "c. Amplifier.",
+            "d. Triac."
+        ],
+        "correct": "a. PN junction."
+    },
+    {
+        "id": "65",
+        "question": " Which multimeter lead connection is used to read forward bias on a diode?",
+        "options": [
+            "a. Polarity does not matter.",
+            "b. Black to cathode.",
+            "c. Black to anode.",
+            "d. Red to cathode."
+        ],
+        "correct": "b. Black to cathode."
+    },
+    {
+        "id": "66",
+        "question": "What does the arrow in semiconductors indicate?",
+        "options": [
+            "a. The direction of minority current receivers.",
+            "b. The direction of majority current carriers.",
+            "c. The direction of electron flow.",
+            "d. The direction of hole current."
+        ],
+        "correct": "d. The direction of hole current."
+    },
+    {
+        "id": "67",
+        "question": "What does a flat side or shorter lead on some light emitting diodes indicate?",
+        "options": [
+            "a. Low voltage side.",
+            "b. Anode.",
+            "c. Junction.",
+            "d. Cathode."
+        ],
+        "correct": "d. Cathode."
+    },
+    {
+        "id": "68",
+        "question": "What is a zener diode typically used for?",
+        "options": [
+            "a. Current negation.",
+            "b. Current oscillation.",
+            "c. Voltage regulation.",
+            "d. Voltage amplification."
+        ],
+        "correct": "c. Voltage regulation."
+    },
+    {
+        "id": "69",
+        "question": "How are the electrode leads identified and labeled on a Bipolar Junction Transistor?",
+        "options": [
+            "a. Positive and negative.",
+            "b. Anode and cathode.",
+            "c. Emitter, base, and collector.",
+            "d. Anode, cathode, and gate."
+        ],
+        "correct": "c. Emitter, base, and collector."
+    },
+    {
+        "id": "70",
+        "question": "Which letter combinations are types of Bipolar Junction Transistors?",
+        "options": [
+            "a. PNPN, NPNP.",
+            "b. NNPP, PPNN.",
+            "c. PNN, NPP.",
+            "d. NPN, PNP."
+        ],
+        "correct": "d. NPN, PNP."
+    },
+    {
+        "id": "71",
+        "question": "How many layers of semiconducting material does a silicon controlled rectifier (SCR) have?",
+        "options": [
+            "a. Two.",
+            "b. Three.",
+            "c. Four.",
+            "d. Five."
+        ],
+        "correct": "c. Four."
+    },
+    {
+        "id": "72",
+        "question": "How is the emitter base junction on a transistor connected?",
+        "options": [
+            "a. Forward biased.",
+            "b. Reverse biased.",
+            "c. Front biased.",
+            "d. Rear biased."
+        ],
+        "correct": "a. Forward biased."
+    },
+    {
+        "id": "73",
+        "question": "How does the base of a transistor normally receive its control voltage?",
+        "options": [
+            "a. Multiplexor circuit.",
+            "b. Voltage divider circuit.",
+            "c. Independent battery circuit.",
+            "d. Separately derived power source."
+        ],
+        "correct": "b. Voltage divider circuit."
+    },
+    {
+        "id": "74",
+        "question": "Transistors can be connected in how many configurations?",
+        "options": [
+            "a. Two.",
+            "b. Three.",
+            "c. Four.",
+            "d. Six."
+        ],
+        "correct": "b. Three."
+    },
+    {
+        "id": "75",
+        "question": "What controls the conduction time of a silicon controlled rectifier (SCR)?",
+        "options": [
+            "a. A decrease in forward bias.",
+            "b. A decrease in reverse bias.",
+            "c. Anode current.",
+            "d. Gate current."
+        ],
+        "correct": "d. Gate current."
+    },
+    {
+        "id": "76",
+        "question": "How do you turn off a silicon controlled rectifier (SCR) in a minimum amount of time?",
+        "options": [
+            "a. Apply reverse bias to the gate.",
+            "b. Apply forward bias to the gate.",
+            "c. Apply reverse bias to the anode.",
+            "d. Apply forward bias to the anode."
+        ],
+        "correct": "c. Apply reverse bias to the anode."
+    },
+    {
+        "id": "77",
+        "question": "Information showing the location of installed distribution equipment should be kept",
+        "options": [
+            "a. on the maintenance truck.",
+            "b. on a distribution map in the shop.",
+            "c. in the distribution substation house.",
+            "d. in the base civil engineer's (BCE) office."
+        ],
+        "correct": "b. on a distribution map in the shop."
+    },
+    {
+        "id": "78",
+        "question": "What is developed for logic gate circuits to determine signal output?",
+        "options": [
+            "a. Truth tables.",
+            "b. Sizing charts.",
+            "c. Component values.",
+            "d. Operating thresholds."
+        ],
+        "correct": "a. Truth tables."
+    },
+    {
+        "id": "79",
+        "question": "Which of the following is not a logic gate?",
+        "options": [
+            "a. NAND.",
+            "b. STOP.",
+            "c. NOR.",
+            "d. OR."
+        ],
+        "correct": "b. STOP."
+    },
+    {
+        "id": "80",
+        "question": "The two purposes of the load resistor of a half-wave rectifier is to develop the output signal and to",
+        "options": [
+            "a. provide reverse bias.",
+            "b. determine output amplitude.",
+            "c. limit current flow to a safe level.",
+            "d. limit output voltage to a safe level."
+        ],
+        "correct": "c. limit current flow to a safe level."
+    },
+    {
+        "id": "81",
+        "question": "If the input frequency to a half-wave rectifier is 120 Hz, its output ripple frequency is",
+        "options": [
+            "a. 120 hertz (Hz).",
+            "b. 240 Hz.",
+            "c. 60 pulses per second (pps).",
+            "d. 120 pps."
+        ],
+        "correct": "d. 120 pps."
+    },
+    {
+        "id": "82",
+        "question": "A full-wave rectifier can be identified easily on a schematic because it contains",
+        "options": [
+            "a. three diodes.",
+            "b. a center-tapped transformer.",
+            "c. two diodes with a cross resistor.",
+            "d. a side transformer and four diodes."
+        ],
+        "correct": "b. a center-tapped transformer."
+    },
+    {
+        "id": "83",
+        "question": "The breakdown rating for diodes in a full-wave rectifier must be twice as great as the",
+        "options": [
+            "a. breakdown rating of one diode.",
+            "b. half-wave rectifier diode.",
+            "c. average output voltage.",
+            "d. size of the load."
+        ],
+        "correct": "b. half-wave rectifier diode."
+    },
+    {
+        "id": "84",
+        "question": "What frequency is the output ripple of a bridge rectifier with an input frequency of 60 hertz (Hz)?",
+        "options": [
+            "a. 60 Hz.",
+            "b. 60 pulses per second (pps).",
+            "c. 120 pps.",
+            "d. 120 Hz."
+        ],
+        "correct": "c. 120 pps."
+    },
+    {
+        "id": "85",
+        "question": "The output ripple frequency of a three-phase bridge rectifier is how many times the input frequency?",
+        "options": [
+            "a. Three times.",
+            "b. Four times.",
+            "c. Five times.",
+            "d. Six times."
+        ],
+        "correct": "d. Six times."
+    },
+    {
+        "id": "86",
+        "question": "During pole-top rescue, the rope should be ",
+        "options": [
+            "a. tied through the back of the victim's body belt.",
+            "b. tied through the front of the victim's body belt.",
+            "c. passed through the crossarm braces and over the crossarm.",
+            "d. passed around the victim's chest and tied with three half hitches."
+        ],
+        "correct": "d. passed around the victim's chest and tied with three half hitches."
+    },
+    {
+        "id": "87",
+        "question": "When testing the oxygen level of a confined space, the oxygen level should be within what percentage (%)?",
+        "options": [
+            "a. 18-20.",
+            "b. 15-22.",
+            "c. 19.5-23.5",
+            "d. 18.5-22.5."
+        ],
+        "correct": "c. 19.5-23.5"
+    },
+    {
+        "id": "88",
+        "question": "Why does a ripple voltage exist in a circuit powered by a rectifier? ",
+        "options": [
+            "a. The rectifier supplies energy to the load in pulses.",
+            "b. A characteristic of the rectifier is to store energy.",
+            "c. Rectifiers supply a smooth voltage to the load.",
+            "d. It is a characteristic of alternating current."
+        ],
+        "correct": "a. The rectifier supplies energy to the load in pulses."
+    },
+    {
+        "id": "89",
+        "question": "The bowline knot is placed in front of a victim in the two-person method of manhole rescue to",
+        "options": [
+            "The bowline knot is placed in front of a victim in the two-person method of manhole rescue to",
+            "b. prevent the knot from slipping.",
+            "c. prevent the victim's head from hitting the side of the manhole.",
+            "d. allow the victim's head to tilt back, keeping the victim's air passage open."
+        ],
+        "correct": "d. allow the victim's head to tilt back, keeping the victim's air passage open."
+    },
+    {
+        "id": "90",
+        "question": "An inductive (choke) input filter gives a lower output voltage than the capacitive input LC filter and also",
+        "options": [
+            "a. inductive regulation.",
+            "b. high-output impedance.",
+            "c. poor voltage regulation.",
+            "d. better voltage regulation."
+        ],
+        "correct": "d. better voltage regulation."
+    },
+    {
+        "id": "91",
+        "question": "Which of these characteristics are one of the pi-type LC filter?",
+        "options": [
+            "a. Low-input voltage and no voltage regulation.",
+            "b. High-input voltage and no voltage regulation.",
+            "c. Low-output voltage and better voltage regulation.",
+            "d. High-output voltage and better voltage regulation."
+        ],
+        "correct": "d. High-output voltage and better voltage regulation."
+    },
+    {
+        "id": "92",
+        "question": "Which condition exists when you connect the negative battery lead to a cathode?",
+        "options": [
+            "a. Frontal bias.",
+            "b. Neutral bias.",
+            "c. Reverse bias.",
+            "d. Forward bias."
+        ],
+        "correct": "d. Forward bias."
+    },
+    {
+        "id": "93",
+        "question": "The output of a three-phase bridge rectifier is of low amplitude and requires",
+        "options": [
+            "a. very little filtering.",
+            "b. to be stepped up.",
+            "c. heavy filtering.",
+            "d. no filtering."
+        ],
+        "correct": "a. very little filtering."
+    },
+    {
+        "id": "94",
+        "question": "What type of current flow cannot be transformed from a higher voltage to a lower voltage?",
+        "options": [
+            "a. Alternating current.",
+            "b. Direct current.",
+            "c. Low current.",
+            "d. Electric."
+        ],
+        "correct": "b. Direct current."
+    },
+    {
+        "id": "95",
+        "question": "How much current flow is in a circuit with 24 volts applied and with 72-ohms resistance?",
+        "options": [
+            "a. 0.33 amperes.",
+            "b. 3.3 amperes.",
+            "c. 33.0 amperes.",
+            "d. 0.728 amperes."
+        ],
+        "correct": "a. 0.33 amperes."
     }
 ]
