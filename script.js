@@ -98,7 +98,7 @@ const timerDisplay = () => {
             clearInterval(countdown);
             displayNext();
         }
-    }, 1000);
+    }, 2500);
 };
 
 //Display quiz
@@ -175,7 +175,7 @@ function initial() {
     quizContainer.innerHTML = "";
     questionCount = 0;
     scoreCount = 0;
-    count = 25;
+    count = 11;
     clearInterval(countdown);
     timerDisplay();
     quizCreator();
