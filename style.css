@@ -6,8 +6,11 @@
 }
 
 body {
-    /* background-color: #0a69ed; */
-    background-image: url("https://thumbs.dreamstime.com/b/blue-lightning-abstract-electrical-background-195086702.jpg");
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/155/294/538/blue-light-electric-blue-connection-wallpaper-preview.jpg");
+    /* background-image: url("https://thumbs.dreamstime.com/b/blue-lightning-abstract-electrical-background-195086702.jpg"); */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .start-screen,
