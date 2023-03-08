@@ -91,7 +91,7 @@
         "id": "8",
         "question": "What factor normally causes the resistance of a conductor to increase?",
         "options": [
-            "a. Decrease in temperature",
+            "a. Decrease in temperature.",
             "b. Increase in temperature.",
             "c. Decrease in length.",
             "d. Increase in size."
@@ -147,7 +147,7 @@
         "question": "What methods are the two most common for producing voltage?",
         "options": [
             "a. Chemical and mechanical.",
-            "b. Magnetic and mechanical. ",
+            "b. Magnetic and mechanical.",
             "c. Chemical and heat.",
             "d. Magnetic and heat."
         ],
@@ -181,8 +181,8 @@
         "options": [
             "a. Current divided by voltage.",
             "b. Voltage divided by current.",
-            "c. Current divided by resistance",
-            "d. Voltage divided by resistance"
+            "c. Current divided by resistance.",
+            "d. Voltage divided by resistance."
         ],
         "correct": "b. Voltage divided by current."
     },
@@ -300,8 +300,8 @@
         "id": "27",
         "question": "The rules and equations for direct current (DC) circuits apply to alternating current (AC) circuits having",
         "options": [
-            "a. resistive load elements alone",
-            "b. reactive load elements alone",
+            "a. resistive load elements alone.",
+            "b. reactive load elements alone.",
             "c. capacitive load elements alone.",
             "d. resistive and reactive load elements."
         ],
@@ -311,12 +311,12 @@
         "id": "28",
         "question": "A 110-volt alternating current (AC) motor records 20 in-line amperes and the in-line wattmeter shows only 1,936 watts being consumed. What would be the power factor of the AC circuit?",
         "options": [
-            "a. 80 percent power factor (pf)",
+            "a. 80 percent power factor (pf).",
             "b. 83 percent pf.",
             "c. 86 percent pf.",
-            "d. 88 percent pf"
+            "d. 88 percent pf."
         ],
-        "correct": "d. 88 percent pf"
+        "correct": "d. 88 percent pf."
     },
     {
         "id": "29",
@@ -686,7 +686,7 @@
         "question": "Excessive external heat applied to electronic components",
         "options": [
             "a. has no adverse effects.",
-            "b. causes increased current flow",
+            "b. causes increased current flow.",
             "c. causes decreased current flow.",
             "d. improves operation of components."
         ],
