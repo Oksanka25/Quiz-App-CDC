@@ -11,7 +11,7 @@ let userScore = document.getElementById("user-score");
 let startScreen = document.getElementById("start-screen");
 let questionCount;
 let scoreCount = 0;
-let timerSeconds = 26;
+let timerSeconds = 46;
 let countdown;
 
 let currentVolumeName;
@@ -21,6 +21,7 @@ const volumes = [
     { label: "Start Volume 1", filePath: "volume1" },
     { label: "Start Volume 2", filePath: "volume2" },
     { label: "Start Volume 3", filePath: "volume3" },
+    { label: "Start Test Volume ", filePath: "volume8" },
 ];
 
 //Questions and Options array
@@ -79,7 +80,7 @@ nextBtn.addEventListener(
                 questionCount + 1 + " of " + quizArray.length + " Question";
             //display quiz
             quizDisplay(questionCount);
-            timerSeconds = 26;
+            timerSeconds = 46;
             clearInterval(countdown);
             timerDisplay();
         }
@@ -177,7 +178,7 @@ function initial(volumeName) {
     quizContainer.innerHTML = "";
     questionCount = 0;
     scoreCount = 0;
-    timerSeconds = 26;
+    timerSeconds = 46;
 
     clearInterval(countdown);
     timerDisplay();

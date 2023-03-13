@@ -172,6 +172,7 @@
     {
         "question": "18. (208) Which location is the correct location for grounding a system neutral? ",
         "options": [
+            "a. Load side of service entrance.",
             "b. Source side of service entrance.",
             "c. Load side of service entrance and outlets.",
             "d. Source side of service entrance and outlets."

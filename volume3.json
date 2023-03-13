@@ -1,22 +1,702 @@
 [
     {
-        "question": "1. (301) Which section of the Operation and Service Instructions Manual contains instructions for uncrating, installing, and preparing equipment for initial operations?",
+        "question": "1. (401) How many conductors must a clamp-on ammeter encircle to obtain an accurate current reading? ",
         "options": [
-            "a. Section 1.",
-            "b. Section 2.",
-            "c. Section 3.",
-            "d. Section 4."
+            "a. One.",
+            "b. Two.",
+            "c. Three.",
+            "d. Four."
         ],
-        "correct": "c. Section 3."
+        "correct": "a. One."
     },
     {
-        "question": "2. (301) Which section of the Operation and Service Instructions Manual contains step-by-step instructions for starting, operating, and stopping equipment?",
+        "question": "2. (402) Which measurement determines the length of a screwdriver? ",
         "options": [
-            "a. Section 1.",
-            "b. Section 2.",
-            "c. Section 3.",
-            "d. Section 4."
+            "a. Overall length.",
+            "b. Length of the tip.",
+            "c. Length of the shank.",
+            "d. Length of the blade."
         ],
-        "correct": "d. Section 4."
+        "correct": "c. Length of the shank."
+    },
+    {
+        "question": "3. (402) When using an adjustable wrench, why do you not apply a pulling force to the adjustable jaw?",
+        "options": [
+            "a. The wrench is likely to slip.",
+            "b. You could break your wrist.",
+            "c. The wrench is likely to bend.",
+            "d. You could break your fingers."
+        ],
+        "correct": "a. The wrench is likely to slip."
+    },
+    {
+        "question": "4. (403) What tool should you use to cut openings when installing devices in finished walls? ",
+        "options": [
+            "a. Crosscut saw.",
+            "b. Compass saw.",
+            "c. Ripsaw.",
+            "d. Jab saw."
+        ],
+        "correct": "d. Jab saw."
+    },
+    {
+        "question": "5. (403) How is a hacksaw blade installed?",
+        "options": [
+            "a. Users preference.",
+            "b. Teeth facing away from handle.",
+            "c. Teeth facing towards the handle.",
+            "d. Depends on material that is being cut."
+        ],
+        "correct": "b. Teeth facing away from handle."
+    },
+    {
+        "question": "6. (404) What conduit bender is normally used for ½\" and ¾\" EMT?",
+        "options": [
+            "a. Hickey bender.",
+            "b. Electric bender.",
+            "c. One-shot bender.",
+            "d. Hydraulic bender."
+        ],
+        "correct": "c. One-shot bender."
+    },
+    {
+        "question": "7. (405) How do you know when a bit is properly tightened in a cordless drill? ",
+        "options": [
+            "a. Use a wrench to tighten the chuck.",
+            "b. You tighten it ½ turn past snug.",
+            "c. You will hear a clicking sound.",
+            "d. Until it doesn't move."
+        ],
+        "correct": "c. You will hear a clicking sound."
+    },
+    {
+        "question": "8. (406) What is the largest American standard wire gauge (AWG) size electrical wire? ",
+        "options": [
+            "a. 1/0.",
+            "b. 2/0.",
+            "c. 3/0.",
+            "d. 4/0."
+        ],
+        "correct": "d. 4/0."
+    },
+    {
+        "question": "9. (406) The kcmil size range for conductors is ",
+        "options": [
+            "a. 100 to 1,000.",
+            "b. 200 to 2,000.",
+            "c. 250 to 2,000.",
+            "d. 250 to 2,500."
+        ],
+        "correct": "c. 250 to 2,000."
+    },
+    {
+        "question": "10. (407) Pre-punched disks in a box that can be removed easily to permit conduit or cable connectors to be installed are called ",
+        "options": [
+            "a. blanks.",
+            "b. pryouts.",
+            "c. knockouts.",
+            "d. connector disks."
+        ],
+        "correct": "c. knockouts."
+    },
+    {
+        "question": "11. (408) What is the purpose of a raised box cover? ",
+        "options": [
+            "a. Provides space for three additional devices.",
+            "b. Allows for installation of a thicker wall surface after the box is mounted.",
+            "c. Allows the box to be mounted five eighths of an inch behind the wall surface. d. Provides added interior space as well as a cover for the box.",
+            "d. Provides added interior space as well as a cover for the box"
+        ],
+        "correct": "d. Provides added interior space as well as a cover for the box."
+    },
+    {
+        "question": "12. (409) When you are connecting rigid conduit to boxes, what is/are required for circuits above 250 volts?  ",
+        "options": [
+            "a. One locknut and a bushing.",
+            "b. Two locknuts and a bushing.",
+            "c. Two bushings and a locknut.",
+            "d. Two bushings and two locknuts."
+        ],
+        "correct": "b. Two locknuts and a bushing."
+    },
+    {
+        "question": "13. (409) Which condition below is not allowed?  ",
+        "options": [
+            "a. Using flexible metal tubing in lengths less than 6 feet.",
+            "b. Using flexible metal tubing in lengths greater than 6 feet.",
+            "c. Using rigid metal conduit in lengths greater than 6 feet.",
+            "d. Using liquid-tight flexible metal conduit in lengths greater than 6 feet."
+        ],
+        "correct": "b. Using flexible metal tubing in lengths greater than 6 feet."
+    },
+    {
+        "question": "14. (410) Which ratings are always found on switches? ",
+        "options": [
+            "a. Volts and watts.",
+            "b. Amperes and volts.",
+            "c. Amperes and watts.",
+            "d. Resistance and hertz."
+        ],
+        "correct": "b. Amperes and volts."
+    },
+    {
+        "question": "15. (411) What does the label TR signify on duplex receptacles? ",
+        "options": [
+            "a. Test regularly.",
+            "b. Tamper resistant.",
+            "c. Test resistor.",
+            "d. Training regulation."
+        ],
+        "correct": "b. Tamper resistant."
+    },
+    {
+        "question": "16. (412) Which part of a set of blueprints indicates the route of the service entrance? ",
+        "options": [
+            "a. Exterior elevations.",
+            "b. Interior elevations.",
+            "c. Detail drawings.",
+            "d. Plot plan."
+        ],
+        "correct": "d. Plot plan."
+    },
+    {
+        "question": "17. (413) The simplest form of electrical diagrams is the ",
+        "options": [
+            "a. block diagram.",
+            "b. wiring diagram.",
+            "c. schematic diagram.",
+            "d. connection diagram."
+        ],
+        "correct": "a. block diagram."
+    },
+    {
+        "question": "18. (414) The normal color code for wiring a device is ",
+        "options": [
+            "a. white to gold terminal, black to silver.",
+            "b. black to gold terminal, red to silver.",
+            "c. black to gold terminal, white to silver.",
+            "d. red to gold terminal, black to silver."
+        ],
+        "correct": "c. black to gold terminal, white to silver."
+    },
+    {
+        "question": "19. (415) What is the general lighting load of an office building with 1,600 square feet of living area?",
+        "options": [
+            "a. 533 watts.",
+            "b. 560 watts.",
+            "c. 5,333 watts.",
+            "d. 5,600 watts."
+        ],
+        "correct": "d. 5,600 watts."
+    },
+    {
+        "question": "20. (416) What is the total wattage of 9 ballasts rated at 1.5 amps each and fed by 277 volts? ",
+        "options": [
+            "a. 1,350.",
+            "b. 3,739.",
+            "c. 4,155.",
+            "d. 42,930."
+        ],
+        "correct": "b. 3,739."
+    },
+    {
+        "question": "21. (416) Heavy-duty lamp-holder outlets are calculated at ",
+        "options": [
+            "a. 300 volt-ohms.",
+            "b. 300 volt-amperes.",
+            "c. 600 volt-ohms.",
+            "d. 600 volt-amperes."
+        ],
+        "correct": "d. 600 volt-amperes."
+    },
+    {
+        "question": "22. (416) What is the required wattage for lighting of an industrial commercial (loft) building measuring 60 by 100 feet? ",
+        "options": [
+            "a. 6,000.",
+            "b. 12,000.",
+            "c. 18,000.",
+            "d. 24,000."
+        ],
+        "correct": "b. 12,000."
+    },
+    {
+        "question": "23. (417) The code letter on a motor data plate identifies ",
+        "options": [
+            "a. the manufacturer's name.",
+            "b. the voltage required for starting.",
+            "c. the current required for starting.",
+            "d. the locked-rotor current draw."
+        ],
+        "correct": "d. the locked-rotor current draw."
+    },
+    {
+        "question": "24. (418) To determine the total calculated load of a sub-panel, you should add all the amperages of the branch circuits plus what percent of the amperage of the largest motor? ",
+        "options": [
+            "a. 10.",
+            "b. 15.",
+            "c. 25.",
+            "d. 30."
+        ],
+        "correct": "c. 25."
+    },
+    {
+        "question": "25. (419) How many current carrying conductors can be installed in raceway before the current capacity of the conductors must be de-rated? ",
+        "options": [
+            "a. Two.",
+            "b. Three.",
+            "c. Four.",
+            "d. Five."
+        ],
+        "correct": "b. Three."
+    },
+    {
+        "question": "26. (419) All of the following are important when paralleling conductors, except what? ",
+        "options": [
+            "a. All conductors must be the same color.",
+            "b. Phases and neutrals must be separated.",
+            "c. Each neutral is run with its corresponding phases.",
+            "d. All conductors must be of same material, size and length."
+        ],
+        "correct": "b. Phases and neutrals must be separated."
+    },
+    {
+        "question": "27. (420) How many conductors are required for a 3-phase-wye service entrance used for power and lighting? ",
+        "options": [
+            "a. Four ungrounded conductors.",
+            "b. Three ungrounded conductors.",
+            "c. Three ungrounded and one grounded neutral conductors.",
+            "d. Two ungrounded and one grounded neutral conductors."
+        ],
+        "correct": "c. Three ungrounded and one grounded neutral conductors."
+    },
+    {
+        "question": "28. (421) A transformer that has primary and secondary turns in a ratio of 1 to 10, respectively, is a ",
+        "options": [
+            "a. step-up transformer.",
+            "b. power transformer.",
+            "c. step-down transformer.",
+            "d. distribution transformer."
+        ],
+        "correct": "a. step-up transformer."
+    },
+    {
+        "question": "29. (422) Power operated service disconnects are required to be designed so that they can be opened ",
+        "options": [
+            "a. externally.",
+            "b. manually.",
+            "c. quickly.",
+            "d. slowly."
+        ],
+        "correct": "b. manually."
+    },
+    {
+        "question": "30. (423) Two ways to keep rain from entering service entrance (SE) cables are to use a weatherhead or ",
+        "options": [
+            "a. entrance ell.",
+            "b. rain cap.",
+            "c. gooseneck.",
+            "d. junction box."
+        ],
+        "correct": "c. gooseneck."
+    },
+    {
+        "question": "31. (424) An underground distribution system is referred to as a service ",
+        "options": [
+            "a. entrance.",
+            "b. feeder.",
+            "c. lateral.",
+            "d. burial."
+        ],
+        "correct": "c. lateral."
+    },
+    {
+        "question": "32. (424) Underground services installed with cable must be buried to a depth of at least ",
+        "options": [
+            "a. 18 inches.",
+            "b. 24 inches.",
+            "c. 30 inches.",
+            "d. 36 inches."
+        ],
+        "correct": "b. 24 inches."
+    },
+    {
+        "question": "33. (425) In a panel with a neutral, what percentage is the smallest of the overcurrent devices that must be rated at 30 amperes or less for it to be classed as a lighting and appliance panel? ",
+        "options": [
+            "a. 5.",
+            "b. 10.",
+            "c. 20.",
+            "d. 25."
+        ],
+        "correct": "b. 10."
+    },
+    {
+        "question": "34. (426) When installing a panelboard in a damp location, what number of inches is the minimum distance the cabinet must be placed from the wall? ",
+        "options": [
+            "a. 1/8.",
+            "b. 1/4.",
+            "c. 3/8.",
+            "d. 1/2."
+        ],
+        "correct": "b. 1/4."
+    },
+    {
+        "question": "35. (426) The equipment ground bar and neutral bar are bonded together in a panel only when the panelboard also serves as the ",
+        "options": [
+            "a. distribution feeder.",
+            "b. service lateral.",
+            "c. load center.",
+            "d. service entrance equipment."
+        ],
+        "correct": "d. service entrance equipment."
+    },
+    {
+        "question": "36. (426) The purpose of balancing the load on a panelboard is to  ",
+        "options": [
+            "a. reduce voltage drop.",
+            "b. increase voltage drop.",
+            "c. reduce total current flow. d. increase neutral current flow.",
+            "d. increase neutral current flow."
+        ],
+        "correct": "a. reduce voltage drop."
+    },
+    {
+        "question": "37. (427) Which one of these circuits requires the use of GFCI protection? ",
+        "options": [
+            "a. 120 V/20 A receptacles in bathrooms.",
+            "b. 120 V/20 A receptacles in bedrooms.",
+            "c. 240 V/50 A range circuit. d. 240 V/30 A dryer circuit.",
+            "d. 240 V/30 A dryer circuit."
+        ],
+        "correct": "a. 120 V/20 A receptacles in bathrooms."
+    },
+    {
+        "question": "38. (428) The conductors between the final overcurrent devices and the outlets for connecting electrical equipment are called ",
+        "options": [
+            "a. supply conductors.",
+            "b. feeder conductors.",
+            "c. distribution conductors.",
+            "d. branch circuit conductors."
+        ],
+        "correct": "d. branch circuit conductors."
+    },
+    {
+        "question": "39. (429) What number is the CPS (Hertz) rating for most electrical equipment found in foreign countries? ",
+        "options": [
+            "a. 25.",
+            "b. 50.",
+            "c. 60.",
+            "d. 400."
+        ],
+        "correct": "b. 50."
+    },
+    {
+        "question": "40. (430) What electrical component is the normal use of an octagonal box?",
+        "options": [
+            "a. Switches.",
+            "b. Lighting outlet.",
+            "c. Receptacle outlet.",
+            "d. Special purpose receptacle."
+        ],
+        "correct": "b. Lighting outlet."
+    },
+    {
+        "question": "41. (431) What component must be equipped with a metal box used for an old-work installation? ",
+        "options": [
+            "a. F straps.",
+            "b. Support ears.",
+            "c. Spring metal clips.",
+            "d. Self-tapping screws."
+        ],
+        "correct": "b. Support ears."
+    },
+    {
+        "question": "42. (432) What metallic cable has a #16 AWG aluminum bonding wire but does not have a green grounding conductor? ",
+        "options": [
+            "a. .Health care facility cable (HCF)",
+            "b. Mineral insulated cable (MI).",
+            "c. Metal clad cable (MC).",
+            "d. Armored cable (AC)."
+        ],
+        "correct": "d. Armored cable (AC)."
+    },
+    {
+        "question": "43. (433) How is the minimum bend radius of metal clad cable calculated? ",
+        "options": [
+            "a. Multiply the radius of the cable by 5.",
+            "b. Multiply the cables outside diameter by 5.",
+            "c. Multiply the cables outside diameter by 7.",
+            "d. Multiply the radius of the cable by 7."
+        ],
+        "correct": "c. Multiply the cables outside diameter by 7."
+    },
+    {
+        "question": "44. (434) A pigtail splice is finished with ",
+        "options": [
+            "a. plastic tape.",
+            "b. a wire nut.",
+            "c. epoxy resin.",
+            "d. rubber and friction tape."
+        ],
+        "correct": "b. a wire nut."
+    },
+    {
+        "question": "45. (435) In addition to the splices required, grounding connections must be made to the boxes used in a circuit to ensure that they are ",
+        "options": [
+            "a. \"hot.\"",
+            "b. \"cold.\"",
+            "c. grounded.",
+            "d. insulated."
+        ],
+        "correct": "c. grounded."
+    },
+    {
+        "question": "46. (436) The maximum weight of a fixture that can be supported by an outlet box is",
+        "options": [
+            "a. 10 pounds.",
+            "b. 20 pounds.",
+            "c. 40 pounds.",
+            "d. 50 pounds."
+        ],
+        "correct": "d. 50 pounds."
+    },
+    {
+        "question": "47. (437) What is the taper per inch standard conduit-cutting die used on rigid metal conduit? ",
+        "options": [
+            "a. 1/4 inch.",
+            "b. 1/2 inch.",
+            "c. 3/4 inch.",
+            "d. 1 inch."
+        ],
+        "correct": "c. 3/4 inch."
+    },
+    {
+        "question": "48. (438) Bends made to conduit while on the job are called ",
+        "options": [
+            "a. field bends.",
+            "b. manual bends.",
+            "c. working bends.",
+            "d. handmade bends."
+        ],
+        "correct": "a. field bends."
+    },
+    {
+        "question": "49. (439) When a number of conduit runs are to be installed parallel and adjacent to each other you should install the  ",
+        "options": [
+            "a. largest conduit first.",
+            "b. smallest conduit first.",
+            "c. smallest conduit on top. d. conduit all at the same time.",
+            "d. conduit all at the same time."
+        ],
+        "correct": "d. conduit all at the same time."
+    },
+    {
+        "question": "50. (439) Electrical metallic tubing (EMT) and IMC require supports within how many inches and feet of each outlet box, junction box, cabinet, or fitting, and every other foot thereafter. ",
+        "options": [
+            "a. 36 inches/10 feet.",
+            "b. 18 inches/5feet.",
+            "c. 12 inches/3 feet.",
+            "d. 18 inches/5 feet."
+        ],
+        "correct": "a. 36 inches/10 feet."
+    },
+    {
+        "question": "51. (440) The number of conductors you can put in conduit is based on the ",
+        "options": [
+            "a. size of conduit, conductor insulation, and length of run.",
+            "b. size of conduit, conductor size, and conductor insulation.",
+            "c. size of conductor, length of run, and number of bends.",
+            "d. conductor insulation , length of run, and number of bends."
+        ],
+        "correct": "b. size of conduit, conductor size, and conductor insulation."
+    },
+    {
+        "question": "52. (441) Which of these items is not a part of a direct current (DC) motor? ",
+        "options": [
+            "a. Stator.",
+            "b. Endbells.",
+            "c. Armature.",
+            "d. Brush assembly."
+        ],
+        "correct": "a. Stator."
+    },
+    {
+        "question": "53. (442) The direct current (DC) shunt motor connects the field coils and armature in ",
+        "options": [
+            "a. series.",
+            "b. parallel.",
+            "c. series-parallel.",
+            "d. parallel-series."
+        ],
+        "correct": "b. parallel."
+    },
+    {
+        "question": "54. (443) The component of a three-phase motor connected to the load is the ",
+        "options": [
+            "a. armature.",
+            "b. endbell.",
+            "c. rotor.",
+            "d. stator."
+        ],
+        "correct": "c. rotor."
+    },
+    {
+        "question": "55. (444) The magnetic field of a three-phase motor rotor is caused by a. resistance in the squirrel cage. b. current flow in the rotor. ",
+        "options": [
+            "a. resistance in the squirrel cage.",
+            "b. current flow in the rotor.",
+            "c. impedance of the stator.",
+            "d. voltage in the end bells."
+        ],
+        "correct": "b. current flow in the rotor."
+    },
+    {
+        "question": "56. (445) Which of the following features describes three-phase motors best?",
+        "options": [
+            "a. Either single- or dual-voltage motors.",
+            "b. Must be supplied by 220 volts.",
+            "c. Always single-voltage motors.",
+            "d. Always dual-voltage motors."
+        ],
+        "correct": "a. Either single- or dual-voltage motors."
+    },
+    {
+        "question": "57. (446) The motor that requires some starting means is the ",
+        "options": [
+            "a. universal motor.",
+            "b. direct current (DC) shunt motor.",
+            "c. three-phase alternating current (AC) motor.",
+            "d. single-phase AC motor."
+        ],
+        "correct": "d. single-phase AC motor."
+    },
+    {
+        "question": "58. (447) Which of the following motors has the highest horsepower-to-weight ratio? ",
+        "options": [
+            "a. Direct current shunt motor.",
+            "b. Universal motor.",
+            "c. Three-phase dual-voltage motor.",
+            "d. Single-phase capacitor start motor."
+        ],
+        "correct": "b. Universal motor."
+    },
+    {
+        "question": "59. (448) A single-phase motor with external leads numbered T1, T2, T3, T4 is what type? ",
+        "options": [
+            "a. Single-voltage nonreversible.",
+            "b. Single-voltage reversible.",
+            "c. Dual-voltage nonreversible.",
+            "d. Dual-voltage reversible."
+        ],
+        "correct": "c. Dual-voltage nonreversible."
+    },
+    {
+        "question": "60. (449) Normally, an across-the-line motor control incorporates some type of ",
+        "options": [
+            "a. motor over-current protection.",
+            "b. lightning protection.",
+            "c. motor speed control.",
+            "d. frequency control."
+        ],
+        "correct": "a. motor over-current protection."
+    },
+    {
+        "question": "61. (450) The basic types of overload relays are ",
+        "options": [
+            "a. thermal and magnetic.",
+            "b. single- and three-phase.",
+            "c. mechanical and magnetic.",
+            "d. undervoltage and overcurrent."
+        ],
+        "correct": "a. thermal and magnetic."
+    },
+    {
+        "question": "62. (451) The methods used to open the contacts on an across-the-line magnetic controller are ",
+        "options": [
+            "a. spring tension and gravity.",
+            "b. magnetic and thermal.",
+            "c. thermal and hydraulic.",
+            "d. metallic and magnetic."
+        ],
+        "correct": "a. spring tension and gravity."
+    },
+    {
+        "question": "63. (451) A temperature-sensitive device to operate a magnetic across-the-line starter automatically is a ",
+        "options": [
+            "a. thermostat.",
+            "b. float switch.",
+            "c. pressure switch.",
+            "d. photoelectric cell."
+        ],
+        "correct": "a. thermostat."
+    },
+    {
+        "question": "64. (452) What are the three sections of a variable frequency drive? ",
+        "options": [
+            "a. Converter, alternating current (AC) Bus, and Inverter.",
+            "b. Converter, direct current (DC) Bus, and Inverter.",
+            "c. Pulse width modulation (PWM) Converter, DC Bus, and Inverter.",
+            "d. Converter, Rectifier, and Inverter."
+        ],
+        "correct": "b. Converter, direct current (DC) Bus, and Inverter."
+    },
+    {
+        "question": "65. (453) What type of bearing should be used in a vertically-mounted motor?",
+        "options": [
+            "a. Oillite sleeve.",
+            "b. Bronze sleeve.",
+            "c. Ball or roller.",
+            "d. Phenolic and brass sleeve."
+        ],
+        "correct": "c. Ball or roller."
+    },
+    {
+        "question": "66. (454) When you clean a motor with compressed air, what is the maximum air pressure to use? ",
+        "options": [
+            "a. 15 pounds per square inch (psi).",
+            "b. 30 psi",
+            "c. 35 psi.",
+            "d. 50 psi."
+        ],
+        "correct": "b. 30 psi."
+    },
+    {
+        "question": "67. (455) If a motor has been operating normally but suddenly stops, you should suspect ",
+        "options": [
+            "a. improper connections.",
+            "b. electrical overload.",
+            "c. overvoltage.",
+            "d. worn brushes."
+        ],
+        "correct": "c. overvoltage."
+    },
+    {
+        "question": "68. (455) The end play of a motor should not exceed ",
+        "options": [
+            "a. 1/8 of an inch.",
+            "b. 1/16 of an inch.",
+            "c. 1/32 of an inch.",
+            "d. 1/64 of an inch."
+        ],
+        "correct": "d. 1/64 of an inch."
+    },
+    {
+        "question": "69. (456) The conductor common to both the starting and holding circuits is connected to terminal ",
+        "options": [
+            "a. L1.",
+            "b. T1.",
+            "c. L2.",
+            "d. T2."
+        ],
+        "correct": "a. L1"
+    },
+    {
+        "question": "70. (457) A motor that operates slowly may have a ",
+        "options": [
+            "a. deficient voltage supply.",
+            "b. ventilation problem.",
+            "c. bad conductor.",
+            "d. blown fuse."
+        ],
+        "correct": "a. deficient voltage supply."
     }
 ]
