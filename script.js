@@ -21,6 +21,7 @@ const volumes = [
     { label: "Start Volume 1", filePath: "volume1" },
     { label: "Start Volume 2", filePath: "volume2" },
     { label: "Start Volume 3", filePath: "volume3" },
+    { label: "Start Volumes 1-3", filePath: "volume1-3" },
     { label: "Start Test Volume ", filePath: "volume8" },
 ];
 

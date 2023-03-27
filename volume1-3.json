@@ -1,0 +1,2477 @@
+[
+    {
+        "id": "0",
+        "question": "What two different ways can scientists can combine elements?",
+        "options": [
+            "a. Atoms or molecules.",
+            "b. Atoms or compounds.",
+            "c. Molecules or mixtures.",
+            "d. Compounds or mixtures."
+        ],
+        "correct": "d. Compounds or mixtures."
+    },
+    {
+        "id": "1",
+        "question": " In which shell of an atom are the valence electrons located?",
+        "options": [
+            "a. The outermost.",
+            "b. The middle.",
+            "c. The second.",
+            "d. The first."
+        ],
+        "correct": "a. The outermost."
+    },
+    {
+        "id": "2",
+        "question": "How would you best describes a positive ion?",
+        "options": [
+            "a. An atom that has an equal number of electrons and protons.",
+            "b. An atom that lost an electron and has more protons.",
+            "c. An atom that lost a proton and has more electrons.",
+            "d. An atom that cannot throw off any protons."
+        ],
+        "correct": "b. An atom that lost an electron and has more protons."
+    },
+    {
+        "id": "3",
+        "question": "What material permits a large number of free electrons to move through it?",
+        "options": [
+            "a. Conductor.",
+            "b. Insulator.",
+            "c. Resistor.",
+            "d. Ion."
+        ],
+        "correct": "a. Conductor."
+    },
+    {
+        "id": "4",
+        "question": "Which smallest current can be fatal under certain conditions?",
+        "options": [
+            "a. One-half of 1 amp",
+            "b. One-third of 1 amp.",
+            "c. One-tenth of 1 amp.",
+            "d. One-eighth of 1 amp."
+        ],
+        "correct": "c. One-tenth of 1 amp."
+    },
+    {
+        "id": "5",
+        "question": "What is used to move a sufficient number of electrons to perform a useful job?",
+        "options": [
+            "a. Heat.",
+            "b. Current.",
+            "c. Voltage.",
+            "d. Inductance."
+        ],
+        "correct": "c. Voltage."
+    },
+    {
+        "id": "6",
+        "question": "How is resistance defined with respect to electricity?",
+        "options": [
+            "a. The movement of electrons through a conductor.",
+            "b. The opposition to voltage in an electrical circuit.",
+            "c. The potential difference offered by a material.",
+            "d. The opposition to current flow."
+        ],
+        "correct": "d. The opposition to current flow."
+    },
+    {
+        "id": "7",
+        "question": "According to Ohm's law, how much voltage is needed to push one ampere of current through one ohm of resistance?",
+        "options": [
+            "a. 0.1 volt.",
+            "b. 1 volt.",
+            "c. 10 volts.",
+            "d. 100 volts."
+        ],
+        "correct": "b. 1 volt."
+    },
+    {
+        "id": "8",
+        "question": "What factor normally causes the resistance of a conductor to increase?",
+        "options": [
+            "a. Decrease in temperature.",
+            "b. Increase in temperature.",
+            "c. Decrease in length.",
+            "d. Increase in size."
+        ],
+        "correct": "b. Increase in temperature."
+    },
+    {
+        "id": "9",
+        "question": "What unit of measurement is used to measure electrical power?",
+        "options": [
+            "a. Watts.",
+            "b. Volts.",
+            "c. Amps.",
+            "d. Ohms."
+        ],
+        "correct": "a. Watts."
+    },
+    {
+        "id": "10",
+        "question": "How much power does a 3-horsepower motor consumes?",
+        "options": [
+            "a. 0.755 kilowatts (kW).",
+            "b. 1.534 kW.",
+            "c. 2.238 kW.",
+            "d. 2.023 kW."
+        ],
+        "correct": "c. 2.238 kW."
+    },
+    {
+        "id": "11",
+        "question": "When do the magnetic lines of force in a magnet cross?",
+        "options": [
+            "a. When the north pole of a magnet is placed near the north pole of another magnet.",
+            "b. When the south pole of a magnet is placed near the north pole of another magnet.",
+            "c. When a permanent magnet and a temporary magnet are put together.",
+            "d. Magnetic lines of force never cross each other."
+        ],
+        "correct": "d. Magnetic lines of force never cross each other."
+    },
+    {
+        "id": "12",
+        "question": "How can a polarity be created and the strength of the magnetic lines of force around a conductor be increased?",
+        "options": [
+            "a. By decreasing current.",
+            "b. By increasing resistance.",
+            "c. By looping coils close together.",
+            "d. By increasing the size of the conductor."
+        ],
+        "correct": "c. By looping coils close together."
+    },
+    {
+        "id": "13",
+        "question": "What methods are the two most common for producing voltage?",
+        "options": [
+            "a. Chemical and mechanical.",
+            "b. Magnetic and mechanical.",
+            "c. Chemical and heat.",
+            "d. Magnetic and heat."
+        ],
+        "correct": "a. Chemical and mechanical."
+    },
+    {
+        "id": "14",
+        "question": " What three things are needed to produce voltage by the principle of electromagnetic induction?",
+        "options": [
+            "a. Coil, core, and current.",
+            "b. Magnet, housing, and prime mover.",
+            "c. Coil, conductors, and relative motion.",
+            "d. Magnetic field, a conductor, and relative motion."
+        ],
+        "correct": "d. Magnetic field, a conductor, and relative motion."
+    },
+    {
+        "id": "15",
+        "question": "What type of current flow is the result of voltages produced by batteries and thermocouples?",
+        "options": [
+            "a. Direct current.",
+            "b. Alternating current.",
+            "c. Easily transformed current.",
+            "d. Current of no commercial value."
+        ],
+        "correct": "a. Direct current."
+    },
+    {
+        "id": "16",
+        "question": "Which formula is the correct one for finding the resistance of a circuit?",
+        "options": [
+            "a. Current divided by voltage.",
+            "b. Voltage divided by current.",
+            "c. Current divided by resistance.",
+            "d. Voltage divided by resistance."
+        ],
+        "correct": "b. Voltage divided by current."
+    },
+    {
+        "id": "17",
+        "question": "How much resistance of a circuit is applied with voltage of 120 volts and a current flow of 9 amperes?",
+        "options": [
+            "a. 0.13 ohms.",
+            "b. 1.3 ohms.",
+            "c. 13.33 ohms.",
+            "d. 108 ohms."
+        ],
+        "correct": "c. 13.33 ohms."
+    },
+    {
+        "id": "18",
+        "question": "What ohm measurement is the total resistance of a 5-ohm resistor and a 20-ohm resistor in parallel?",
+        "options": [
+            "a. 2 ohms.",
+            "b. 2.5 ohms.",
+            "c. 4 ohms.",
+            "d. 5.5 ohms."
+        ],
+        "correct": "c. 4 ohms."
+    },
+    {
+        "id": "19",
+        "question": "What ohm measurement is the total resistance of a 4-ohm resistor, a 10-ohm resistor, and a 12-ohm resistor in parallel?",
+        "options": [
+            "a. 2.3 ohms.",
+            "b. 3.2 ohms.",
+            "c. 3.9 ohms.",
+            "d. 4.2 ohms."
+        ],
+        "correct": "a. 2.3 ohms."
+    },
+    {
+        "id": "20",
+        "question": " What measurement is the current flow in amperes of a circuit with an applied voltage of 120 volts and a power consumption of 600 watts?",
+        "options": [
+            "a. 0.5 amperes.",
+            "b. 2 amperes.",
+            "c. 2.5 amperes.",
+            "d. 5 amperes."
+        ],
+        "correct": "d. 5 amperes."
+    },
+    {
+        "id": "21",
+        "question": "What amount of power in watts is consumed by a circuit with 120 volts applied and a resistance of 12 ohms?",
+        "options": [
+            "a. 10 watts.",
+            "b. 12 watts.",
+            "c. 1200 watts.",
+            "d. 1440 watts."
+        ],
+        "correct": "c. 1200 watts."
+    },
+    {
+        "id": "22",
+        "question": " How many watts of power are present in a 5-ohm unit of resistance in which 2 amperes are flowing?",
+        "options": [
+            "a. 20 watts.",
+            "b. 15 watts.",
+            "c. 10 watts.",
+            "d. 2.5 watts."
+        ],
+        "correct": "a. 20 watts."
+    },
+    {
+        "id": "23",
+        "question": "What completes an electrical cycle of an alternating current (AC) generator?",
+        "options": [
+            "a. One positive and two negative alternations in one second.",
+            "b. One positive and one negative alternation.",
+            "c. One negative alternation.",
+            "d. One positive alternation."
+        ],
+        "correct": "b. One positive and one negative alternation."
+    },
+    {
+        "id": "24",
+        "question": "How many rotations per minute (rpm) must a two-pole generator rotate to produce 60 hertz",
+        "options": [
+            "a. 1,200 rpm.",
+            "b. 1,800 rpm.",
+            "c. 3,600 rpm.",
+            "d. 4,000 rpm."
+        ],
+        "correct": "c. 3,600 rpm."
+    },
+    {
+        "id": "25",
+        "question": "How is the measurement of the apparent power of an alternating current (AC) electrical system expressed?",
+        "options": [
+            "a. Volt-amperes.",
+            "b. Kilovolt-amperes.",
+            "c. Millivolt-amperes.",
+            "d. Picovolt-amperes."
+        ],
+        "correct": "b. Kilovolt-amperes."
+    },
+    {
+        "id": "26",
+        "question": "What is the capacitance of a 125 microfarads (μF) capacitor when converted to farads?",
+        "options": [
+            "a. .000125 F.",
+            "b. .00125 F.",
+            "c. .0125 F.",
+            "d. 0.125 F."
+        ],
+        "correct": "a. .000125 F."
+    },
+    {
+        "id": "27",
+        "question": "The rules and equations for direct current (DC) circuits apply to alternating current (AC) circuits having",
+        "options": [
+            "a. resistive load elements alone.",
+            "b. reactive load elements alone.",
+            "c. capacitive load elements alone.",
+            "d. resistive and reactive load elements."
+        ],
+        "correct": "a. resistive load elements alone."
+    },
+    {
+        "id": "28",
+        "question": "A 110-volt alternating current (AC) motor records 20 in-line amperes and the in-line wattmeter shows only 1,936 watts being consumed. What would be the power factor of the AC circuit?",
+        "options": [
+            "a. 80 percent power factor (pf).",
+            "b. 83 percent pf.",
+            "c. 86 percent pf.",
+            "d. 88 percent pf."
+        ],
+        "correct": "d. 88 percent pf."
+    },
+    {
+        "id": "29",
+        "question": "What is the purpose of an electrical generator?",
+        "options": [
+            "a. Converts mechanical energy to electrical energy.",
+            "b. Converts electrical energy to mechanical energy.",
+            "c. Converts kinetic energy to electrical energy.",
+            "d. Converts kinetic energy to potential energy."
+        ],
+        "correct": "a. Converts mechanical energy to electrical energy."
+    },
+    {
+        "id": "30",
+        "question": "What type of generator has brushes riding on the commutator to carry the current to an external circuit?",
+        "options": [
+            "a. Universal.",
+            "b. Potential type.",
+            "c. Direct current type.",
+            "d. Alternating current type."
+        ],
+        "correct": "c. Direct current type."
+    },
+    {
+        "id": "31",
+        "question": "What feature is the advantage of having a rotating magnetic field alternator?",
+        "options": [
+            "a. It requires no slip rings and brushes.",
+            "b. Output is taken from the commutator.",
+            "c. Output is taken from the stationary stator coils.",
+            "d. It requires less power to rotate the magnetic field."
+        ],
+        "correct": "c. Output is taken from the stationary stator coils."
+    },
+    {
+        "id": "32",
+        "question": "The voltage of a primary cell depends on the type of",
+        "options": [
+            "a. electrolyte and type of cell.",
+            "b. cell and type of terminal posts.",
+            "c. electrode material and type of cell.",
+            "d. electrolyte and the electrode material."
+        ],
+        "correct": "d. electrolyte and the electrode material."
+    },
+    {
+        "id": "33",
+        "question": "Even though the open-circuit voltage of a lead-acid storage battery is approximately 2.2 volts, what number is the normal rating?",
+        "options": [
+            "a. 2.0.",
+            "b. 2.5.",
+            "c. 2.7.",
+            "d. 2.9."
+        ],
+        "correct": "a. 2.0."
+    },
+    {
+        "id": "34",
+        "question": "A step-up transformer produces a secondary voltage",
+        "options": [
+            "a. higher and secondary current lower than the voltage and current in the primary. ",
+            "b. lower and secondary current higher than the voltage and current in the primary.",
+            "c. and current higher than the voltage and current in the primary.",
+            "d. and current lower than the voltage and current in the primary."
+        ],
+        "correct": "a. higher and secondary current lower than the voltage and current in the primary."
+    },
+    {
+        "id": "35",
+        "question": "When setting up the bucket truck for rescue, where should you place the strap and how far from the bucket?",
+        "options": [
+            "a. Lower boom; 10 feet.",
+            "b. Lower boom; 15 feet.",
+            "c. Upper boom; 10 feet.",
+            "d. Upper boom; 15 feet."
+        ],
+        "correct": "c. Upper boom; 10 feet."
+    },
+    {
+        "id": "36",
+        "question": "What two items do you need when setting up the bucket truck for rescue?",
+        "options": [
+            "a. Handline and a set of rope blocks.",
+            "b. Strap and a set of rope blocks.",
+            "c. Hot stick and handline.",
+            "d. Strap and hot stick."
+        ],
+        "correct": "b. Strap and a set of rope blocks."
+    },
+    {
+        "id": "37",
+        "question": " Which piece of equipment should you use with the manhole guard when using the two-person method of manhole rescue?",
+        "options": [
+            "a. Handline.",
+            "b. Wire hoist.",
+            "c. Rope blocks.",
+            "d. Windlass handcrank."
+        ],
+        "correct": "d. Windlass handcrank."
+    },
+    {
+        "id": "38",
+        "question": "When rescuing a person from a manhole, your primary concern should be",
+        "options": [
+            "a. your own safety.",
+            "b. the speed of the rescue.",
+            "c. the depth of the manhole.",
+            "d. not to cause additional injuries."
+        ],
+        "correct": "a. your own safety."
+    },
+    {
+        "id": "39",
+        "question": "What action should you always take when using a two-way radio for line work?",
+        "options": [
+            "a. Get clearances from the shop",
+            "b. Know where other crews are working.",
+            "c. Identify yourself on each transmission.",
+            "d. Use the electrical shop code on each transmission."
+        ],
+        "correct": "c. Identify yourself on each transmission."
+    },
+    {
+        "id": "40",
+        "question": "Who is responsible for issuing a safe clearance?",
+        "options": [
+            "a. Craftsman.",
+            "b. Crew leader.",
+            "c. Superintendent.",
+            "d. Base civil engineer."
+        ],
+        "correct": "c. Superintendent."
+    },
+    {
+        "id": "41",
+        "question": "How many year(s) must safe clearance forms be retained after release?",
+        "options": [
+            "a. Four.",
+            "b. Three.",
+            "c. Two.",
+            "d. One."
+        ],
+        "correct": "d. One."
+    },
+    {
+        "id": "42",
+        "question": "Which Air Force (AF) form is used to record all blocking and tagging actions done on primary electrical circuits on Air Force installations?",
+        "options": [
+            "a. AF Form 269, Electrical Facilities Safe Clearance.",
+            "b. AF Form 561, BCE Weekly Work Schedule.",
+            "c. AF Form 979, Danger Tag.",
+            "d. AF Form 980, Caution Tag."
+        ],
+        "correct": "a. AF Form 269, Electrical Facilities Safe Clearance."
+    },
+    {
+        "id": "43",
+        "question": "Why do you use the Air Force (AF) Form 980, Caution Tag?",
+        "options": [
+            "a. To identify situations out of the ordinary.",
+            "b. To control and record all blocking and tagging.",
+            "c. To protect the crew working under safe clearance.",
+            "d. To record the names of the crew that are doing the task."
+        ],
+        "correct": "a. To identify situations out of the ordinary."
+    },
+    {
+        "id": "44",
+        "question": "At which of the following voltages can you work from the structure using rubber gloves?",
+        "options": [
+            "a. 24,900 volts and below.",
+            "b. 13,800 volts and below.",
+            "c. 13,200 volts and below.",
+            "d. 4,160 volts and below."
+        ],
+        "correct": "d. 4,160 volts and below."
+    },
+    {
+        "id": "45",
+        "question": "Which safety briefing point is not covered during a tailgate meeting? ",
+        "options": [
+            "a. Special practices or grounding requirements.",
+            "b. Certification of live line maintenance.",
+            "c. Description of the work to be done.",
+            "d. Identification of the work site."
+        ],
+        "correct": "b. Certification of live line maintenance."
+    },
+    {
+        "id": "46",
+        "question": "What document is used to record system problems, such as outages, surges, or low voltages?",
+        "options": [
+            "a. Power outage log.",
+            "b. Special procedure log.",
+            "c. Emergency maintenance record",
+            "d. Emergency operations checklist."
+        ],
+        "correct": "a. Power outage log."
+    },
+    {
+        "id": "47",
+        "question": " What records are kept to make sure proper maintenance and repair are done on the electrical distribution system?",
+        "options": [
+            "a. Equipment records only.",
+            "b. Maintenance records only.",
+            "c. Equipment and maintenance records.",
+            "d. Equipment, maintenance, and computer data records."
+        ],
+        "correct": "c. Equipment and maintenance records."
+    },
+    {
+        "id": "48",
+        "question": "Which of the following is not required to establish a proper maintenance program?",
+        "options": [
+            "a. Knowing the scope of work.",
+            "b. Establishing methods of application.",
+            "c. Establishing intervals of performance.",
+            "d. Having adequate and dependable supply of power."
+        ],
+        "correct": "d. Having adequate and dependable supply of power."
+    },
+    {
+        "id": "49",
+        "question": "Which instrument gives immediate qualitative information on the degree and type of distortion?",
+        "options": [
+            "a. Oscilloscope.",
+            "b. Wave analyzer.",
+            "c. Frequency meter.",
+            "d. Spectrum analyzer."
+        ],
+        "correct": "a. Oscilloscope."
+    },
+    {
+        "id": "50",
+        "question": " What frequencies, in hertz (Hz), are the most common for transmission of electrical power?",
+        "options": [
+            "a. 50, 60, 5.",
+            "b. 25, 50, 60.",
+            "c. 25, 50, 400.",
+            "d. 50, 60, 400."
+        ],
+        "correct": "d. 50, 60, 400."
+    },
+    {
+        "id": "51",
+        "question": "The output voltage of the electronic voltage regulator circuit",
+        "options": [
+            "a. cannot be adjusted to a specific value.",
+            "b. can be adjusted to a specific value.",
+            "c. is adjusted by the manufacturer.",
+            "d. is adjusted automatically."
+        ],
+        "correct": "b. can be adjusted to a specific value."
+    },
+    {
+        "id": "52",
+        "question": "What purpose does the zener diode in the electronic voltage regulator serve?",
+        "options": [
+            "a. Acts as a biasing source.",
+            "b. Regulates output voltage.",
+            "c. Sets the reference voltage.",
+            "d. Provides transistor reverse bias."
+        ],
+        "correct": "c. Sets the reference voltage."
+    },
+    {
+        "id": "53",
+        "question": "Input resistance to a common collector amplifier is high because the emitter signal opposes the",
+        "options": [
+            "a. base signal.",
+            "b. base resistance.",
+            "c. collector signal.",
+            "d. output resistance."
+        ],
+        "correct": "a. base signal."
+    },
+    {
+        "id": "54",
+        "question": "The process of returning a part of the output of an amplifier back to its input in such a manner that it cancels part of the input signal is known as",
+        "options": [
+            "a. degeneration.",
+            "b. signal cancellation.",
+            "c. high-input impedance.",
+            "d. regenerative feedback."
+        ],
+        "correct": "a. degeneration."
+    },
+    {
+        "id": "55",
+        "question": "Which gain characteristics of a common base transistor amplifier is less than one?",
+        "options": [
+            "a. Impedance.",
+            "b. Voltage.",
+            "c. Current.",
+            "d. Power."
+        ],
+        "correct": "c. Current."
+    },
+    {
+        "id": "56",
+        "question": "The controlling element in a common base configuration is the",
+        "options": [
+            "a. emitter.",
+            "b. collector.",
+            "c. emitter base.",
+            "d. collector base."
+        ],
+        "correct": "a. emitter."
+    },
+    {
+        "id": "57",
+        "question": " What does the positive alternation of an input signal to the base of an NPN transistor in a common emitter configuration cause?",
+        "options": [
+            "a. An increase in collector current.",
+            "b. A decrease in collector current.",
+            "c. An increase in base current.",
+            "d. A decrease in base current."
+        ],
+        "correct": "c. An increase in base current."
+    },
+    {
+        "id": "58",
+        "question": "In the common emitter configuration, the input is between the emitter and base and the output is between the",
+        "options": [
+            "a. base and collector.",
+            "b. base and common.",
+            "c. emitter and common.",
+            "d. collector and emitter."
+        ],
+        "correct": "d. collector and emitter."
+    },
+    {
+        "id": "59",
+        "question": "What does the word electronics mean?",
+        "options": [
+            "a. Vacuum.",
+            "b. Optimum current flow.",
+            "c. Precise voltage regulation.",
+            "d. Applications involving the control of electricity."
+        ],
+        "correct": "d. Applications involving the control of electricity."
+    },
+    {
+        "id": "60",
+        "question": "An electron is considered a free electron when it reaches the",
+        "options": [
+            "a. nucleus.",
+            "b. valence band.",
+            "c. forbidden level.",
+            "d. conduction band."
+        ],
+        "correct": "d. conduction band."
+    },
+    {
+        "id": "61",
+        "question": "A positive mobile charge is considered",
+        "options": [
+            "a. hole.",
+            "b. valence.",
+            "c. nucleus.",
+            "d. rectifier."
+        ],
+        "correct": "a. hole."
+    },
+    {
+        "id": "62",
+        "question": "Excessive external heat applied to electronic components",
+        "options": [
+            "a. has no adverse effects.",
+            "b. causes increased current flow.",
+            "c. causes decreased current flow.",
+            "d. improves operation of components."
+        ],
+        "correct": "b. causes increased current flow."
+    },
+    {
+        "id": "63",
+        "question": "Which device should only be used in direct current (DC) circuits?",
+        "options": [
+            "a. Electrolytic capacitors.",
+            "b. Capacitors.",
+            "c. Resistors.",
+            "d. Diodes."
+        ],
+        "correct": "a. Electrolytic capacitors."
+    },
+    {
+        "id": "64",
+        "question": "Which of the following is another term for a diode? ",
+        "options": [
+            "a. PN junction.",
+            "b. PN resistor.",
+            "c. Amplifier.",
+            "d. Triac."
+        ],
+        "correct": "a. PN junction."
+    },
+    {
+        "id": "65",
+        "question": " Which multimeter lead connection is used to read forward bias on a diode?",
+        "options": [
+            "a. Polarity does not matter.",
+            "b. Black to cathode.",
+            "c. Black to anode.",
+            "d. Red to cathode."
+        ],
+        "correct": "b. Black to cathode."
+    },
+    {
+        "id": "66",
+        "question": "What does the arrow in semiconductors indicate?",
+        "options": [
+            "a. The direction of minority current receivers.",
+            "b. The direction of majority current carriers.",
+            "c. The direction of electron flow.",
+            "d. The direction of hole current."
+        ],
+        "correct": "d. The direction of hole current."
+    },
+    {
+        "id": "67",
+        "question": "What does a flat side or shorter lead on some light emitting diodes indicate?",
+        "options": [
+            "a. Low voltage side.",
+            "b. Anode.",
+            "c. Junction.",
+            "d. Cathode."
+        ],
+        "correct": "d. Cathode."
+    },
+    {
+        "id": "68",
+        "question": "What is a zener diode typically used for?",
+        "options": [
+            "a. Current negation.",
+            "b. Current oscillation.",
+            "c. Voltage regulation.",
+            "d. Voltage amplification."
+        ],
+        "correct": "c. Voltage regulation."
+    },
+    {
+        "id": "69",
+        "question": "How are the electrode leads identified and labeled on a Bipolar Junction Transistor?",
+        "options": [
+            "a. Positive and negative.",
+            "b. Anode and cathode.",
+            "c. Emitter, base, and collector.",
+            "d. Anode, cathode, and gate."
+        ],
+        "correct": "c. Emitter, base, and collector."
+    },
+    {
+        "id": "70",
+        "question": "Which letter combinations are types of Bipolar Junction Transistors?",
+        "options": [
+            "a. PNPN, NPNP.",
+            "b. NNPP, PPNN.",
+            "c. PNN, NPP.",
+            "d. NPN, PNP."
+        ],
+        "correct": "d. NPN, PNP."
+    },
+    {
+        "id": "71",
+        "question": "How many layers of semiconducting material does a silicon controlled rectifier (SCR) have?",
+        "options": [
+            "a. Two.",
+            "b. Three.",
+            "c. Four.",
+            "d. Five."
+        ],
+        "correct": "c. Four."
+    },
+    {
+        "id": "72",
+        "question": "How is the emitter base junction on a transistor connected?",
+        "options": [
+            "a. Forward biased.",
+            "b. Reverse biased.",
+            "c. Front biased.",
+            "d. Rear biased."
+        ],
+        "correct": "a. Forward biased."
+    },
+    {
+        "id": "73",
+        "question": "How does the base of a transistor normally receive its control voltage?",
+        "options": [
+            "a. Multiplexor circuit.",
+            "b. Voltage divider circuit.",
+            "c. Independent battery circuit.",
+            "d. Separately derived power source."
+        ],
+        "correct": "b. Voltage divider circuit."
+    },
+    {
+        "id": "74",
+        "question": "Transistors can be connected in how many configurations?",
+        "options": [
+            "a. Two.",
+            "b. Three.",
+            "c. Four.",
+            "d. Six."
+        ],
+        "correct": "b. Three."
+    },
+    {
+        "id": "75",
+        "question": "What controls the conduction time of a silicon controlled rectifier (SCR)?",
+        "options": [
+            "a. A decrease in forward bias.",
+            "b. A decrease in reverse bias.",
+            "c. Anode current.",
+            "d. Gate current."
+        ],
+        "correct": "d. Gate current."
+    },
+    {
+        "id": "76",
+        "question": "How do you turn off a silicon controlled rectifier (SCR) in a minimum amount of time?",
+        "options": [
+            "a. Apply reverse bias to the gate.",
+            "b. Apply forward bias to the gate.",
+            "c. Apply reverse bias to the anode.",
+            "d. Apply forward bias to the anode."
+        ],
+        "correct": "c. Apply reverse bias to the anode."
+    },
+    {
+        "id": "77",
+        "question": "Information showing the location of installed distribution equipment should be kept",
+        "options": [
+            "a. on the maintenance truck.",
+            "b. on a distribution map in the shop.",
+            "c. in the distribution substation house.",
+            "d. in the base civil engineer's (BCE) office."
+        ],
+        "correct": "b. on a distribution map in the shop."
+    },
+    {
+        "id": "78",
+        "question": "What is developed for logic gate circuits to determine signal output?",
+        "options": [
+            "a. Truth tables.",
+            "b. Sizing charts.",
+            "c. Component values.",
+            "d. Operating thresholds."
+        ],
+        "correct": "a. Truth tables."
+    },
+    {
+        "id": "79",
+        "question": "Which of the following is not a logic gate?",
+        "options": [
+            "a. NAND.",
+            "b. STOP.",
+            "c. NOR.",
+            "d. OR."
+        ],
+        "correct": "b. STOP."
+    },
+    {
+        "id": "80",
+        "question": "The two purposes of the load resistor of a half-wave rectifier is to develop the output signal and to",
+        "options": [
+            "a. provide reverse bias.",
+            "b. determine output amplitude.",
+            "c. limit current flow to a safe level.",
+            "d. limit output voltage to a safe level."
+        ],
+        "correct": "c. limit current flow to a safe level."
+    },
+    {
+        "id": "81",
+        "question": "If the input frequency to a half-wave rectifier is 120 Hz, its output ripple frequency is",
+        "options": [
+            "a. 120 hertz (Hz).",
+            "b. 240 Hz.",
+            "c. 60 pulses per second (pps).",
+            "d. 120 pps."
+        ],
+        "correct": "d. 120 pps."
+    },
+    {
+        "id": "82",
+        "question": "A full-wave rectifier can be identified easily on a schematic because it contains",
+        "options": [
+            "a. three diodes.",
+            "b. a center-tapped transformer.",
+            "c. two diodes with a cross resistor.",
+            "d. a side transformer and four diodes."
+        ],
+        "correct": "b. a center-tapped transformer."
+    },
+    {
+        "id": "83",
+        "question": "The breakdown rating for diodes in a full-wave rectifier must be twice as great as the",
+        "options": [
+            "a. breakdown rating of one diode.",
+            "b. half-wave rectifier diode.",
+            "c. average output voltage.",
+            "d. size of the load."
+        ],
+        "correct": "b. half-wave rectifier diode."
+    },
+    {
+        "id": "84",
+        "question": "What frequency is the output ripple of a bridge rectifier with an input frequency of 60 hertz (Hz)?",
+        "options": [
+            "a. 60 Hz.",
+            "b. 60 pulses per second (pps).",
+            "c. 120 pps.",
+            "d. 120 Hz."
+        ],
+        "correct": "c. 120 pps."
+    },
+    {
+        "id": "85",
+        "question": "The output ripple frequency of a three-phase bridge rectifier is how many times the input frequency?",
+        "options": [
+            "a. Three times.",
+            "b. Four times.",
+            "c. Five times.",
+            "d. Six times."
+        ],
+        "correct": "d. Six times."
+    },
+    {
+        "id": "86",
+        "question": "During pole-top rescue, the rope should be ",
+        "options": [
+            "a. tied through the back of the victim's body belt.",
+            "b. tied through the front of the victim's body belt.",
+            "c. passed through the crossarm braces and over the crossarm.",
+            "d. passed around the victim's chest and tied with three half hitches."
+        ],
+        "correct": "d. passed around the victim's chest and tied with three half hitches."
+    },
+    {
+        "id": "87",
+        "question": "When testing the oxygen level of a confined space, the oxygen level should be within what percentage (%)?",
+        "options": [
+            "a. 18-20.",
+            "b. 15-22.",
+            "c. 19.5-23.5",
+            "d. 18.5-22.5."
+        ],
+        "correct": "c. 19.5-23.5"
+    },
+    {
+        "id": "88",
+        "question": "Why does a ripple voltage exist in a circuit powered by a rectifier? ",
+        "options": [
+            "a. The rectifier supplies energy to the load in pulses.",
+            "b. A characteristic of the rectifier is to store energy.",
+            "c. Rectifiers supply a smooth voltage to the load.",
+            "d. It is a characteristic of alternating current."
+        ],
+        "correct": "a. The rectifier supplies energy to the load in pulses."
+    },
+    {
+        "id": "89",
+        "question": "The bowline knot is placed in front of a victim in the two-person method of manhole rescue to",
+        "options": [
+            "The bowline knot is placed in front of a victim in the two-person method of manhole rescue to",
+            "b. prevent the knot from slipping.",
+            "c. prevent the victim's head from hitting the side of the manhole.",
+            "d. allow the victim's head to tilt back, keeping the victim's air passage open."
+        ],
+        "correct": "d. allow the victim's head to tilt back, keeping the victim's air passage open."
+    },
+    {
+        "id": "90",
+        "question": "An inductive (choke) input filter gives a lower output voltage than the capacitive input LC filter and also",
+        "options": [
+            "a. inductive regulation.",
+            "b. high-output impedance.",
+            "c. poor voltage regulation.",
+            "d. better voltage regulation."
+        ],
+        "correct": "d. better voltage regulation."
+    },
+    {
+        "id": "91",
+        "question": "Which of these characteristics are one of the pi-type LC filter?",
+        "options": [
+            "a. Low-input voltage and no voltage regulation.",
+            "b. High-input voltage and no voltage regulation.",
+            "c. Low-output voltage and better voltage regulation.",
+            "d. High-output voltage and better voltage regulation."
+        ],
+        "correct": "d. High-output voltage and better voltage regulation."
+    },
+    {
+        "id": "92",
+        "question": "Which condition exists when you connect the negative battery lead to a cathode?",
+        "options": [
+            "a. Frontal bias.",
+            "b. Neutral bias.",
+            "c. Reverse bias.",
+            "d. Forward bias."
+        ],
+        "correct": "d. Forward bias."
+    },
+    {
+        "id": "93",
+        "question": "The output of a three-phase bridge rectifier is of low amplitude and requires",
+        "options": [
+            "a. very little filtering.",
+            "b. to be stepped up.",
+            "c. heavy filtering.",
+            "d. no filtering."
+        ],
+        "correct": "a. very little filtering."
+    },
+    {
+        "id": "94",
+        "question": "What type of current flow cannot be transformed from a higher voltage to a lower voltage?",
+        "options": [
+            "a. Alternating current.",
+            "b. Direct current.",
+            "c. Low current.",
+            "d. Electric."
+        ],
+        "correct": "b. Direct current."
+    },
+    {
+        "id": "95",
+        "question": "How much current flow is in a circuit with 24 volts applied and with 72-ohms resistance?",
+        "options": [
+            "a. 0.33 amperes.",
+            "b. 3.3 amperes.",
+            "c. 33.0 amperes.",
+            "d. 0.728 amperes."
+        ],
+        "correct": "a. 0.33 amperes."
+    },
+    {
+        "question": "1. (201) Which section of the Operation and Service Instructions Manual contains instructions for uncrating, installing, and preparing equipment for initial operations?",
+        "options": [
+            "a. Section 1.",
+            "b. Section 2.",
+            "c. Section 3.",
+            "d. Section 4."
+        ],
+        "correct": "c. Section 3."
+    },
+    {
+        "question": "2. (201) Which section of the Operation and Service Instructions Manual contains step-by-step instructions for starting, operating, and stopping equipment?",
+        "options": [
+            "a. Section 1.",
+            "b. Section 2.",
+            "c. Section 3.",
+            "d. Section 4."
+        ],
+        "correct": "d. Section 4."
+    },
+    {
+        "question": "3. (202) Which time compliance technical order (TCTO) requires you to discontinue use of equipment until prescribed maintenance work is completed?",
+        "options": [
+            "a. Interim TCTOs.",
+            "b. Record TCTOs.",
+            "c. Urgent action TCTOs.",
+            "d. Immediate action TCTOs."
+        ],
+        "correct": "d. Immediate action TCTOs."
+    },
+    {
+        "question": "4. (202) The time compliance technical order (TCTO) that must be issued if the risk involved is tolerable only within definite time limits is the ",
+        "options": [
+            "a. record TCTO.",
+            "b. interim TCTO.",
+            "c. urgent action TCTO.",
+            "d. immediate action TCTO."
+        ],
+        "correct": "c. urgent action TCTO."
+    },
+    {
+        "question": "5. (203) What do all technical order (TO) indexes have as the first number? ",
+        "options": [
+            "a. Zero (0).",
+            "b. One (1).",
+            "c. Two (2).",
+            "d. Three (3)."
+        ],
+        "correct": "a. Zero (0)."
+    },
+    {
+        "question": "6. (204) What format is used to submit corrections to a technical order (TO)?",
+        "options": [
+            "a. TO 00-5-1, AF Technical Order System.",
+            "b. TO 0-1-01, Numerical Index and Requirements Tables.",
+            "c. AFTO Form 158, Technical Order Review Comment Sheet.",
+            "d. AFTO Form 22, Technical Manual (TM) Change Recommendation and Reply."
+        ],
+        "correct": "d. AFTO Form 22, Technical Manual (TM) Change Recommendation and Reply."
+    },
+    {
+        "question": "7. (204) Which technical order (TO) improvement recommendation requires action within 40 days of its receipt?",
+        "options": [
+            "a. Urgent.",
+            "b. Routine.",
+            "c. Time compliance.",
+            "d. Emergency/critical hazard."
+        ],
+        "correct": "a. Urgent."
+    },
+    {
+        "question": "8. (204) What type of technical order (TO) improvement recommendation is submitted if prescribed maintenance procedures reduce the operational life of equipment?",
+        "options": [
+            "a. Urgent.",
+            "b. Routine.",
+            "c. Emergency.",
+            "d. Time compliance."
+        ],
+        "correct": "b. Routine."
+    },
+    {
+        "question": "9. (205) How are Unified Criteria Facilities (UFC) organized?",
+        "options": [
+            "a. Units and Volumes.",
+            "b. Chapters and Articles.",
+            "c. Chapters and Volumes.",
+            "d. Series and Sub-Categories."
+        ],
+        "correct": "d. Series and Sub-Categories."
+    },
+    {
+        "question": "10. (205) What information is in Chapter 1 of a Unified Criteria Facilities (UFC)?",
+        "options": [
+            "a. General overview listing the purpose, scope, and references for the UFC.",
+            "b. Table of contents.",
+            "c. Foreword.",
+            "d. Glossary."
+        ],
+        "correct": "a. General overview listing the purpose, scope, and references for the UFC."
+    },
+    {
+        "question": "11. (206) Who publishes the National Electric Code? ",
+        "options": [
+            "a. National Fire Protection Association (NFPA).",
+            "b. American National Standards Institute (ANSI).",
+            "c. National Electrical Manufactures Association (NEMA).",
+            "d. Institute of Electrical and Electronics Engineers (IEEE)."
+        ],
+        "correct": "a. National Fire Protection Association (NFPA)."
+    },
+    {
+        "question": "12. (206) What publication number is the National Electric Code?",
+        "options": [
+            "a. National Fire Protection Association (NFPA) 70E.",
+            "b. NFPA 72.",
+            "c. NFPA 70B.",
+            "d. NFPA 70."
+        ],
+        "correct": "d. NFPA 70."
+    },
+    {
+        "question": "13. (206) What publication number is the Standard for Electrical Safety in the Workplace? ",
+        "options": [
+            "a. National Fire Protection Association (NFPA) 70E.",
+            "b. NFPA 72.",
+            "c. NFPA 70B.",
+            "d. NFPA 70."
+        ],
+        "correct": "a. National Fire Protection Association (NFPA) 70E."
+    },
+    {
+        "question": "14. (207) What number is the maximum ohmic reading for static grounds according to current Air Force directives? ",
+        "options": [
+            "a. 10.",
+            "b. 1,000.",
+            "c. 10,000.",
+            "d. 100,000."
+        ],
+        "correct": "c. 10,000."
+    },
+    {
+        "question": "15. (207) An equipment ground is a grounding system that ",
+        "options": [
+            "a. stabilizes voltage between two or more metallic objects.",
+            "b. removes excess voltage from current carrying metallic objects.",
+            "c. drains off static electricity before a sparking potential is reached.",
+            "d. connects to earth all nonconcurrent carrying metal parts of an electrical wiring system."
+        ],
+        "correct": "d. connects to earth all nonconcurrent carrying metal parts of an electrical wiring system."
+    },
+    {
+        "question": "16. (207) What maximum ground resistance is the value for an electrical system with a voltage of 600 volts alternating current (VAC) or less?",
+        "options": [
+            "a. 1 ohm.",
+            "b. 5 ohms.",
+            "c. 10 ohms.",
+            "d. 25 ohms."
+        ],
+        "correct": "d. 25 ohms."
+    },
+    {
+        "question": "17. (207) During which season could you expect to measure the lowest ground reading? ",
+        "options": [
+            "a. Fall.",
+            "b. Spring.",
+            "c. Summer.",
+            "d. Winter."
+        ],
+        "correct": "b. Spring."
+    },
+    {
+        "question": "18. (208) Which location is the correct location for grounding a system neutral? ",
+        "options": [
+            "a. Load side of service entrance.",
+            "b. Source side of service entrance.",
+            "c. Load side of service entrance and outlets.",
+            "d. Source side of service entrance and outlets."
+        ],
+        "correct": "b. Source side of service entrance."
+    },
+    {
+        "question": "19. (208) A system neutral conductor is likely grounded improperly (grounded on the load side of the service entrance disconnect), if the ohmic value is less than ",
+        "options": [
+            "a. 10K.",
+            "b. 20K.",
+            "c. 30K.",
+            "d. 40K."
+        ],
+        "correct": "b. 20K."
+    },
+    {
+        "question": "20. (209) At what intervals should a wye-connected distribution system neutral be grounded? ",
+        "options": [
+            "a. At a distance not to exceed ¼ mile.",
+            "b. At a distance not to exceed ½ mile.",
+            "c. At a distance not to exceed 1 mile.",
+            "d. This system neutral is not grounded."
+        ],
+        "correct": "a. At a distance not to exceed ¼ mile."
+    },
+    {
+        "question": "21. (209) What recommended depth is the top of a ground rod driven for distribution pole grounding? ",
+        "options": [
+            "a. At ground level.",
+            "b. Below ground level.",
+            "c. 1 foot above ground level.",
+            "d. 2 feet below ground level."
+        ],
+        "correct": "d. 2 feet below ground level."
+    },
+    {
+        "question": "22. (210) The metal frame of a building can be used as a facility ground ",
+        "options": [
+            "a. if the frame is effectively grounded.",
+            "b. if the building is equipped with air terminals.",
+            "c. only when it is supported by insulated flanges.",
+            "d. only if the braces are separately bonded to the ground loop."
+        ],
+        "correct": "a. if the frame is effectively grounded."
+    },
+    {
+        "question": "23. (210) What are the requirements for a facility ground rod? ",
+        "options": [
+            "a. 4 feet long; copper-clad steel, solid copper, or galvanized steel.",
+            "b. 8 feet long; copper-clad steel, solid copper, or galvanized steel.",
+            "c. 4 feet long; copper-clad steel, solid copper, or stainless steel.",
+            "d. 8 feet long; copper-clad steel, solid copper, or stainless steel."
+        ],
+        "correct": "d. 8 feet long; copper-clad steel, solid copper, or stainless steel."
+    },
+    {
+        "question": "24. (210) Which is the minimum allowed resistance for an electrode used for communications network grounds? ",
+        "options": [
+            "a. 25 ohms.",
+            "b. 20 ohms.",
+            "c. 10 ohms.",
+            "d. 5 ohms."
+        ],
+        "correct": "c. 10 ohms."
+    },
+    {
+        "question": "25. (210) Isolated ground (IG) receptacles are used in circuits feeding electronic devices to ",
+        "options": [
+            "a. minimize noise.",
+            "b. filter voltage spikes.",
+            "c. stabilize current draw.",
+            "d. block high voltage generated from lightning strikes."
+        ],
+        "correct": "a. minimize noise."
+    },
+    {
+        "question": "26. (210) In an isolated ground (IG) receptacle, the ",
+        "options": [
+            "a. grounding pin is purposely insulated from the outlet box.",
+            "b. IG will be bonded to other grounds in the immediate area.",
+            "c. IG must have its own lightning arrester.",
+            "d. IG must have its own driven ground rod."
+        ],
+        "correct": "a. grounding pin is purposely insulated from the outlet box."
+    },
+    {
+        "question": "27. (211) What happens if a bare grounding wire touches the hot conductor terminal of a receptacle inside of a properly grounded outlet box? ",
+        "options": [
+            "a. Equipment plugged in the receptacle receives excessive current and overheats.",
+            "b. The neutrals for the entire facility become hot conductors.",
+            "c. The circuit breaker for that circuit trips.",
+            "d. The outlet voltage is doubled."
+        ],
+        "correct": "c. The circuit breaker for that circuit trips."
+    },
+    {
+        "question": "28. (211) Physical failure of grounding systems usually occurs in which portion of the system? ",
+        "options": [
+            "a. In the service panel.",
+            "b. The ground electrode.",
+            "c. Just above and below ground level.",
+            "d. At the point where it attaches to the equipment."
+        ],
+        "correct": "c. Just above and below ground level."
+    },
+    {
+        "question": "29. (211) In an interior wiring system with metallic conduit, through how many possible paths can return ground fault flow?",
+        "options": [
+            "a. Zero.",
+            "b. One.",
+            "c. Two.",
+            "d. Three."
+        ],
+        "correct": "c. Two."
+    },
+    {
+        "question": "30. (211) What test can you perform to ensure that the above grade components in a grounding system have a low resistance path to ground? ",
+        "options": [
+            "a. Earth resistance test.",
+            "b. Vibroground test.",
+            "c. Continuity test.",
+            "d. Clamp-on test."
+        ],
+        "correct": "c. Continuity test."
+    },
+    {
+        "question": "31. (212) What characteristics are the properties of good insulators?",
+        "options": [
+            "a. Clean dry surfaces in low humidity; can hold their charge.",
+            "b. Clean dry surfaces in high humidity; can hold their charge.",
+            "c. Contaminated surfaces in low humidity; can hold their charge.",
+            "d. Clean dry surfaces in any humidity; permit leakage to take place."
+        ],
+        "correct": "a. Clean dry surfaces in low humidity; can hold their charge."
+    },
+    {
+        "question": "32. (212) What minimum sparking voltage is generally accepted for the shortest measurable length of gap?",
+        "options": [
+            "a. 12 volts.",
+            "b. 125 volts.",
+            "c. 240 volts.",
+            "d. 350 volts."
+        ],
+        "correct": "d. 350 volts."
+    },
+    {
+        "question": "33. (213) Under proper conditions, approximately how much voltage can be charged up by a drop of liquid falling through the air? ",
+        "options": [
+            "a. 50 volts.",
+            "b. 500 volts.",
+            "c. 1,000 volts.",
+            "d. 10,000 volts."
+        ],
+        "correct": "d. 10,000 volts."
+    },
+    {
+        "question": "34. (213) At what voltage can a static charge ignite gasoline? ",
+        "options": [
+            "a. 120 volts.",
+            "b. 750 volts.",
+            "c. 1,500 volts.",
+            "d. 7,500 volts."
+        ],
+        "correct": "c. 1,500 volts."
+    },
+    {
+        "question": "35. (213) Unwanted electrical charges in hazardous areas are dissipated by using ",
+        "options": [
+            "a. rubber mats.",
+            "b. air filtration systems.",
+            "c. a continuous electrical path to ground.",
+            "d. static elimination bars at all entry points."
+        ],
+        "correct": "c. a continuous electrical path to ground."
+    },
+    {
+        "question": "36. (213) Which is not necessary for an adequate ground for static electricity? ",
+        "options": [
+            "a. High mechanical strength.",
+            "b. Very low resistance.",
+            "c. Secure connections.",
+            "d. A continuous path."
+        ],
+        "correct": "b. Very low resistance."
+    },
+    {
+        "question": "37. (213) Which size copper wire is used to bond conductive objects when they are not concealed or mechanically protected? ",
+        "options": [
+            "a. No. 16 American Wire Gauge (AWG).",
+            "b. No. 12 AWG.",
+            "c. No. 8 AWG.",
+            "d. No. 6 AWG."
+        ],
+        "correct": "d. No. 6 AWG."
+    },
+    {
+        "question": "38. (214) The type of ionic current that describes the rate of electron loss from earth is called ",
+        "options": [
+            "a. air-earth.",
+            "b. air-water.",
+            "c. sky-earth.",
+            "d. sky-water."
+        ],
+        "correct": "a. air-earth."
+    },
+    {
+        "question": "39. (214) The process of separating air molecules into positive ions and negative electrons is called ",
+        "options": [
+            "a. ionization.",
+            "b. salinization.",
+            "c. de-ionization.",
+            "d. de-salinization."
+        ],
+        "correct": "a. ionization."
+    },
+    {
+        "question": "40. (215) Lightning grounds are designed ",
+        "options": [
+            "a. to handle high voltages.",
+            "b. to carry large currents.",
+            "c. for high capacitance.",
+            "d. for high impedance."
+        ],
+        "correct": "b. to carry large currents."
+    },
+    {
+        "question": "41. (215) What size is the minimum for grounding conductors used for hazardous locations? ",
+        "options": [
+            "a. No. 6 American Wire Gauge (AWG).",
+            "b. No. 4 AWG.",
+            "c. No. 1/0 AWG.",
+            "d. No. 4/0 AWG."
+        ],
+        "correct": "c. No. 1/0 AWG."
+    },
+    {
+        "question": "42. (215) The maximum spacing, in feet, between air terminals is ",
+        "options": [
+            "a. 25.",
+            "b. 50.",
+            "c. 100.",
+            "d. 150."
+        ],
+        "correct": "a. 25."
+    },
+    {
+        "question": "43. (215) What number of inches is the minimum radius for lightning protection conductors bend? ",
+        "options": [
+            "a. One.",
+            "b. Two.",
+            "c. Four.",
+            "d. Eight."
+        ],
+        "correct": "d. Eight."
+    },
+    {
+        "question": "44. (216) Grounding of lightning protection systems should conform to ",
+        "options": [
+            "a. National Fire Protection Association (NFPA) 77.",
+            "b. NFPA 78.",
+            "c. NFPA 780.",
+            "d. NFPA 802."
+        ],
+        "correct": "c. NFPA 780."
+    },
+    {
+        "question": "45. (216) What size ground rods are used in a lightning protection system? ",
+        "options": [
+            "a. 8 feet in length, and 1/2-inch diameter.",
+            "b. 8 feet in length, and 3/4-inch diameter.",
+            "c. 10 feet in length, and 1/2-inch diameter.",
+            "d. 10 feet in length, and 3/4-inch diameter."
+        ],
+        "correct": "d. 10 feet in length, and 3/4-inch diameter."
+    },
+    {
+        "question": "46. (216) When ground rods are used with a loop conductor, how deep are ground rod tops driven?",
+        "options": [
+            "a. 6 inches below finished grade.",
+            "b. 18 inches below finished grade.",
+            "c. To same elevation as loop conductor below finished grade.",
+            "d. To same elevation as the facility ground below finished grade."
+        ],
+        "correct": "c. To same elevation as loop conductor below finished grade."
+    },
+    {
+        "question": "47. (216) What is the minimum size copper wire used to connect different grounding systems? ",
+        "options": [
+            "a. 14 American Wire Gauge (AWG).",
+            "b. 6 AWG.",
+            "c. 2 AWG.",
+            "d. 1/0 AWG."
+        ],
+        "correct": "b. 6 AWG."
+    },
+    {
+        "question": "48. (217) What number of feet must down conductors not exceed? ",
+        "options": [
+            "a. 25.",
+            "b. 50.",
+            "c. 100.",
+            "d. 125."
+        ],
+        "correct": "c. 100."
+    },
+    {
+        "question": "49. (217) How far into the ground must grounding rings be buried? ",
+        "options": [
+            "a. 10 inches.",
+            "b. 15 inches.",
+            "c. 30 inches.",
+            "d. 45 inches."
+        ],
+        "correct": "c. 30 inches."
+    },
+    {
+        "question": "50. (218) The ions that leave the metal and enter into the solution are ",
+        "options": [
+            "a. free electrons.",
+            "b. anodes.",
+            "c. positive.",
+            "d. negative."
+        ],
+        "correct": "b. anodes."
+    },
+    {
+        "question": "51. (219) How many basic ways can corrosion occur? ",
+        "options": [
+            "a. Two.",
+            "b. Three.",
+            "c. Four.",
+            "d. Five."
+        ],
+        "correct": "c. Four."
+    },
+    {
+        "question": "52. (219) Where does stray current corrosion cause greatest damage? ",
+        "options": [
+            "a. At midpoint between entry and exit of a structure. b. The bottom side of a structure.",
+            "c. Where it enters a structure.",
+            "d. Where it exits a structure."
+        ],
+        "correct": "d. Where it exits a structure."
+    },
+    {
+        "question": "53. (220) How many ways can cathodic protection be achieved? ",
+        "options": [
+            "a. 2.",
+            "b. 4.",
+            "c. 6.",
+            "d. 8."
+        ],
+        "correct": "a. 2."
+    },
+    {
+        "question": "54. (220) At least how many inches of backfill should extend from each end of the anode? ",
+        "options": [
+            "a. 4.",
+            "b. 8.",
+            "c. 10.",
+            "d. 12."
+        ],
+        "correct": "d. 12."
+    },
+    {
+        "question": "55. (221) What purpose does the rectifier operational inspection serve?",
+        "options": [
+            "a. To determine the serviceability of all components required to impress current to the anodes of the impressed current system.",
+            "b. To determine the unserviceability of some components required to impress current to the anodes of the impressed current system.",
+            "c. To determine the reliability of all components required to impress current to the anodes of the impressed current system.",
+            "d. To determine the compatibility of all components required to impress current to the anodes of the impressed current system."
+        ],
+        "correct": "a. To determine the serviceability of all components required to impress current to the anodes of the impressed current system."
+    },
+    {
+        "question": "56. (221) How often should a structure be checked for depth of pitting?",
+        "options": [
+            "a. Every two years.",
+            "b. Yearly.",
+            "c. Semiannually.",
+            "d. Monthly."
+        ],
+        "correct": "a. Every two years."
+    },
+    {
+        "question": "57. (222) What voltage does a fire alarm system operate on, and what additional power source does the panel have? ",
+        "options": [
+            "a. 12 volts, direct current (VDC),backup circuit.",
+            "b. 12VDC, battery backup.",
+            "c. 24VDC, backup circuit.",
+            "d. 24VDC, battery backup."
+        ],
+        "correct": "d. 24VDC, battery backup."
+    },
+    {
+        "question": "58. (222) What is defined as a situation, environmental state, or equipment state of a fire alarm? ",
+        "options": [
+            "a. Alarm.",
+            "b. Condition.",
+            "c. Trouble.",
+            "d. Situation."
+        ],
+        "correct": "b. Condition."
+    },
+    {
+        "question": "59. (222) What situation would cause the fire department dispatch center to receive a supervisory alarm? ",
+        "options": [
+            "a. Open in a circuit.",
+            "b. Ground on a circuit.",
+            "c. Initiating device operates.",
+            "d. Someone disables the fire suppression system."
+        ],
+        "correct": "d. Someone disables the fire suppression system."
+    },
+    {
+        "question": "60. (223) Where in a facility will a pull station be located? ",
+        "options": [
+            "a. Next to fire alarm control panel.",
+            "b. Near exits and in exit stairwells.",
+            "c. Mechanical room.",
+            "d. In every room."
+        ],
+        "correct": "b. Near exits and in exit stairwells."
+    },
+    {
+        "question": "61. (223) What type of automatic detector is susceptible to false alarms in dusty environments? ",
+        "options": [
+            "a. Heat detector.",
+            "b. Ion Smoke detector.",
+            "c. Wavelength detector.",
+            "d. Photoelectric Smoke detector."
+        ],
+        "correct": "d. Photoelectric Smoke detector."
+    },
+    {
+        "question": "62. (223) What monitors the air in a heating, ventilation, and air conditioning (HVAC) system for signs of fire? ",
+        "options": [
+            "a. Heat detector.",
+            "b. Flow detector.",
+            "c. Duct detector.",
+            "d. Smoke detector."
+        ],
+        "correct": "c. Duct detector."
+    },
+    {
+        "question": "63. (223) Where is the end of line resistor in a Class A circuit? ",
+        "options": [
+            "a. In the middle of the circuit.",
+            "b. At the end of the circuit.",
+            "c. In the panel.",
+            "d. Not used."
+        ],
+        "correct": "c. In the panel."
+    },
+    {
+        "question": "64. (223) What is used in larger facilities to expand the notification appliance circuit (NAC)? ",
+        "options": [
+            "a. Initiating device circuit extender.",
+            "b. Power amplifier.",
+            "c. Booster panel.",
+            "d. Amp panel."
+        ],
+        "correct": "c. Booster panel."
+    },
+    {
+        "question": "65. (223) What is the polarity of a notification appliance circuit (NAC) that has been activated?",
+        "options": [
+            "a. Forward.",
+            "b. Reverse.",
+            "c. Alternating.",
+            "d. None of the above."
+        ],
+        "correct": "b. Reverse."
+    },
+    {
+        "question": "66. (224) How is an addressable circuit supervised? ",
+        "options": [
+            "a. The detectors \"Talk\" to the fire alarm control panel (FACP).",
+            "b. The FACP broadcasts messages to all the detectors.",
+            "c. The detectors relay messages to the FACP.",
+            "d. The same as in a conventional system"
+        ],
+        "correct": "a. The detectors \"Talk\" to the fire alarm control panel (FACP)."
+    },
+    {
+        "question": "67. (224) How are addressable detectors and modules assigned an address? ",
+        "options": [
+            "a. Device address is set when they are manufactured.",
+            "b. By turning two rotary switches on the device.",
+            "c. Setting \"dip\" switches on the device.",
+            "d. Using manufacturer software."
+        ],
+        "correct": "b. By turning two rotary switches on the device."
+    },
+    {
+        "question": "68. (225) What commercial code specifies or mandates maintenance requirements for fire protection systems? ",
+        "options": [
+            "a. National Fire Protection Association (NFPA) 72.",
+            "b. United Facilities Criteria (UFC) 3-601-02.",
+            "c. NFPA 70.",
+            "d. UFC 4-021-01."
+        ],
+        "correct": "a. National Fire Protection Association (NFPA) 72."
+    },
+    {
+        "question": "69. (225) How often are devices normally calibrated? ",
+        "options": [
+            "a. Annually.",
+            "b. Semi-annually.",
+            "c. Every five years.",
+            "d. Every two years."
+        ],
+        "correct": "c. Every five years."
+    },
+    {
+        "question": "70. (226) Why do mass notification systems have priority over fire alarm systems? ",
+        "options": [
+            "a. Both systems function independently.",
+            "b. Each condition is processed on a case by case basis.",
+            "c. This is a false statement, fire alarm systems have priority.",
+            "d. Perpetrators have been known to use the fire alarm system as a means of attack."
+        ],
+        "correct": "d. Perpetrators have been known to use the fire alarm system as a means of attack."
+    },
+    {
+        "question": "71. (226) What color is the globe of a mass notification system (MNS) strobe in an Air Force facility? ",
+        "options": [
+            "a. Clear.",
+            "b. Green.",
+            "c. Red.",
+            "d. Amber."
+        ],
+        "correct": "d. Amber."
+    },
+    {
+        "question": "72. (226) What wattage is the maximum size of speaker used by an in-building mass notification system (MNS) without approval by the authority having jurisdiction (AHJ)? ",
+        "options": [
+            "a. 8 watts.",
+            "b. 12 watts.",
+            "c. 15 watts.",
+            "d. 25 watts."
+        ],
+        "correct": "c. 15 watts."
+    },
+    {
+        "question": "1. (401) How many conductors must a clamp-on ammeter encircle to obtain an accurate current reading? ",
+        "options": [
+            "a. One.",
+            "b. Two.",
+            "c. Three.",
+            "d. Four."
+        ],
+        "correct": "a. One."
+    },
+    {
+        "question": "2. (402) Which measurement determines the length of a screwdriver? ",
+        "options": [
+            "a. Overall length.",
+            "b. Length of the tip.",
+            "c. Length of the shank.",
+            "d. Length of the blade."
+        ],
+        "correct": "c. Length of the shank."
+    },
+    {
+        "question": "3. (402) When using an adjustable wrench, why do you not apply a pulling force to the adjustable jaw?",
+        "options": [
+            "a. The wrench is likely to slip.",
+            "b. You could break your wrist.",
+            "c. The wrench is likely to bend.",
+            "d. You could break your fingers."
+        ],
+        "correct": "a. The wrench is likely to slip."
+    },
+    {
+        "question": "4. (403) What tool should you use to cut openings when installing devices in finished walls? ",
+        "options": [
+            "a. Crosscut saw.",
+            "b. Compass saw.",
+            "c. Ripsaw.",
+            "d. Jab saw."
+        ],
+        "correct": "d. Jab saw."
+    },
+    {
+        "question": "5. (403) How is a hacksaw blade installed?",
+        "options": [
+            "a. Users preference.",
+            "b. Teeth facing away from handle.",
+            "c. Teeth facing towards the handle.",
+            "d. Depends on material that is being cut."
+        ],
+        "correct": "b. Teeth facing away from handle."
+    },
+    {
+        "question": "6. (404) What conduit bender is normally used for ½\" and ¾\" EMT?",
+        "options": [
+            "a. Hickey bender.",
+            "b. Electric bender.",
+            "c. One-shot bender.",
+            "d. Hydraulic bender."
+        ],
+        "correct": "c. One-shot bender."
+    },
+    {
+        "question": "7. (405) How do you know when a bit is properly tightened in a cordless drill? ",
+        "options": [
+            "a. Use a wrench to tighten the chuck.",
+            "b. You tighten it ½ turn past snug.",
+            "c. You will hear a clicking sound.",
+            "d. Until it doesn't move."
+        ],
+        "correct": "c. You will hear a clicking sound."
+    },
+    {
+        "question": "8. (406) What is the largest American standard wire gauge (AWG) size electrical wire? ",
+        "options": [
+            "a. 1/0.",
+            "b. 2/0.",
+            "c. 3/0.",
+            "d. 4/0."
+        ],
+        "correct": "d. 4/0."
+    },
+    {
+        "question": "9. (406) The kcmil size range for conductors is ",
+        "options": [
+            "a. 100 to 1,000.",
+            "b. 200 to 2,000.",
+            "c. 250 to 2,000.",
+            "d. 250 to 2,500."
+        ],
+        "correct": "c. 250 to 2,000."
+    },
+    {
+        "question": "10. (407) Pre-punched disks in a box that can be removed easily to permit conduit or cable connectors to be installed are called ",
+        "options": [
+            "a. blanks.",
+            "b. pryouts.",
+            "c. knockouts.",
+            "d. connector disks."
+        ],
+        "correct": "c. knockouts."
+    },
+    {
+        "question": "11. (408) What is the purpose of a raised box cover? ",
+        "options": [
+            "a. Provides space for three additional devices.",
+            "b. Allows for installation of a thicker wall surface after the box is mounted.",
+            "c. Allows the box to be mounted five eighths of an inch behind the wall surface. d. Provides added interior space as well as a cover for the box.",
+            "d. Provides added interior space as well as a cover for the box."
+        ],
+        "correct": "d. Provides added interior space as well as a cover for the box."
+    },
+    {
+        "question": "12. (409) When you are connecting rigid conduit to boxes, what is/are required for circuits above 250 volts?  ",
+        "options": [
+            "a. One locknut and a bushing.",
+            "b. Two locknuts and a bushing.",
+            "c. Two bushings and a locknut.",
+            "d. Two bushings and two locknuts."
+        ],
+        "correct": "b. Two locknuts and a bushing."
+    },
+    {
+        "question": "13. (409) Which condition below is not allowed?  ",
+        "options": [
+            "a. Using flexible metal tubing in lengths less than 6 feet.",
+            "b. Using flexible metal tubing in lengths greater than 6 feet.",
+            "c. Using rigid metal conduit in lengths greater than 6 feet.",
+            "d. Using liquid-tight flexible metal conduit in lengths greater than 6 feet."
+        ],
+        "correct": "b. Using flexible metal tubing in lengths greater than 6 feet."
+    },
+    {
+        "question": "14. (410) Which ratings are always found on switches? ",
+        "options": [
+            "a. Volts and watts.",
+            "b. Amperes and volts.",
+            "c. Amperes and watts.",
+            "d. Resistance and hertz."
+        ],
+        "correct": "b. Amperes and volts."
+    },
+    {
+        "question": "15. (411) What does the label TR signify on duplex receptacles? ",
+        "options": [
+            "a. Test regularly.",
+            "b. Tamper resistant.",
+            "c. Test resistor.",
+            "d. Training regulation."
+        ],
+        "correct": "b. Tamper resistant."
+    },
+    {
+        "question": "16. (412) Which part of a set of blueprints indicates the route of the service entrance? ",
+        "options": [
+            "a. Exterior elevations.",
+            "b. Interior elevations.",
+            "c. Detail drawings.",
+            "d. Plot plan."
+        ],
+        "correct": "d. Plot plan."
+    },
+    {
+        "question": "17. (413) The simplest form of electrical diagrams is the ",
+        "options": [
+            "a. block diagram.",
+            "b. wiring diagram.",
+            "c. schematic diagram.",
+            "d. connection diagram."
+        ],
+        "correct": "a. block diagram."
+    },
+    {
+        "question": "18. (414) The normal color code for wiring a device is ",
+        "options": [
+            "a. white to gold terminal, black to silver.",
+            "b. black to gold terminal, red to silver.",
+            "c. black to gold terminal, white to silver.",
+            "d. red to gold terminal, black to silver."
+        ],
+        "correct": "c. black to gold terminal, white to silver."
+    },
+    {
+        "question": "19. (415) What is the general lighting load of an office building with 1,600 square feet of living area?",
+        "options": [
+            "a. 533 watts.",
+            "b. 560 watts.",
+            "c. 5,333 watts.",
+            "d. 5,600 watts."
+        ],
+        "correct": "d. 5,600 watts."
+    },
+    {
+        "question": "20. (416) What is the total wattage of 9 ballasts rated at 1.5 amps each and fed by 277 volts? ",
+        "options": [
+            "a. 1,350.",
+            "b. 3,739.",
+            "c. 4,155.",
+            "d. 42,930."
+        ],
+        "correct": "b. 3,739."
+    },
+    {
+        "question": "21. (416) Heavy-duty lamp-holder outlets are calculated at ",
+        "options": [
+            "a. 300 volt-ohms.",
+            "b. 300 volt-amperes.",
+            "c. 600 volt-ohms.",
+            "d. 600 volt-amperes."
+        ],
+        "correct": "d. 600 volt-amperes."
+    },
+    {
+        "question": "22. (416) What is the required wattage for lighting of an industrial commercial (loft) building measuring 60 by 100 feet? ",
+        "options": [
+            "a. 6,000.",
+            "b. 12,000.",
+            "c. 18,000.",
+            "d. 24,000."
+        ],
+        "correct": "b. 12,000."
+    },
+    {
+        "question": "23. (417) The code letter on a motor data plate identifies ",
+        "options": [
+            "a. the manufacturer's name.",
+            "b. the voltage required for starting.",
+            "c. the current required for starting.",
+            "d. the locked-rotor current draw."
+        ],
+        "correct": "d. the locked-rotor current draw."
+    },
+    {
+        "question": "24. (418) To determine the total calculated load of a sub-panel, you should add all the amperages of the branch circuits plus what percent of the amperage of the largest motor? ",
+        "options": [
+            "a. 10.",
+            "b. 15.",
+            "c. 25.",
+            "d. 30."
+        ],
+        "correct": "c. 25."
+    },
+    {
+        "question": "25. (419) How many current carrying conductors can be installed in raceway before the current capacity of the conductors must be de-rated? ",
+        "options": [
+            "a. Two.",
+            "b. Three.",
+            "c. Four.",
+            "d. Five."
+        ],
+        "correct": "b. Three."
+    },
+    {
+        "question": "26. (419) All of the following are important when paralleling conductors, except what? ",
+        "options": [
+            "a. All conductors must be the same color.",
+            "b. Phases and neutrals must be separated.",
+            "c. Each neutral is run with its corresponding phases.",
+            "d. All conductors must be of same material, size and length."
+        ],
+        "correct": "b. Phases and neutrals must be separated."
+    },
+    {
+        "question": "27. (420) How many conductors are required for a 3-phase-wye service entrance used for power and lighting? ",
+        "options": [
+            "a. Four ungrounded conductors.",
+            "b. Three ungrounded conductors.",
+            "c. Three ungrounded and one grounded neutral conductors.",
+            "d. Two ungrounded and one grounded neutral conductors."
+        ],
+        "correct": "c. Three ungrounded and one grounded neutral conductors."
+    },
+    {
+        "question": "28. (421) A transformer that has primary and secondary turns in a ratio of 1 to 10, respectively, is a ",
+        "options": [
+            "a. step-up transformer.",
+            "b. power transformer.",
+            "c. step-down transformer.",
+            "d. distribution transformer."
+        ],
+        "correct": "a. step-up transformer."
+    },
+    {
+        "question": "29. (422) Power operated service disconnects are required to be designed so that they can be opened ",
+        "options": [
+            "a. externally.",
+            "b. manually.",
+            "c. quickly.",
+            "d. slowly."
+        ],
+        "correct": "b. manually."
+    },
+    {
+        "question": "30. (423) Two ways to keep rain from entering service entrance (SE) cables are to use a weatherhead or ",
+        "options": [
+            "a. entrance ell.",
+            "b. rain cap.",
+            "c. gooseneck.",
+            "d. junction box."
+        ],
+        "correct": "c. gooseneck."
+    },
+    {
+        "question": "31. (424) An underground distribution system is referred to as a service ",
+        "options": [
+            "a. entrance.",
+            "b. feeder.",
+            "c. lateral.",
+            "d. burial."
+        ],
+        "correct": "c. lateral."
+    },
+    {
+        "question": "32. (424) Underground services installed with cable must be buried to a depth of at least ",
+        "options": [
+            "a. 18 inches.",
+            "b. 24 inches.",
+            "c. 30 inches.",
+            "d. 36 inches."
+        ],
+        "correct": "b. 24 inches."
+    },
+    {
+        "question": "33. (425) In a panel with a neutral, what percentage is the smallest of the overcurrent devices that must be rated at 30 amperes or less for it to be classed as a lighting and appliance panel? ",
+        "options": [
+            "a. 5.",
+            "b. 10.",
+            "c. 20.",
+            "d. 25."
+        ],
+        "correct": "b. 10."
+    },
+    {
+        "question": "34. (426) When installing a panelboard in a damp location, what number of inches is the minimum distance the cabinet must be placed from the wall? ",
+        "options": [
+            "a. 1/8.",
+            "b. 1/4.",
+            "c. 3/8.",
+            "d. 1/2."
+        ],
+        "correct": "b. 1/4."
+    },
+    {
+        "question": "35. (426) The equipment ground bar and neutral bar are bonded together in a panel only when the panelboard also serves as the ",
+        "options": [
+            "a. distribution feeder.",
+            "b. service lateral.",
+            "c. load center.",
+            "d. service entrance equipment."
+        ],
+        "correct": "d. service entrance equipment."
+    },
+    {
+        "question": "36. (426) The purpose of balancing the load on a panelboard is to  ",
+        "options": [
+            "a. reduce voltage drop.",
+            "b. increase voltage drop.",
+            "c. reduce total current flow. d. increase neutral current flow.",
+            "d. increase neutral current flow."
+        ],
+        "correct": "a. reduce voltage drop."
+    },
+    {
+        "question": "37. (427) Which one of these circuits requires the use of GFCI protection? ",
+        "options": [
+            "a. 120 V/20 A receptacles in bathrooms.",
+            "b. 120 V/20 A receptacles in bedrooms.",
+            "c. 240 V/50 A range circuit. d. 240 V/30 A dryer circuit.",
+            "d. 240 V/30 A dryer circuit."
+        ],
+        "correct": "a. 120 V/20 A receptacles in bathrooms."
+    },
+    {
+        "question": "38. (428) The conductors between the final overcurrent devices and the outlets for connecting electrical equipment are called ",
+        "options": [
+            "a. supply conductors.",
+            "b. feeder conductors.",
+            "c. distribution conductors.",
+            "d. branch circuit conductors."
+        ],
+        "correct": "d. branch circuit conductors."
+    },
+    {
+        "question": "39. (429) What number is the CPS (Hertz) rating for most electrical equipment found in foreign countries? ",
+        "options": [
+            "a. 25.",
+            "b. 50.",
+            "c. 60.",
+            "d. 400."
+        ],
+        "correct": "b. 50."
+    },
+    {
+        "question": "40. (430) What electrical component is the normal use of an octagonal box?",
+        "options": [
+            "a. Switches.",
+            "b. Lighting outlet.",
+            "c. Receptacle outlet.",
+            "d. Special purpose receptacle."
+        ],
+        "correct": "b. Lighting outlet."
+    },
+    {
+        "question": "41. (431) What component must be equipped with a metal box used for an old-work installation? ",
+        "options": [
+            "a. F straps.",
+            "b. Support ears.",
+            "c. Spring metal clips.",
+            "d. Self-tapping screws."
+        ],
+        "correct": "b. Support ears."
+    },
+    {
+        "question": "42. (432) What metallic cable has a #16 AWG aluminum bonding wire but does not have a green grounding conductor? ",
+        "options": [
+            "a. .Health care facility cable (HCF)",
+            "b. Mineral insulated cable (MI).",
+            "c. Metal clad cable (MC).",
+            "d. Armored cable (AC)."
+        ],
+        "correct": "d. Armored cable (AC)."
+    },
+    {
+        "question": "43. (433) How is the minimum bend radius of metal clad cable calculated? ",
+        "options": [
+            "a. Multiply the radius of the cable by 5.",
+            "b. Multiply the cables outside diameter by 5.",
+            "c. Multiply the cables outside diameter by 7.",
+            "d. Multiply the radius of the cable by 7."
+        ],
+        "correct": "c. Multiply the cables outside diameter by 7."
+    },
+    {
+        "question": "44. (434) A pigtail splice is finished with ",
+        "options": [
+            "a. plastic tape.",
+            "b. a wire nut.",
+            "c. epoxy resin.",
+            "d. rubber and friction tape."
+        ],
+        "correct": "b. a wire nut."
+    },
+    {
+        "question": "45. (435) In addition to the splices required, grounding connections must be made to the boxes used in a circuit to ensure that they are ",
+        "options": [
+            "a. \"hot.\"",
+            "b. \"cold.\"",
+            "c. grounded.",
+            "d. insulated."
+        ],
+        "correct": "c. grounded."
+    },
+    {
+        "question": "46. (436) The maximum weight of a fixture that can be supported by an outlet box is",
+        "options": [
+            "a. 10 pounds.",
+            "b. 20 pounds.",
+            "c. 40 pounds.",
+            "d. 50 pounds."
+        ],
+        "correct": "d. 50 pounds."
+    },
+    {
+        "question": "47. (437) What is the taper per inch standard conduit-cutting die used on rigid metal conduit? ",
+        "options": [
+            "a. 1/4 inch.",
+            "b. 1/2 inch.",
+            "c. 3/4 inch.",
+            "d. 1 inch."
+        ],
+        "correct": "c. 3/4 inch."
+    },
+    {
+        "question": "48. (438) Bends made to conduit while on the job are called ",
+        "options": [
+            "a. field bends.",
+            "b. manual bends.",
+            "c. working bends.",
+            "d. handmade bends."
+        ],
+        "correct": "a. field bends."
+    },
+    {
+        "question": "49. (439) When a number of conduit runs are to be installed parallel and adjacent to each other you should install the  ",
+        "options": [
+            "a. largest conduit first.",
+            "b. smallest conduit first.",
+            "c. smallest conduit on top. d. conduit all at the same time.",
+            "d. conduit all at the same time."
+        ],
+        "correct": "d. conduit all at the same time."
+    },
+    {
+        "question": "50. (439) Electrical metallic tubing (EMT) and IMC require supports within how many inches and feet of each outlet box, junction box, cabinet, or fitting, and every other foot thereafter. ",
+        "options": [
+            "a. 36 inches/10 feet.",
+            "b. 18 inches/5feet.",
+            "c. 12 inches/3 feet.",
+            "d. 18 inches/5 feet."
+        ],
+        "correct": "a. 36 inches/10 feet."
+    },
+    {
+        "question": "51. (440) The number of conductors you can put in conduit is based on the ",
+        "options": [
+            "a. size of conduit, conductor insulation, and length of run.",
+            "b. size of conduit, conductor size, and conductor insulation.",
+            "c. size of conductor, length of run, and number of bends.",
+            "d. conductor insulation , length of run, and number of bends."
+        ],
+        "correct": "b. size of conduit, conductor size, and conductor insulation."
+    },
+    {
+        "question": "52. (441) Which of these items is not a part of a direct current (DC) motor? ",
+        "options": [
+            "a. Stator.",
+            "b. Endbells.",
+            "c. Armature.",
+            "d. Brush assembly."
+        ],
+        "correct": "a. Stator."
+    },
+    {
+        "question": "53. (442) The direct current (DC) shunt motor connects the field coils and armature in ",
+        "options": [
+            "a. series.",
+            "b. parallel.",
+            "c. series-parallel.",
+            "d. parallel-series."
+        ],
+        "correct": "b. parallel."
+    },
+    {
+        "question": "54. (443) The component of a three-phase motor connected to the load is the ",
+        "options": [
+            "a. armature.",
+            "b. endbell.",
+            "c. rotor.",
+            "d. stator."
+        ],
+        "correct": "c. rotor."
+    },
+    {
+        "question": "55. (444) The magnetic field of a three-phase motor rotor is caused by  ",
+        "options": [
+            "a. resistance in the squirrel cage.",
+            "b. current flow in the rotor.",
+            "c. impedance of the stator.",
+            "d. voltage in the end bells."
+        ],
+        "correct": "b. current flow in the rotor."
+    },
+    {
+        "question": "56. (445) Which of the following features describes three-phase motors best?",
+        "options": [
+            "a. Either single- or dual-voltage motors.",
+            "b. Must be supplied by 220 volts.",
+            "c. Always single-voltage motors.",
+            "d. Always dual-voltage motors."
+        ],
+        "correct": "a. Either single- or dual-voltage motors."
+    },
+    {
+        "question": "57. (446) The motor that requires some starting means is the ",
+        "options": [
+            "a. universal motor.",
+            "b. direct current (DC) shunt motor.",
+            "c. three-phase alternating current (AC) motor.",
+            "d. single-phase AC motor."
+        ],
+        "correct": "d. single-phase AC motor."
+    },
+    {
+        "question": "58. (447) Which of the following motors has the highest horsepower-to-weight ratio? ",
+        "options": [
+            "a. Direct current shunt motor.",
+            "b. Universal motor.",
+            "c. Three-phase dual-voltage motor.",
+            "d. Single-phase capacitor start motor."
+        ],
+        "correct": "b. Universal motor."
+    },
+    {
+        "question": "59. (448) A single-phase motor with external leads numbered T1, T2, T3, T4 is what type? ",
+        "options": [
+            "a. Single-voltage nonreversible.",
+            "b. Single-voltage reversible.",
+            "c. Dual-voltage nonreversible.",
+            "d. Dual-voltage reversible."
+        ],
+        "correct": "c. Dual-voltage nonreversible."
+    },
+    {
+        "question": "60. (449) Normally, an across-the-line motor control incorporates some type of ",
+        "options": [
+            "a. motor over-current protection.",
+            "b. lightning protection.",
+            "c. motor speed control.",
+            "d. frequency control."
+        ],
+        "correct": "a. motor over-current protection."
+    },
+    {
+        "question": "61. (450) The basic types of overload relays are ",
+        "options": [
+            "a. thermal and magnetic.",
+            "b. single- and three-phase.",
+            "c. mechanical and magnetic.",
+            "d. undervoltage and overcurrent."
+        ],
+        "correct": "a. thermal and magnetic."
+    },
+    {
+        "question": "62. (451) The methods used to open the contacts on an across-the-line magnetic controller are ",
+        "options": [
+            "a. spring tension and gravity.",
+            "b. magnetic and thermal.",
+            "c. thermal and hydraulic.",
+            "d. metallic and magnetic."
+        ],
+        "correct": "a. spring tension and gravity."
+    },
+    {
+        "question": "63. (451) A temperature-sensitive device to operate a magnetic across-the-line starter automatically is a ",
+        "options": [
+            "a. thermostat.",
+            "b. float switch.",
+            "c. pressure switch.",
+            "d. photoelectric cell."
+        ],
+        "correct": "a. thermostat."
+    },
+    {
+        "question": "64. (452) What are the three sections of a variable frequency drive? ",
+        "options": [
+            "a. Converter, alternating current (AC) Bus, and Inverter.",
+            "b. Converter, direct current (DC) Bus, and Inverter.",
+            "c. Pulse width modulation (PWM) Converter, DC Bus, and Inverter.",
+            "d. Converter, Rectifier, and Inverter."
+        ],
+        "correct": "b. Converter, direct current (DC) Bus, and Inverter."
+    },
+    {
+        "question": "65. (453) What type of bearing should be used in a vertically-mounted motor?",
+        "options": [
+            "a. Oillite sleeve.",
+            "b. Bronze sleeve.",
+            "c. Ball or roller.",
+            "d. Phenolic and brass sleeve."
+        ],
+        "correct": "c. Ball or roller."
+    },
+    {
+        "question": "66. (454) When you clean a motor with compressed air, what is the maximum air pressure to use? ",
+        "options": [
+            "a. 15 pounds per square inch (psi).",
+            "b. 30 psi.",
+            "c. 35 psi.",
+            "d. 50 psi."
+        ],
+        "correct": "b. 30 psi."
+    },
+    {
+        "question": "67. (455) If a motor has been operating normally but suddenly stops, you should suspect ",
+        "options": [
+            "a. improper connections.",
+            "b. electrical overload.",
+            "c. overvoltage.",
+            "d. worn brushes."
+        ],
+        "correct": "b. electrical overload."
+    },
+    {
+        "question": "68. (455) The end play of a motor should not exceed ",
+        "options": [
+            "a. 1/8 of an inch.",
+            "b. 1/16 of an inch.",
+            "c. 1/32 of an inch.",
+            "d. 1/64 of an inch."
+        ],
+        "correct": "d. 1/64 of an inch."
+    },
+    {
+        "question": "69. (456) The conductor common to both the starting and holding circuits is connected to terminal ",
+        "options": [
+            "a. L1.",
+            "b. T1.",
+            "c. L2.",
+            "d. T2."
+        ],
+        "correct": "a. L1."
+    },
+    {
+        "question": "70. (457) A motor that operates slowly may have a ",
+        "options": [
+            "a. deficient voltage supply.",
+            "b. ventilation problem.",
+            "c. bad conductor.",
+            "d. blown fuse."
+        ],
+        "correct": "a. deficient voltage supply."
+    }
+]
