@@ -1,0 +1,2973 @@
+[
+    {
+        "question": "1. (001) Light fixtures are classified by ",
+        "options": [
+            "a. the way they distribute light.",
+            "b. the way they are installed.",
+            "c. their width and length.",
+            "d. their size and weight."
+        ],
+        "correct": "a. the way they distribute light."
+    },
+    {
+        "question": "2. (001) Which light classification directs from 40 to 60 percent of its light upward above the area to be lighted?",
+        "options": [
+            "a. Indirect.",
+            "b. Semidirect.",
+            "c. Semi-indirect.",
+            "d. General diffusing."
+        ],
+        "correct": "d. General diffusing."
+    },
+    {
+        "question": "3. (001) Which classification of light fixture directs all its light so that the entire ceiling and upper side walls become the light source?",
+        "options": [
+            "a. Indirect.",
+            "b. Semidirect.",
+            "c. Semi-indirect.",
+            "d. General diffusing."
+        ],
+        "correct": "a. Indirect."
+    },
+    {
+        "question": "4. (001) What is the unit of measurement for lumens per square meter?",
+        "options": [
+            "a. Lux",
+            "b. Foot-candle",
+            "c. Candlepower",
+            "d. Meter-candle"
+        ],
+        "correct": "a. Lux"
+    },
+    {
+        "question": "5. (001) The efficiency range of a lamp is measured in lumens per",
+        "options": [
+            "a. volt.",
+            "b. ohm.",
+            "c. watt.",
+            "d. amp."
+        ],
+        "correct": "c. watt."
+    },
+    {
+        "question": "6. (002) Incandescent lamps have efficiencies ranging from ",
+        "options": [
+            "a. 1 to 6 lumens per Watt." ,
+            "b. 6 to 24 lumens per Watt.",
+            "c. 24 to 60 lumens per Watt.",
+            "d. 60 to 240 lumens per Watt."
+        ],
+        "correct": "b. 6 to 24 lumens per Watt."
+    },
+    {
+        "question": "7. (002) What is the diameter of a T8 lamp? ",
+        "options": [
+            "a. 8/2 inch.",
+            "b. 8/4 inch.",
+            "c. 8/8 inch.",
+            "d. 8/16 inch."
+        ],
+        "correct": "c. 8/8 inch."
+    },
+    {
+        "question": "8. (002) What frequency should you expect to find in electronic ballasts used in fluorescent lighting systems? ",
+        "options": [
+            "a. 120 to 208 hertz (Hz).",
+            "b. 400 to 600 Hz.",
+            "c. 2,400 to 4,160 Hz.",
+            "d. 25,000 to 40,000 Hz."
+        ],
+        "correct": "d. 25,000 to 40,000 Hz."
+    },
+    {
+        "question": "9. (002) What is used to power a light emitting diode (LED) array in a non-integrated LED fixture? ",
+        "options": [
+            "a. LED starter.",
+            "b. LED driver.",
+            "c. LED ballast.",
+            "d. LED transformer."
+        ],
+        "correct": "b. LED driver."
+    },
+    {
+        "question": "10. (003) What is a disadvantage of high-intensity discharge (HID) lamps?",
+        "options": [
+            "a. Low lumen per watt output.",
+            "b. Lamp size is large.",
+            "c. Lamp life is short.",
+            "d. Restrike time."
+        ],
+        "correct": "d. Restrike time."
+    },
+    {
+        "question": "11. (003) What are the voltages that the 150-watt high-pressure sodium (HPS) lamp comes in?",
+        "options": [
+            "a. 55 and 100 volts.",
+            "b. 55 and 220 volts.",
+            "c. 120 and 277 volts.",
+            "d. 100 and 480 volts."
+        ],
+        "correct": "a. 55 and 100 volts."
+    },
+    {
+        "question": "12. (003) What color light is associated with high-pressure sodium (HPS) lamps? ",
+        "options": [
+            "a. Violet.",
+            "b. Golden.",
+            "c. Green-blue.",
+            "d. Blue-white."
+        ],
+        "correct": "b. Golden."
+    },
+    {
+        "question": "13. (004) Which type of fixture is installed by laying it into the grid of a suspended ceiling?",
+        "options": [
+            "a. Surface mount.",
+            "b. Flush mount.",
+            "c. Wall mount.",
+            "d. Troffer."
+        ],
+        "correct": "d. Troffer."
+    },
+    {
+        "question": "14. (004) When installing an octagon box for a new flush mount fixture what is important to ensure that the mounting method does not fail? ",
+        "options": [
+            "a. Box is sized to support the fixture.",
+            "b. The fixture is less than 10 pounds.",
+            "c. Fixture is secured using sheetrock screws.",
+            "d. Fill capacity of the box to allow enough space for connections."
+        ],
+        "correct": "a. Box is sized to support the fixture."
+    },
+    {
+        "question": "15. (005) What are the two types of phase cut dimmers? ",
+        "options": [
+            "a. Forward and reverse.",
+            "b. Analog and digital.",
+            "c. Positive and negative.",
+            "d. Single pole and double pole."
+        ],
+        "correct": "a. Forward and reverse."
+    },
+    {
+        "question": "16. (005) How does a phase cut dimmer operate? ",
+        "options": [
+            "a. A variable resistor is used to lower the voltage.", 
+            "b. Two or more resistors are used to form a voltage divider.",
+            "c. The root mean square (RMS) voltage is reduced by turning off a portion of the input waveform.",
+            "d. Semiconductor switches are used to turn off only the negative portion of the input waveform."
+        ],
+        "correct": "c. The root mean square (RMS) voltage is reduced by turning off a portion of the input waveform."
+    },
+    {
+        "question": "17. (005) What is the light output of a fixture using a 0-10V ballast with 10 volts on the low voltage control circuit? ",
+        "options": [
+            "a. 10 %.",
+            "b. 50 %.",
+            "c. 80 %.",
+            "d. 100 %."
+        ],
+        "correct": "a. 10 %."
+    },
+    {
+        "question": "18. (006) What type of light fixture is typically used to illuminate aircraft on the parking apron? ",
+        "options": [
+            "a. 500-watt (W) floodlight.",
+            "b. 150W Cobra Head.",
+            "c. Low-pressure sodium (LPS) light fixture.",
+            "d. 1000W - 1500W high intensity discharge (HID) floodlight."
+        ],
+        "correct": "d. 1000W - 1500W high intensity discharge (HID) floodlight."
+    },
+    {
+        "question": "19. (006) In an incandescent lamp, how much consumed energy is lost in the form of heat? ",
+        "options": [
+            "a. 10 %.",
+            "b. 50 %.",
+            "c. 75 %.",
+            "d. 90 %."
+        ],
+        "correct": "d. 90 %."
+    },
+    {
+        "question": "20. (006) What device is used in high-intensity discharge (HID) lamps to limit current as the lamp heats up? ",
+        "options": [
+            "a. Ballast.",
+            "b. Inductor.",
+            "c. Resistor.",
+            "d. Capacitor."
+        ],
+        "correct": "a. Ballast."
+    },
+    {
+        "question": "21. (006) What letter represents the American National Standards Institute's special designation code for high-pressure sodium (HPS) lamps? ",
+        "options": [
+            "a. S.",
+            "b. H.",
+            "c. L.",
+            "d. M."
+        ],
+        "correct": "a. S."
+    },
+    {
+        "question": "22. (007) When installing fixtures, ensure uniform lighting by ",
+        "options": [
+            "a. using only mercury vapor fixtures.",
+            "b. adjusting fixtures to 5º from horizontal.",
+            "c. using only high-pressure sodium fixtures.", 
+            "d. adjusting fixtures so that illuminated areas overlap."
+        ],
+        "correct": "d. adjusting fixtures so that illuminated areas overlap."
+    },
+    {
+        "question": "23. (007) To ensure that the proper amount of light is provided after fixture installation, check the lighting with ",
+        "options": [
+            "a. a stake.",
+            "b. a voltmeter.",
+            "c. a light meter.",
+            "d. an ohmmeter."
+        ],
+        "correct": "c. a light meter."
+    },
+    {
+        "question": "24. (007) When troubleshooting a 120-volt photocell, which conductor should provide power to the light fixture?  ",
+        "options": [
+            "a. Load (red).",
+            "b. Line (black).",
+            "c. Neutral (white).",
+            "d. None of the above."
+        ],
+        "correct": "a. Load (red)."
+    },
+    {
+        "question": "25. (007) To prevent injury during re-lamping procedures, you must ",
+        "options": [
+            "a. wear leather gloves.",
+            "b. de-energize the light fixture.",
+            "c. wear approved safety goggles.",
+            "d. do all of the above tasks."
+        ],
+        "correct": "d. do all of the above tasks."
+    },
+    {
+        "question": "26. (008) Which airfield lights have yellow filters installed for the last 2,000 feet of runaway? ",
+        "options": [
+            "a. Threshold lights.",
+            "b. Runway edge lights.",
+            "c. Terminating bar lights.", 
+            "d. Runway distance marker lights."
+        ],
+        "correct": "b. Runway edge lights."
+    },
+    {
+        "question": "27. (008) Which airfield lights provide positive identification of the beginning of the operational runway surface for approaching aircraft? ",
+        "options": [
+            "a. Threshold lights.",
+            "b. Runway edge lights.",
+            "c. Terminating bar lights.", 
+            "d. Runway distance marker lights."
+        ],
+        "correct": "a. Threshold lights."
+    },
+    {
+        "question": "28. (008) Which airfield fixture is unidirectional?",
+        "options": [
+            "a. Runway centerline.",
+            "b. Taxiway edge.",
+            "c. Runway edge.",
+            "d. Approach."
+        ],
+        "correct": "d. Approach."
+    },
+    {
+        "question": "29. (008) Which of the following items are found on ALSF-2 approaches? ",
+        "options": [
+            "a. Runway edge lights.",
+            "b. Runway end lights.",
+            "c. Terminating bar.",
+            "d. 500 foot bar."
+        ],
+        "correct": "d. 500 foot bar."
+    },
+    {
+        "question": "30. (008) What color is used for the taxiway edge light? ",
+        "options": [
+            "a. Yellow.",
+            "b. White.",
+            "c. Blue.",
+            "d. Red."
+        ],
+        "correct": "c. Blue."
+    },
+    {
+        "question": "31. (009) One of the main control panels for the airfield lights is in the vault; where is the other panel located? ",
+        "options": [
+            "a. Control tower.",
+            "b. Base operations.",
+            "c. Aircraft terminal.",
+            "d. Center of the approach."
+        ],
+        "correct": "a. Control tower."
+    },
+    {
+        "question": "32. (010) What should you have available if your system uses 48-volt DC control? ",
+        "options": [
+            "a. An extra master sequence panel.",
+            "b. An extra power supply module.",
+            "c. Low-burden pilot relay panel.", 
+            "d. A large battery."
+        ],
+        "correct": "b. An extra power supply module."
+    },
+    {
+        "question": "33. (010) The standard control cable for an airfield lighting control system has how many conductors?",
+        "options": [
+            "a. 4.",
+            "b. 5.",
+            "c. 6.",
+            "d. 7."
+        ],
+        "correct": "d. 7."
+    },
+    {
+        "question": "34. (010) Which airfield vault device is used to swap location of control of the airfield lights?",
+        "options": [
+            "a. MA-1 panel.",
+            "b. Transfer switch.",
+            "c. Pilot relay panel.",
+            "d. Circuit breaker panel."
+        ],
+        "correct": "b. Transfer switch."
+    },
+    {
+        "question": "35. (010) What size cable is used for airfield light field circuits? ",
+        "options": [
+            "a. No. 2.",
+            "b. No. 4.",
+            "c. No. 6.",
+            "d. No. 8."
+        ],
+        "correct": "d. No. 8."
+    },
+    {
+        "question": "36. (011) How are the output leads of an airfield regulator labeled?",
+        "options": [
+            "a. X1 and X2.",
+            "b. X1 and X3.",
+            "c. H1 and H2.",
+            "d. H1 and H3."
+        ],
+        "correct": "c. H1 and H2."
+    },
+    {
+        "question": "37. (011) What size counterpoise is used for airfield lighting circuits? ",
+        "options": [
+            "a. No. 4 American wire gauge (AWG).",
+            "b. No. 2 AWG.",
+            "c. No. 1/0 AWG.",
+            "d. No. 2/0 AWG."
+        ],
+        "correct": "a. No. 4 American wire gauge (AWG)."
+    },
+    {
+        "question": "38. (011) What must be done before replacing an isolating (IL) transformer?",
+        "options": [
+            "a. Apply two half-lapped layers of tape to the connectors.",
+            "b. Call the electrical superintendent for clearance.",
+            "c. Cut the ends off of the old IL transformer.",
+            "d. De-energize, tag, and ground the circuit."
+        ],
+        "correct": "d. De-energize, tag, and ground the circuit."
+    },
+    {
+        "question": "39. (011) What feature is common to elevated airfield lights?",
+        "options": [
+            "a. They use a higher wattage lamp than other lights.",
+            "b. They use a lower wattage lamp than other lights.",
+            "c. They are built with frangible construction.",
+            "d. They are sturdier than semiflush lights."
+        ],
+        "correct": "c. They are built with frangible construction."
+    },
+    {
+        "question": "40. (012) The primary purpose of the rotating/airport beacon is to",
+        "options": [
+            "a. mark the highest airfield obstruction.",
+            "b. inform pilots of their altitude.",
+            "c. determine visibility distances.",
+            "d. guide the pilot to the airfield."
+        ],
+        "correct": "d. guide the pilot to the airfield."
+    },
+    {
+        "question": "41. (012) How many revolutions per minute (RPM) does the airport beacon turn?",
+        "options": [
+            "a. 6.",
+            "b. 12.",
+            "c. 15.",
+            "d. 20."
+        ],
+        "correct": "a. 6."
+    },
+    {
+        "question": "42. (012) What occurs when the operating lamp in the airport beacon fails?",
+        "options": [
+            "a. A buzzer is activated in the tower.",
+            "b. A signal light in the vault is activated.",
+            "c. Base operations initiates an emergency service call.",
+            "d. A reserve lamp is placed in operation automatically."
+        ],
+        "correct": "d. A reserve lamp is placed in operation automatically."
+    },
+    {
+        "question": "43. (012) What voltage is necessary to run the airport beacon? ",
+        "options": [
+            "a. 120 volts.",
+            "b. 120/240 volts.",
+            "c. 240/416 volts.",
+            "d. 2,400 volts."
+        ],
+        "correct": "b. 120/240 volts."
+    },
+    {
+        "question": "44. (013) What device can be used to change voltage up or down for the airport beacon lamps? ",
+        "options": [
+            "a. MA-1 panel.",
+            "b. The beacon motor's tap block.",
+            "c. The tap changer in the distribution transformer.", 
+            "d. The constant-current regulator that feeds the beacon circuit."
+        ],
+        "correct": "c. The tap changer in the distribution transformer."
+    },
+    {
+        "question": "45. (013) What do we use to clean the airport beacon's slip rings? ",
+        "options": [
+            "a. Wood alcohol.",
+            "b. Light sanding.",
+            "c. Penetrating oil.",
+            "d. A burnishing tool."
+        ],
+        "correct": "a. Wood alcohol."
+    },
+    {
+        "question": "46.(014) What station marks the start of the strobe system?",
+        "options": [
+            "a.Station 20+00.",
+            "b.Station 20+10.",
+            "c.Station 30+00.",
+            "d.Station 30+10."
+        ],
+        "correct": "c.Station 30+00."
+    },
+    {
+        "question": "47.(014) How often does each strobe light unit flash?",
+        "options": [
+            "a.Once each second.",
+            "b.Twice each second.",
+            "c.Once every 2 seconds.",
+            "d.Once every 4 seconds."
+        ],
+        "correct": "b.Twice each second."
+    },
+    {
+        "question": "48.(014) The strobe system is capable of producing how many brightness steps?.",
+        "options": [
+            "a. 1.",
+            "b. 2.",
+            "c. 3.",
+            "d. 4."
+        ],
+        "correct": "c. 3."
+    },
+    {
+        "question": "49.(014) The wire that connects the flash head to the individual control cabinet is rated at",
+        "options": [
+            "a.600 V.",
+            "b.3 kV.",
+            "c.5 kV.",
+            "d.15 kV."
+        ],
+        "correct": "b.3 kV."
+    },
+    {
+        "question": "50.(014) When does the hour (elapsed-time) meter operate?",
+        "options": [
+            "a.Any time system is turned on.",
+            "b.When system is in stand-by mode.",
+            "c.When system is operated on high intensity.",
+            "d.When system is operated on medium intensity."
+        ],
+        "correct": "c.When system is operated on high intensity."
+    },
+    {
+        "question": "51.(014) What would indicate a failure condition on the lightning protection varistors?",
+        "options": [
+            "a.Blown fuse F1.",
+            "b.Changes color to blue.",
+            "c.Charring on the surface.",
+            "d.Lamp L3 blinks intermittently."
+        ],
+        "correct": "c.Charring on the surface."
+    },
+    {
+        "question": "52.(015) How long does it take the flash capacitors to bleed off their charge?",
+        "options": [
+            "a.1 second.",
+            "b.1 minute.",
+            "c.30 seconds.",
+            "d.30 minutes."
+        ],
+        "correct": "b.1 minute."
+    },
+    {
+        "question": "53.(015) What is indicated when two skips occur within 100 flashes of the condenser discharge system?",
+        "options": [
+            "a.Excessive dirt accumulation on the lens.",
+            "b.Over voltage to the flasher.",
+            "c.Misaligned fixture.",
+            "d.A worn out lamp."
+        ],
+        "correct": "d.A worn out lamp."
+    },
+    {
+        "question": "54. (016) After notifying the control tower, what should you do before working on control circuits? ",
+        "options": [
+            "a. Isolate the circuit.",
+            "b. Notify your supervisor.", 
+            "c. Test the circuit with an ohmmeter.",
+            "d. Open fused cutouts on transformer."
+        ],
+        "correct": "a. Isolate the circuit."
+    },
+    {
+        "question": "55. (016) What indication is considered \"good\" when you read across a closed switch with a voltmeter?",
+        "options": [
+            "a. One-half output voltage.",
+            "b. One-half input voltage.", 
+            "c. Full input voltage.",
+            "d. Zero volts."
+        ],
+        "correct": "d. Zero volts."
+    },
+    {
+        "question": "56. (016) To check the coil of a deenergized relay, use ",
+        "options": [
+            "a. a voltmeter.",
+            "b. an ammeter.",
+            "c. an ohmmeter.",
+            "d. a circuit tracer."
+        ],
+        "correct": "c. an ohmmeter."
+    },
+    {
+        "question": "57. (017) How are animals prevented from chewing on airfield lighting fixture cords? ",
+        "options": [
+            "a. Fixtures are designed so that no cords are exposed.",
+            "b. Using a yellow colored fixture to scare them away.",
+            "c. By applying pesticides to the fixture.",
+            "d. By energizing portions of the fixture."
+        ],
+        "correct": "a. Fixtures are designed so that no cords are exposed."
+    },
+    {
+        "question": "58. (017) What is used to maintain contact with the tower when away from the truck?",
+        "options": [
+            "a. Runners.",
+            "b. Hand signals.",
+            "c. Hand-held radios.",
+            "d. Flashlight signals."
+        ],
+        "correct": "c. Hand-held radios."
+    },
+    {
+        "question": "59. (017) What should you do just before screwing an elevated fixture coupling onto the base?",
+        "options": [
+            "a. Tighten the lock-ring until it is fully seated to the base.",
+            "b. Twist the entire fixture clockwise several full rotations.",
+            "c. Loosen the lock-ring until it is completely free of the fixture.",
+            "d. Twist the entire fixture counterclockwise several full rotations."
+        ],
+        "correct": "d. Twist the entire fixture counterclockwise several full rotations."
+    },
+    {
+        "question": "60. (018) Which approach lighting system maintenance item must be performed daily? ",
+        "options": [
+            "a. Replace gaskets.",
+            "b. Clean and polish lenses.",
+            "c. Check and record burned out lamps.",
+            "d. Check and record secondary amperage readings."
+        ],
+        "correct": "c. Check and record burned out lamps."
+    },
+    {
+        "question": "61. (018) When should you check all approach light fixtures for alignment? ",
+        "options": [
+            "a. Weekly.",
+            "b. Biweekly.",
+            "c. Once a year.",
+            "d. Twice a year."
+        ],
+        "correct": "d. Twice a year."
+    },
+    {
+        "question": "62. (019) Where is the precision approach path indicator (PAPI) system located? ",
+        "options": [
+            "a. Always facing north.",
+            "b. Always facing south.",
+            "c. On the left side of the runway.",
+            "d. On the right side of the runway."
+        ],
+        "correct": "c. On the left side of the runway."
+    },
+    {
+        "question": "63. (019) What occurs when a precision approach path indicator (PAPI) unit gets misaligned by more than ½ degree up or 1 degree down?",
+        "options": [
+            "a. A buzzer sounds in the tower cab.",
+            "b. A tilt switch opens the entire circuit.",
+            "c. A warning light is turned on at the unit.",
+            "d. A warning light is turned on at the vault."
+        ],
+        "correct": "b. A tilt switch opens the entire circuit."
+    },
+    {
+        "question": "64. (020) How often are dielectric oil tests made on airfield regulators?",
+        "options": [
+            "a. Monthly.",
+            "b. Quarterly.",
+            "c. Semiannually.",
+            "d. Annually."
+        ],
+        "correct": "d. Annually."
+    },
+    {
+        "question": "65. (020) When you tie together two airfield light circuits for emergency operation, what do you do to prevent regulator overload?",
+        "options": [
+            "a. Increase regulator current output.",
+            "b. Remove every third airfield light from the new circuit.",
+            "c. Move the control wire from step 5 relay to step 4 relay.",
+            "d. Parallel the two circuits before you connect them to the regulator."
+        ],
+        "correct": "c. Move the control wire from step 5 relay to step 4 relay."
+    },
+    {
+        "question": "66. (021) What meter do you use to perform insulation resistance tests on airfield light circuits?",
+        "options": [
+            "a. Hypot.",
+            "b. Multimeter.",
+            "c. Megohmmeter.",
+            "d. Signal-generator."
+        ],
+        "correct": "c. Megohmmeter."
+    },
+    {
+        "question": "67. (021) To perform a direct current (DC) hi-potential test on a high-intensity runway edge circuit, what voltage value do you use?",
+        "options": [
+            "a. 5,000.",
+            "b. 10,000.",
+            "c. 15,000.",
+            "d. 20,000."
+        ],
+        "correct": "a. 5,000."
+    },
+    {
+        "question": "68. (021) In order to perform a direct current (DC) hi-potential test on an airfield light circuit, what do you do with the leads once you remove them from the airfield regulator? ",
+        "options": [
+            "a. Short both leads.",
+            "b. Ground both leads.",
+            "c. Support one lead and ground the other.",
+            "d. Support both leads and keep them clear of each other and the ground."
+        ],
+        "correct": "d. Support both leads and keep them clear of each other and the ground."
+    },
+    {
+        "question": "69. (021) When using radios, which two words should you use to describe circuit conditions? ",
+        "options": [
+            "a. Off/on.",
+            "b. Go/no-go.",
+            "c. Open/closed.",
+            "d. Inside/outside."
+        ],
+        "correct": "c. Open/closed."
+    },
+    {
+        "question": "70. (021) Which method of troubleshooting is potentially destructive, and should not be used first? ",
+        "options": [
+            "a. Insulation resistance testing.",
+            "b. Intentional grounding.", 
+            "c. Intentional opening.",
+            "d. Cable tracing."
+        ],
+        "correct": "b. Intentional grounding."
+    },
+    {
+        "question": "1. (201) Which section of the Operation and Service Instructions Manual contains instructions for uncrating, installing, and preparing equipment for initial operations?",
+        "options": [
+            "a. Section 1.",
+            "b. Section 2.",
+            "c. Section 3.",
+            "d. Section 4."
+        ],
+        "correct": "c. Section 3."
+    },
+    {
+        "question": "2. (201) Which section of the Operation and Service Instructions Manual contains step-by-step instructions for starting, operating, and stopping equipment?",
+        "options": [
+            "a. Section 1.",
+            "b. Section 2.",
+            "c. Section 3.",
+            "d. Section 4."
+        ],
+        "correct": "d. Section 4."
+    },
+    {
+        "question": "3. (202) Which time compliance technical order (TCTO) requires you to discontinue use of equipment until prescribed maintenance work is completed?",
+        "options": [
+            "a. Interim TCTOs.",
+            "b. Record TCTOs.",
+            "c. Urgent action TCTOs.",
+            "d. Immediate action TCTOs."
+        ],
+        "correct": "d. Immediate action TCTOs."
+    },
+    {
+        "question": "4. (202) The time compliance technical order (TCTO) that must be issued if the risk involved is tolerable only within definite time limits is the ",
+        "options": [
+            "a. record TCTO.",
+            "b. interim TCTO.",
+            "c. urgent action TCTO.",
+            "d. immediate action TCTO."
+        ],
+        "correct": "c. urgent action TCTO."
+    },
+    {
+        "question": "5. (203) What do all technical order (TO) indexes have as the first number? ",
+        "options": [
+            "a. Zero (0).",
+            "b. One (1).",
+            "c. Two (2).",
+            "d. Three (3)."
+        ],
+        "correct": "a. Zero (0)."
+    },
+    {
+        "question": "6. (204) What format is used to submit corrections to a technical order (TO)?",
+        "options": [
+            "a. TO 00-5-1, AF Technical Order System.",
+            "b. TO 0-1-01, Numerical Index and Requirements Tables.",
+            "c. AFTO Form 158, Technical Order Review Comment Sheet.",
+            "d. AFTO Form 22, Technical Manual (TM) Change Recommendation and Reply."
+        ],
+        "correct": "d. AFTO Form 22, Technical Manual (TM) Change Recommendation and Reply."
+    },
+    {
+        "question": "7. (204) Which technical order (TO) improvement recommendation requires action within 40 days of its receipt?",
+        "options": [
+            "a. Urgent.",
+            "b. Routine.",
+            "c. Time compliance.",
+            "d. Emergency/critical hazard."
+        ],
+        "correct": "a. Urgent."
+    },
+    {
+        "question": "8. (204) What type of technical order (TO) improvement recommendation is submitted if prescribed maintenance procedures reduce the operational life of equipment?",
+        "options": [
+            "a. Urgent.",
+            "b. Routine.",
+            "c. Emergency.",
+            "d. Time compliance."
+        ],
+        "correct": "b. Routine."
+    },
+    {
+        "question": "9. (205) How are Unified Criteria Facilities (UFC) organized?",
+        "options": [
+            "a. Units and Volumes.",
+            "b. Chapters and Articles.",
+            "c. Chapters and Volumes.",
+            "d. Series and Sub-Categories."
+        ],
+        "correct": "d. Series and Sub-Categories."
+    },
+    {
+        "question": "10. (205) What information is in Chapter 1 of a Unified Criteria Facilities (UFC)?",
+        "options": [
+            "a. General overview listing the purpose, scope, and references for the UFC.",
+            "b. Table of contents.",
+            "c. Foreword.",
+            "d. Glossary."
+        ],
+        "correct": "a. General overview listing the purpose, scope, and references for the UFC."
+    },
+    {
+        "question": "11. (206) Who publishes the National Electric Code? ",
+        "options": [
+            "a. National Fire Protection Association (NFPA).",
+            "b. American National Standards Institute (ANSI).",
+            "c. National Electrical Manufactures Association (NEMA).",
+            "d. Institute of Electrical and Electronics Engineers (IEEE)."
+        ],
+        "correct": "a. National Fire Protection Association (NFPA)."
+    },
+    {
+        "question": "12. (206) What publication number is the National Electric Code?",
+        "options": [
+            "a. National Fire Protection Association (NFPA) 70E.",
+            "b. NFPA 72.",
+            "c. NFPA 70B.",
+            "d. NFPA 70."
+        ],
+        "correct": "d. NFPA 70."
+    },
+    {
+        "question": "13. (206) What publication number is the Standard for Electrical Safety in the Workplace? ",
+        "options": [
+            "a. National Fire Protection Association (NFPA) 70E.",
+            "b. NFPA 72.",
+            "c. NFPA 70B.",
+            "d. NFPA 70."
+        ],
+        "correct": "a. National Fire Protection Association (NFPA) 70E."
+    },
+    {
+        "question": "14. (207) What number is the maximum ohmic reading for static grounds according to current Air Force directives? ",
+        "options": [
+            "a. 10.",
+            "b. 1,000.",
+            "c. 10,000.",
+            "d. 100,000."
+        ],
+        "correct": "c. 10,000."
+    },
+    {
+        "question": "15. (207) An equipment ground is a grounding system that ",
+        "options": [
+            "a. stabilizes voltage between two or more metallic objects.",
+            "b. removes excess voltage from current carrying metallic objects.",
+            "c. drains off static electricity before a sparking potential is reached.",
+            "d. connects to earth all nonconcurrent carrying metal parts of an electrical wiring system."
+        ],
+        "correct": "d. connects to earth all nonconcurrent carrying metal parts of an electrical wiring system."
+    },
+    {
+        "question": "16. (207) What maximum ground resistance is the value for an electrical system with a voltage of 600 volts alternating current (VAC) or less?",
+        "options": [
+            "a. 1 ohm.",
+            "b. 5 ohms.",
+            "c. 10 ohms.",
+            "d. 25 ohms."
+        ],
+        "correct": "d. 25 ohms."
+    },
+    {
+        "question": "17. (207) During which season could you expect to measure the lowest ground reading? ",
+        "options": [
+            "a. Fall.",
+            "b. Spring.",
+            "c. Summer.",
+            "d. Winter."
+        ],
+        "correct": "b. Spring."
+    },
+    {
+        "question": "18. (208) Which location is the correct location for grounding a system neutral? ",
+        "options": [
+            "b. Source side of service entrance.",
+            "c. Load side of service entrance and outlets.",
+            "d. Source side of service entrance and outlets."
+        ],
+        "correct": "b. Source side of service entrance."
+    },
+    {
+        "question": "19. (208) A system neutral conductor is likely grounded improperly (grounded on the load side of the service entrance disconnect), if the ohmic value is less than ",
+        "options": [
+            "a. 10K.",
+            "b. 20K.",
+            "c. 30K.",
+            "d. 40K."
+        ],
+        "correct": "b. 20K."
+    },
+    {
+        "question": "20. (209) At what intervals should a wye-connected distribution system neutral be grounded? ",
+        "options": [
+            "a. At a distance not to exceed ¼ mile.",
+            "b. At a distance not to exceed ½ mile.",
+            "c. At a distance not to exceed 1 mile.",
+            "d. This system neutral is not grounded."
+        ],
+        "correct": "a. At a distance not to exceed ¼ mile."
+    },
+    {
+        "question": "21. (209) What recommended depth is the top of a ground rod driven for distribution pole grounding? ",
+        "options": [
+            "a. At ground level.",
+            "b. Below ground level.",
+            "c. 1 foot above ground level.",
+            "d. 2 feet below ground level."
+        ],
+        "correct": "d. 2 feet below ground level."
+    },
+    {
+        "question": "22. (210) The metal frame of a building can be used as a facility ground ",
+        "options": [
+            "a. if the frame is effectively grounded.",
+            "b. if the building is equipped with air terminals.",
+            "c. only when it is supported by insulated flanges.",
+            "d. only if the braces are separately bonded to the ground loop."
+        ],
+        "correct": "a. if the frame is effectively grounded."
+    },
+    {
+        "question": "23. (210) What are the requirements for a facility ground rod? ",
+        "options": [
+            "a. 4 feet long; copper-clad steel, solid copper, or galvanized steel.",
+            "b. 8 feet long; copper-clad steel, solid copper, or galvanized steel.",
+            "c. 4 feet long; copper-clad steel, solid copper, or stainless steel.",
+            "d. 8 feet long; copper-clad steel, solid copper, or stainless steel."
+        ],
+        "correct": "d. 8 feet long; copper-clad steel, solid copper, or stainless steel."
+    },
+    {
+        "question": "24. (210) Which is the minimum allowed resistance for an electrode used for communications network grounds? ",
+        "options": [
+            "a. 25 ohms.",
+            "b. 20 ohms.",
+            "c. 10 ohms.",
+            "d. 5 ohms."
+        ],
+        "correct": "c. 10 ohms."
+    },
+    {
+        "question": "25. (210) Isolated ground (IG) receptacles are used in circuits feeding electronic devices to ",
+        "options": [
+            "a. minimize noise.",
+            "b. filter voltage spikes.",
+            "c. stabilize current draw.",
+            "d. block high voltage generated from lightning strikes."
+        ],
+        "correct": "a. minimize noise."
+    },
+    {
+        "question": "26. (210) In an isolated ground (IG) receptacle, the ",
+        "options": [
+            "a. grounding pin is purposely insulated from the outlet box.",
+            "b. IG will be bonded to other grounds in the immediate area.",
+            "c. IG must have its own lightning arrester.",
+            "d. IG must have its own driven ground rod."
+        ],
+        "correct": "a. grounding pin is purposely insulated from the outlet box."
+    },
+    {
+        "question": "27. (211) What happens if a bare grounding wire touches the hot conductor terminal of a receptacle inside of a properly grounded outlet box? ",
+        "options": [
+            "a. Equipment plugged in the receptacle receives excessive current and overheats.",
+            "b. The neutrals for the entire facility become hot conductors.",
+            "c. The circuit breaker for that circuit trips.",
+            "d. The outlet voltage is doubled."
+        ],
+        "correct": "c. The circuit breaker for that circuit trips."
+    },
+    {
+        "question": "28. (211) Physical failure of grounding systems usually occurs in which portion of the system? ",
+        "options": [
+            "a. In the service panel.",
+            "b. The ground electrode.",
+            "c. Just above and below ground level.",
+            "d. At the point where it attaches to the equipment."
+        ],
+        "correct": "c. Just above and below ground level."
+    },
+    {
+        "question": "29. (211) In an interior wiring system with metallic conduit, through how many possible paths can return ground fault flow?",
+        "options": [
+            "a. Zero.",
+            "b. One.",
+            "c. Two.",
+            "d. Three."
+        ],
+        "correct": "c. Two."
+    },
+    {
+        "question": "30. (211) What test can you perform to ensure that the above grade components in a grounding system have a low resistance path to ground? ",
+        "options": [
+            "a. Earth resistance test.",
+            "b. Vibroground test.",
+            "c. Continuity test.",
+            "d. Clamp-on test."
+        ],
+        "correct": "c. Continuity test."
+    },
+    {
+        "question": "31. (212) What characteristics are the properties of good insulators?",
+        "options": [
+            "a. Clean dry surfaces in low humidity; can hold their charge.",
+            "b. Clean dry surfaces in high humidity; can hold their charge.",
+            "c. Contaminated surfaces in low humidity; can hold their charge.",
+            "d. Clean dry surfaces in any humidity; permit leakage to take place."
+        ],
+        "correct": "a. Clean dry surfaces in low humidity; can hold their charge."
+    },
+    {
+        "question": "32. (212) What minimum sparking voltage is generally accepted for the shortest measurable length of gap?",
+        "options": [
+            "a. 12 volts.",
+            "b. 125 volts.",
+            "c. 240 volts.",
+            "d. 350 volts."
+        ],
+        "correct": "d. 350 volts."
+    },
+    {
+        "question": "33. (213) Under proper conditions, approximately how much voltage can be charged up by a drop of liquid falling through the air? ",
+        "options": [
+            "a. 50 volts.",
+            "b. 500 volts.",
+            "c. 1,000 volts.",
+            "d. 10,000 volts."
+        ],
+        "correct": "d. 10,000 volts."
+    },
+    {
+        "question": "34. (213) At what voltage can a static charge ignite gasoline? ",
+        "options": [
+            "a. 120 volts.",
+            "b. 750 volts.",
+            "c. 1,500 volts.",
+            "d. 7,500 volts."
+        ],
+        "correct": "c. 1,500 volts."
+    },
+    {
+        "question": "35. (213) Unwanted electrical charges in hazardous areas are dissipated by using ",
+        "options": [
+            "a. rubber mats.",
+            "b. air filtration systems.",
+            "c. a continuous electrical path to ground.",
+            "d. static elimination bars at all entry points."
+        ],
+        "correct": "c. a continuous electrical path to ground."
+    },
+    {
+        "question": "36. (213) Which is not necessary for an adequate ground for static electricity? ",
+        "options": [
+            "a. High mechanical strength.",
+            "b. Very low resistance.",
+            "c. Secure connections.",
+            "d. A continuous path."
+        ],
+        "correct": "b. Very low resistance."
+    },
+    {
+        "question": "37. (213) Which size copper wire is used to bond conductive objects when they are not concealed or mechanically protected? ",
+        "options": [
+            "a. No. 16 American Wire Gauge (AWG).",
+            "b. No. 12 AWG.",
+            "c. No. 8 AWG.",
+            "d. No. 6 AWG."
+        ],
+        "correct": "d. No. 6 AWG."
+    },
+    {
+        "question": "38. (214) The type of ionic current that describes the rate of electron loss from earth is called ",
+        "options": [
+            "a. air-earth.",
+            "b. air-water.",
+            "c. sky-earth.",
+            "d. sky-water."
+        ],
+        "correct": "a. air-earth."
+    },
+    {
+        "question": "39. (214) The process of separating air molecules into positive ions and negative electrons is called ",
+        "options": [
+            "a. ionization.",
+            "b. salinization.",
+            "c. de-ionization.",
+            "d. de-salinization."
+        ],
+        "correct": "a. ionization."
+    },
+    {
+        "question": "40. (215) Lightning grounds are designed ",
+        "options": [
+            "a. to handle high voltages.",
+            "b. to carry large currents.",
+            "c. for high capacitance.",
+            "d. for high impedance."
+        ],
+        "correct": "b. to carry large currents."
+    },
+    {
+        "question": "41. (215) What size is the minimum for grounding conductors used for hazardous locations? ",
+        "options": [
+            "a. No. 6 American Wire Gauge (AWG).",
+            "b. No. 4 AWG.",
+            "c. No. 1/0 AWG.",
+            "d. No. 4/0 AWG."
+        ],
+        "correct": "c. No. 1/0 AWG."
+    },
+    {
+        "question": "42. (215) The maximum spacing, in feet, between air terminals is ",
+        "options": [
+            "a. 25.",
+            "b. 50.",
+            "c. 100.",
+            "d. 150."
+        ],
+        "correct": "a. 25."
+    },
+    {
+        "question": "43. (215) What number of inches is the minimum radius for lightning protection conductors bend? ",
+        "options": [
+            "a. One.",
+            "b. Two.",
+            "c. Four.",
+            "d. Eight."
+        ],
+        "correct": "d. Eight."
+    },
+    {
+        "question": "44. (216) Grounding of lightning protection systems should conform to ",
+        "options": [
+            "a. National Fire Protection Association (NFPA) 77.",
+            "b. NFPA 78.",
+            "c. NFPA 780.",
+            "d. NFPA 802."
+        ],
+        "correct": "c. NFPA 780."
+    },
+    {
+        "question": "45. (216) What size ground rods are used in a lightning protection system? ",
+        "options": [
+            "a. 8 feet in length, and 1/2-inch diameter.",
+            "b. 8 feet in length, and 3/4-inch diameter.",
+            "c. 10 feet in length, and 1/2-inch diameter.",
+            "d. 10 feet in length, and 3/4-inch diameter."
+        ],
+        "correct": "d. 10 feet in length, and 3/4-inch diameter."
+    },
+    {
+        "question": "46. (216) When ground rods are used with a loop conductor, how deep are ground rod tops driven?",
+        "options": [
+            "a. 6 inches below finished grade.",
+            "b. 18 inches below finished grade.",
+            "c. To same elevation as loop conductor below finished grade.",
+            "d. To same elevation as the facility ground below finished grade."
+        ],
+        "correct": "c. To same elevation as loop conductor below finished grade."
+    },
+    {
+        "question": "47. (216) What is the minimum size copper wire used to connect different grounding systems? ",
+        "options": [
+            "a. 14 American Wire Gauge (AWG).",
+            "b. 6 AWG.",
+            "c. 2 AWG.",
+            "d. 1/0 AWG."
+        ],
+        "correct": "b. 6 AWG."
+    },
+    {
+        "question": "48. (217) What number of feet must down conductors not exceed? ",
+        "options": [
+            "a. 25.",
+            "b. 50.",
+            "c. 100.",
+            "d. 125."
+        ],
+        "correct": "c. 100."
+    },
+    {
+        "question": "49. (217) How far into the ground must grounding rings be buried? ",
+        "options": [
+            "a. 10 inches.",
+            "b. 15 inches.",
+            "c. 30 inches.",
+            "d. 45 inches."
+        ],
+        "correct": "c. 30 inches."
+    },
+    {
+        "question": "50. (218) The ions that leave the metal and enter into the solution are ",
+        "options": [
+            "a. free electrons.",
+            "b. anodes.",
+            "c. positive.",
+            "d. negative."
+        ],
+        "correct": "b. anodes."
+    },
+    {
+        "question": "51. (219) How many basic ways can corrosion occur? ",
+        "options": [
+            "a. Two.",
+            "b. Three.",
+            "c. Four.",
+            "d. Five."
+        ],
+        "correct": "c. Four."
+    },
+    {
+        "question": "52. (219) Where does stray current corrosion cause greatest damage? ",
+        "options": [
+            "a. At midpoint between entry and exit of a structure. b. The bottom side of a structure.",
+            "c. Where it enters a structure.",
+            "d. Where it exits a structure."
+        ],
+        "correct": "d. Where it exits a structure."
+    },
+    {
+        "question": "53. (220) How many ways can cathodic protection be achieved? ",
+        "options": [
+            "a. 2.",
+            "b. 4.",
+            "c. 6.",
+            "d. 8."
+        ],
+        "correct": "a. 2."
+    },
+    {
+        "question": "54. (220) At least how many inches of backfill should extend from each end of the anode? ",
+        "options": [
+            "a. 4.",
+            "b. 8.",
+            "c. 10.",
+            "d. 12."
+        ],
+        "correct": "d. 12."
+    },
+    {
+        "question": "55. (221) What purpose does the rectifier operational inspection serve?",
+        "options": [
+            "a. To determine the serviceability of all components required to impress current to the anodes of the impressed current system.",
+            "b. To determine the unserviceability of some components required to impress current to the anodes of the impressed current system.",
+            "c. To determine the reliability of all components required to impress current to the anodes of the impressed current system.",
+            "d. To determine the compatibility of all components required to impress current to the anodes of the impressed current system."
+        ],
+        "correct": "a. To determine the serviceability of all components required to impress current to the anodes of the impressed current system."
+    },
+    {
+        "question": "56. (221) How often should a structure be checked for depth of pitting?",
+        "options": [
+            "a. Every two years.",
+            "b. Yearly.",
+            "c. Semiannually.",
+            "d. Monthly."
+        ],
+        "correct": "a. Every two years."
+    },
+    {
+        "question": "57. (222) What voltage does a fire alarm system operate on, and what additional power source does the panel have? ",
+        "options": [
+            "a. 12 volts, direct current (VDC),backup circuit.",
+            "b. 12VDC, battery backup.",
+            "c. 24VDC, backup circuit.",
+            "d. 24VDC, battery backup."
+        ],
+        "correct": "d. 24VDC, battery backup."
+    },
+    {
+        "question": "58. (222) What is defined as a situation, environmental state, or equipment state of a fire alarm? ",
+        "options": [
+            "a. Alarm.",
+            "b. Condition.",
+            "c. Trouble.",
+            "d. Situation."
+        ],
+        "correct": "b. Condition."
+    },
+    {
+        "question": "59. (222) What situation would cause the fire department dispatch center to receive a supervisory alarm? ",
+        "options": [
+            "a. Open in a circuit.",
+            "b. Ground on a circuit.",
+            "c. Initiating device operates.",
+            "d. Someone disables the fire suppression system."
+        ],
+        "correct": "d. Someone disables the fire suppression system."
+    },
+    {
+        "question": "60. (223) Where in a facility will a pull station be located? ",
+        "options": [
+            "a. Next to fire alarm control panel.",
+            "b. Near exits and in exit stairwells.",
+            "c. Mechanical room.",
+            "d. In every room."
+        ],
+        "correct": "b. Near exits and in exit stairwells."
+    },
+    {
+        "question": "61. (223) What type of automatic detector is susceptible to false alarms in dusty environments? ",
+        "options": [
+            "a. Heat detector.",
+            "b. Ion Smoke detector.",
+            "c. Wavelength detector.",
+            "d. Photoelectric Smoke detector."
+        ],
+        "correct": "d. Photoelectric Smoke detector."
+    },
+    {
+        "question": "62. (223) What monitors the air in a heating, ventilation, and air conditioning (HVAC) system for signs of fire? ",
+        "options": [
+            "a. Heat detector.",
+            "b. Flow detector.",
+            "c. Duct detector.",
+            "d. Smoke detector."
+        ],
+        "correct": "c. Duct detector."
+    },
+    {
+        "question": "63. (223) Where is the end of line resistor in a Class A circuit? ",
+        "options": [
+            "a. In the middle of the circuit.",
+            "b. At the end of the circuit.",
+            "c. In the panel.",
+            "d. Not used."
+        ],
+        "correct": "c. In the panel."
+    },
+    {
+        "question": "64. (223) What is used in larger facilities to expand the notification appliance circuit (NAC)? ",
+        "options": [
+            "a. Initiating device circuit extender.",
+            "b. Power amplifier.",
+            "c. Booster panel.",
+            "d. Amp panel."
+        ],
+        "correct": "c. Booster panel."
+    },
+    {
+        "question": "65. (223) What is the polarity of a notification appliance circuit (NAC) that has been activated?",
+        "options": [
+            "a. Forward.",
+            "b. Reverse.",
+            "c. Alternating.",
+            "d. None of the above."
+        ],
+        "correct": "a. Forward."
+    },
+    {
+        "question": "66. (224) How is an addressable circuit supervised? ",
+        "options": [
+            "a. The detectors \"Talk\" to the fire alarm control panel (FACP).",
+            "b. The FACP broadcasts messages to all the detectors.",
+            "c. The detectors relay messages to the FACP.",
+            "d. The same as in a conventional system"
+        ],
+        "correct": "a. The detectors \"Talk\" to the fire alarm control panel (FACP)."
+    },
+    {
+        "question": "67. (224) How are addressable detectors and modules assigned an address? ",
+        "options": [
+            "a. Device address is set when they are manufactured.",
+            "b. By turning two rotary switches on the device.",
+            "c. Setting \"dip\" switches on the device.",
+            "d. Using manufacturer software."
+        ],
+        "correct": "b. By turning two rotary switches on the device."
+    },
+    {
+        "question": "68. (225) What commercial code specifies or mandates maintenance requirements for fire protection systems? ",
+        "options": [
+            "a. National Fire Protection Association (NFPA) 72.",
+            "b. United Facilities Criteria (UFC) 3-601-02.",
+            "c. NFPA 70.",
+            "d. UFC 4-021-01."
+        ],
+        "correct": "a. National Fire Protection Association (NFPA) 72."
+    },
+    {
+        "question": "69. (225) How often are devices normally calibrated? ",
+        "options": [
+            "a. Annually.",
+            "b. Semi-annually.",
+            "c. Every five years.",
+            "d. Every two years."
+        ],
+        "correct": "c. Every five years."
+    },
+    {
+        "question": "70. (226) Why do mass notification systems have priority over fire alarm systems? ",
+        "options": [
+            "a. Both systems function independently.",
+            "b. Each condition is processed on a case by case basis.",
+            "c. This is a false statement, fire alarm systems have priority.",
+            "d. Perpetrators have been known to use the fire alarm system as a means of attack."
+        ],
+        "correct": "d. Perpetrators have been known to use the fire alarm system as a means of attack."
+    },
+    {
+        "question": "71. (226) What color is the globe of a mass notification system (MNS) strobe in an Air Force facility? ",
+        "options": [
+            "a. Clear.",
+            "b. Green.",
+            "c. Red.",
+            "d. Amber."
+        ],
+        "correct": "d. Amber."
+    },
+    {
+        "question": "72. (226) What wattage is the maximum size of speaker used by an in-building mass notification system (MNS) without approval by the authority having jurisdiction (AHJ)? ",
+        "options": [
+            "a. 8 watts.",
+            "b. 12 watts.",
+            "c. 15 watts.",
+            "d. 25 watts."
+        ],
+        "correct": "c. 15 watts."
+    },
+    {
+        "question": "1. (401) What valuable tool in the electric shop will show you the physical location of distribution system components?",
+        "options": [
+            "a. Schematic Drawing.",
+            "b. One Line Diagram.",
+            "c. As-Built Drawing.",
+            "d. Distribution Map."
+        ],
+        "correct": "d. Distribution Map."
+    },
+    {
+        "question": "2. (401) What informs electric shop personnel of unique conditions on the distribution system?",
+        "options": [
+            "a. Switching Chart.",
+            "b. Distribution Map.",
+            "c. One Line Diagram.",
+            "d. Abnormal Conditions listing."
+        ],
+        "correct": "d. Abnormal Conditions listing."
+    },
+    {
+        "question": "3. (402) What types of conductor support construction should be used on distribution systems locatedin high moisture environments?",
+        "options": [
+            "a. Steel Crossarms or Fiberglass Crossarms.",
+            "b. Fiberglass Crossarms or Wood Crossarms.",
+            "c. Epoxy Fiberglass Arms or Steel Crossarms.",
+            "d. Fiberglass Crossarms or Epoxy Fiberglass Arms."
+        ],
+        "correct": "d. Fiberglass Crossarms or Epoxy Fiberglass Arms."
+    },
+    {
+        "question": "4. (402) What insulator type is commonly connected to one another?",
+        "options": [
+            "a. Pin.",
+            "b. Strain.",
+            "c. Deadend.",
+            "d. Suspension."
+        ],
+        "correct": "d. Suspension."
+    },
+    {
+        "question": "5. (402) What insulator will you use on low-voltage or neutral conductors?",
+        "options": [
+            "a. Pin.",
+            "b. Strain.",
+            "c. Spool.",
+            "d. Suspension."
+        ],
+        "correct": "c. Spool."
+    },
+    {
+        "question": "6. (402) What insulator is used to insulate guy wires?",
+        "options": [
+            "a. Pin.",
+            "b. Strain.",
+            "c. Spool.",
+            "d. Suspension."
+        ],
+        "correct": "b. Strain."
+    },
+    {
+        "question": "7. (402) The American National Standards Institute class of an insulator is determined by the",
+        "options": [
+            "a. operating voltage.",
+            "b. atmospheric pollution.",
+            "c. atmospheric pollution and arcing voltage.",
+            "d. atmospheric pollution and operating voltage."
+        ],
+        "correct": "d. atmospheric pollution and operating voltage."
+    },
+    {
+        "question": "8. (403) In addition to engineers or the planning section, who assists in making a \"staking sheet\" of the area over which the line is to pass?",
+        "options": [
+            "a. A line crew.",
+            "b. A survey crew.",
+            "c. The graphics shop.",
+            "d. The electrical supervisor."
+        ],
+        "correct": "b. A survey crew."
+    },
+    {
+        "question": "9. (403) The AF Form 103, Base Civil Engineering Work Clearance Request, is used for",
+        "options": [
+            "a. staking sheets.",
+            "b. digging permits.",
+            "c. right-of-way requests.",
+            "d. overhead line locations."
+        ],
+        "correct": "b. digging permits."
+    },
+    {
+        "question": "10. (404) How many inches deeper do we set poles that are subject to more strain than normal?",
+        "options": [
+            "a. 2.",
+            "b. 4.",
+            "c. 6.",
+            "d. 8."
+        ],
+        "correct": "c. 6."
+    },
+    {
+        "question": "11. (405) What tool do workers use to position poles on the ground?",
+        "options": [
+            "a. Pike pole.",
+            "b. Cant hook.",
+            "c. Digging bar.",
+            "d. Tamping bar."
+        ],
+        "correct": "b. Cant hook."
+    },
+    {
+        "question": "12. (405) A large number of poles to be stored are sorted by",
+        "options": [
+            "a. class.",
+            "b. length.",
+            "c. length and class.",
+            "d. length and type of treatment."
+        ],
+        "correct": "b. length."
+    },
+    {
+        "question": "13. (405) We usually load poles on a trailer using the",
+        "options": [
+            "a. boom method.",
+            "b. A-frame method.",
+            "c. gin-pole method.",
+            "d. snatch-block method."
+        ],
+        "correct": "a. boom method."
+    },
+    {
+        "question": "14. (406) Where is a wood pole \"branded\"?",
+        "options": [
+            "a. At the top.",
+            "b. On the bottom.",
+            "c. 5 feet from the top.",
+            "d. 10 feet up from the butt."
+        ],
+        "correct": "d. 10 feet up from the butt."
+    },
+    {
+        "question": "15. (406) Where local conditions shorten the life of wood poles which pole is preferred?",
+        "options": [
+            "a. Steel.",
+            "b. Concrete.",
+            "c. Aluminum.",
+            "d. Fiberglass."
+        ],
+        "correct": "b. Concrete."
+    },
+    {
+        "question": "16. (406) Aluminum poles are most likely used for",
+        "options": [
+            "a. distribution lines.",
+            "b. transmission lines.",
+            "c. secondary service drops.",
+            "d. roadway and area lighting circuits."
+        ],
+        "correct": "d. roadway and area lighting circuits."
+    },
+    {
+        "question": "17. (407) What type of roof do we find on untreated wood poles?",
+        "options": [
+            "a. Slant.",
+            "b. Gable.",
+            "c. Conical.",
+            "d. Double-cut.."
+        ],
+        "correct": "a. Slant."
+    },
+    {
+        "question": "18. (407) What must you do before you cut the roof on a wood pole?",
+        "options": [
+            "a. Locate the front of pole.",
+            "b. Chock both sides of pole.",
+            "c. Locate balance point of pole.",
+            "d. Find the pole's face side and back side."
+        ],
+        "correct": "d. Find the pole's face side and back side."
+    },
+    {
+        "question": "19. (407) What size wood bit do you use to drill the hole for a crossarm through-bolt?",
+        "options": [
+            "a. 7/16-inch.",
+            "b. 9/16-inch.",
+            "c. 11/16-inch.",
+            "d. 13/16-inch."
+        ],
+        "correct": "c. 11/16-inch."
+    },
+    {
+        "question": "20. (408) In using the line truck and winch to set a pole, before you raise the pole slightly attach the winch line",
+        "options": [
+            "a. above the midpoint of the pole.",
+            "b. above the butt end of the pole.",
+            "c. below the top of the pole.",
+            "d. below the crossarm."
+        ],
+        "correct": "a. above the midpoint of the pole."
+    },
+    {
+        "question": "21. (408) If a pole must be set in an energized line, what two additional articles of equipment must be used?",
+        "options": [
+            "a. Wire tong and pulling rope.",
+            "b. Rubber gloves and pole guard.",
+            "c. Pole guard and conductor spreader.",
+            "d. Pulling rope and conductor spreader."
+        ],
+        "correct": "b. Rubber gloves and pole guard."
+    },
+    {
+        "question": "22. (409) The proper type of pole anchor depends largely upon",
+        "options": [
+            "a. pole height.",
+            "b. soil conditions.",
+            "c. length of conductor span.",
+            "d. wind and snow conditions."
+        ],
+        "correct": "b. soil conditions."
+    },
+    {
+        "question": "23. (409) What type of anchor do we use for hard or compact soil?",
+        "options": [
+            "a. Cone.",
+            "b. Screw.",
+            "c. Expanding.",
+            "d. Log deadman."
+        ],
+        "correct": "c. Expanding."
+    },
+    {
+        "question": "24. (409) What type of guy do we normally use at a curve in the line?",
+        "options": [
+            "a. Side guy.",
+            "b. Span guy.",
+            "c. Down guy.",
+            "d. Corner guy."
+        ],
+        "correct": "a. Side guy."
+    },
+    {
+        "question": "25. (409) Which of these combinations do you use to draw up a guy wire and hold it in place for attachment to the anchor rod?",
+        "options": [
+            "a. Crimps and winch line.",
+            "b. Chain hoist and two strand grips.",
+            "c. Sheave attachment and cable puller.",
+            "d. Cable attachment and two thimble-eyes."
+        ],
+        "correct": "b. Chain hoist and two strand grips."
+    },
+    {
+        "question": "26. (410) What factors are considered when establishing the three loading areas for conductors in theUnited States?",
+        "options": [
+            "a. Latitudinal and transversal loading.",
+            "b. Longitudinal and horizontal loading.",
+            "c. Horizontal, longitudinal, and vertical loading.",
+            "d. Longitudinal, transverse, and vertical loading."
+        ],
+        "correct": "d. Longitudinal, transverse, and vertical loading."
+    },
+    {
+        "question": "27. (411) How far apart are the pole pins spaced for a 12.470 kilovolt line?",
+        "options": [
+            "a. 18 inches.",
+            "b. 24 inches.",
+            "c. 30 inches.",
+            "d. 36 inches."
+        ],
+        "correct": "c. 30 inches."
+    },
+    {
+        "question": "28. (411) In vertical construction, where do we install the first conductor in relation to the top of the utility pole?",
+        "options": [
+            "a. 9 inches below the top.",
+            "b. 12 inches below the top.",
+            "c. 18 inches below the top.",
+            "d. 24 inches below the top."
+        ],
+        "correct": "a. 9 inches below the top."
+    },
+    {
+        "question": "29. (411) When raising a crossarm the person on the ground uses",
+        "options": [
+            "a. two clove hitches.",
+            "b. a bowline and half hitch.",
+            "c. a half hitch and clove hitch.",
+            "d. a lineman's hitch and bowline."
+        ],
+        "correct": "c. a half hitch and clove hitch."
+    },
+    {
+        "question": "30. (412) You use a conductor pulled from pole to pole over the crossarms instead of first laying it out on the ground when",
+        "options": [
+            "a. the area is very wet.",
+            "b. very small wire is used.",
+            "c. the ground is rough or stony.",
+            "d. there are many trees in the area."
+        ],
+        "correct": "c. the ground is rough or stony."
+    },
+    {
+        "question": "31. (412) When building a new pole line, if you are on the second pole which conductor does the person on the ground send up first?",
+        "options": [
+            "a. \"A\" phase.",
+            "b. The neutral.",
+            "c. The inside conductor.",
+            "d. The outside conductor."
+        ],
+        "correct": "c. The inside conductor."
+    },
+    {
+        "question": "32. (413) Which splice uses tapered jaws to hold the conductor?",
+        "options": [
+            "a. Compression.",
+            "b. Twist sleeve.",
+            "c. Sleeve joint.",
+            "d. Automatic."
+        ],
+        "correct": "d. Automatic."
+    },
+    {
+        "question": "33. (413) What do you do to prevent a hot-line clamp from burning a main conductor?",
+        "options": [
+            "a. Use a stirrup.",
+            "b. Use only similar metals.",
+            "c. Ensure hot-line clamps are put on tight.",
+            "d. Attach hot-line clamps onto armor rods and tie wires."
+        ],
+        "correct": "a. Use a stirrup."
+    },
+    {
+        "question": "34. (414) What type of insulator is used at the dead end for a primary conductor?",
+        "options": [
+            "a. Pin.",
+            "b. Post.",
+            "c. Strain.",
+            "d. Suspension."
+        ],
+        "correct": "d. Suspension."
+    },
+    {
+        "question": "35. (414) How long after the preliminary sagging must you wait to allow conductors to \"creep\"?",
+        "options": [
+            "a. 30 minutes to 4 hours.",
+            "b. 15 to 30 minutes.",
+            "c. 4 to 6 hours.",
+            "d. 6 to 8 hours.‚õïý"
+        ],
+        "correct": "a. 30 minutes to 4 hours."
+    },
+    {
+        "question": "36. (414) What size tie wire do we use for No. 2 conductor?",
+        "options": [
+            "a. No. 8.",
+            "b. No. 6.",
+            "c. No. 4.",
+            "d. No. 2."
+        ],
+        "correct": "c. No. 4."
+    },
+    {
+        "question": "37. (415) Pad mounting is the preferred mounting method for what transformer size?",
+        "options": [
+            "a. 75 kilovolt-ampere (kVA).",
+            "b. 100 kVA.",
+            "c. 175 kVA.",
+            "d. 225 kVA."
+        ],
+        "correct": "a. 75 kilovolt-ampere (kVA)."
+    },
+    {
+        "question": "38. (415) Which method do we most likely use to install light, single-phase transformers?",
+        "options": [
+            "a. Gin-pole.",
+            "b. Hand-line.",
+            "c. Chain hoist.",
+            "d. Block and tackle."
+        ],
+        "correct": "d. Block and tackle."
+    },
+    {
+        "question": "39. (415) Where do you connect the top and bottom connection points of a transformer's lightning arrester?",
+        "options": [
+            "a. Top to transformer, bottom to fused cutout.",
+            "b. Top to ground wire, bottom to transformer.",
+            "c. Top to primary wire, bottom to fused cutout.",
+            "d. Top to primary wire, bottom to ground wire."
+        ],
+        "correct": "d. Top to primary wire, bottom to ground wire."
+    },
+    {
+        "question": "40. (416) What can we install to raise the power factor in a distribution circuit?",
+        "options": [
+            "a. Capacitors.",
+            "b. Transformers.",
+            "c. Sectionalizers.",
+            "d. Variable resistors."
+        ],
+        "correct": "a. Capacitors."
+    },
+    {
+        "question": "41. (416) What device do we use across a capacitor's terminals to gradually discharge the capacitor?",
+        "options": [
+            "a. Resistor.",
+            "b. Condenser.",
+            "c. Transformer.",
+            "d. Shorting stick."
+        ],
+        "correct": "a. Resistor."
+    },
+    {
+        "question": "42. (417) What minimum depth below grade should you install a 12,470 volts alternating current(VAC) circuit using rigid, nonmetallic conduit?",
+        "options": [
+            "a. 24 inches.",
+            "b. 36 inches.",
+            "c. 18 inches.",
+            "d. 42 inches."
+        ],
+        "correct": "c. 18 inches."
+    },
+    {
+        "question": "43. (417) Ducts that terminate in a building must be sealed to prevent",
+        "options": [
+            "a. fire and smoke from entering a building.",
+            "b. insects and gases from entering a building.",
+            "c. gases and rodents from entering a building.",
+            "d. insects and rodents from entering a building."
+        ],
+        "correct": "c. gases and rodents from entering a building."
+    },
+    {
+        "question": "44. (418) What information is marked on manhole covers?",
+        "options": [
+            "a. Cable direction.",
+            "b. Circuit identification.",
+            "c. Presence of high voltage.",
+            "d. Ownership or type of utility."
+        ],
+        "correct": "d. Ownership or type of utility."
+    },
+    {
+        "question": "45. (418) What is the minimum size of a constructed manhole?",
+        "options": [
+            "a. 4 feet by 6 feet by 6 feet.",
+            "b. 6 feet by 7 feet by 6 feet.",
+            "c. 8 feet by 8 feet by 8 feet.",
+            "d. 8 feet by 10 feet by 8 feet."
+        ],
+        "correct": "a. 4 feet by 6 feet by 6 feet."
+    },
+    {
+        "question": "46. (418) The use of 90° bends in duct lines is permitted for",
+        "options": [
+            "a. pole risers.",
+            "b. stranded copper cables.",
+            "c. duct runs of less than 50 feet.",
+            "d. cables that are no. 2 AWG or smaller."
+        ],
+        "correct": "a. pole risers."
+    },
+    {
+        "question": "47. (419) What is the purpose of a vault?",
+        "options": [
+            "a. House multiple cable racks.",
+            "b. Isolate electrical equipment.",
+            "c. House submersible regulators.",
+            "d. Open faulted underground cable."
+        ],
+        "correct": "b. Isolate electrical equipment."
+    },
+    {
+        "question": "48. (419) Junction boxes located in an underground vault must",
+        "options": [
+            "a. be painted.",
+            "b. have ventilation ports.",
+            "c. provide a water-tight seal.",
+            "d. be no smaller than 24 inches."
+        ],
+        "correct": "c. provide a water-tight seal."
+    },
+    {
+        "question": "49. (420) The mechanical strength of underground cable is not a major concern because the cable is",
+        "options": [
+            "a. insulated.",
+            "b. hard drawn.",
+            "c. not under tension.",
+            "d. kept cooler underground."
+        ],
+        "correct": "c. not under tension."
+    },
+    {
+        "question": "50. (420) What material is used between the conductor and the cable insulation?",
+        "options": [
+            "a. Metal braid.",
+            "b. Plastic sheath.",
+            "c. Varnish cambric.",
+            "d. Strand shielding."
+        ],
+        "correct": "d. Strand shielding."
+    },
+    {
+        "question": "51. (421) When pulling cable, the snatch block and pulling rope is attached to",
+        "options": [
+            "a. a wire rope and flexible duct.",
+            "b. coupling rods in the manhole.",
+            "c. the pulling-in iron in the manhole.",
+            "d. a wire rope and flexible steel conduit."
+        ],
+        "correct": "c. the pulling-in iron in the manhole."
+    },
+    {
+        "question": "52. (421) What is the device used to attach the underground cable to the pulling rope?",
+        "options": [
+            "a. Snatch block.",
+            "b. Feeding tube.",
+            "c. Basket grip.",
+            "d. Mandrel."
+        ],
+        "correct": "c. Basket grip."
+    },
+    {
+        "question": "53. (422) Which procedure do you use to assure that a duct is clear of obstructions?",
+        "options": [
+            "a. Rigging.",
+            "b. Drawing.",
+            "c. Rodding.",
+            "d. Swabbing."
+        ],
+        "correct": "c. Rodding."
+    },
+    {
+        "question": "54. (422) Why is proper cable reel placement important?",
+        "options": [
+            "a. Ensures bend in the cable is not reversed.",
+            "b. To allow the reel to be lubricated properly.",
+            "c. Ensures cable is installed in the correct duct.",
+            "d. Proper cable reel placement is not important."
+        ],
+        "correct": "a. Ensures bend in the cable is not reversed."
+    },
+    {
+        "question": "55. (422) How many people does it take to pull underground cable safely using the winch method?",
+        "options": [
+            "a. 4.",
+            "b. 5.",
+            "c. 6.",
+            "d. 7."
+        ],
+        "correct": "b. 5."
+    },
+    {
+        "question": "56. (423) What term describes an underground cable that is brought up through a conduit and attached to an overhead line?",
+        "options": [
+            "a. Riser.",
+            "b. Duct run.",
+            "c. Termination.",
+            "d. Transition duct."
+        ],
+        "correct": "a. Riser."
+    },
+    {
+        "question": "57. (423) The device used to terminate high-voltage cables is called a",
+        "options": [
+            "a. high-voltage termination.",
+            "b. skirted cable end seal.",
+            "c. skirted weatherhead.",
+            "d. conduit riser."
+        ],
+        "correct": "a. high-voltage termination."
+    },
+    {
+        "question": "58. (424) When making a load-break elbow, before attaching the crimp connector to the cable make sure you",
+        "options": [
+            "a. clean the cable with alcohol.",
+            "b. apply corrosion inhibitor to the cable.",
+            "c. align the hole on the end of the connector with the equipment bushing.",
+            "d. apply semi-conducting tape to the conductor for the length of the elbow."
+        ],
+        "correct": "c. align the hole on the end of the connector with the equipment bushing."
+    },
+    {
+        "question": "59. (424) After sliding the elbow over the connector and cable the next step is to",
+        "options": [
+            "a. attach the threaded electrode to the connector using a pair of adjustable pliers.",
+            "b. thread the electrode into the connector using the wrench from the elbow kit.",
+            "c. thread the electrode into the connector until it is hand tight.",
+            "d. crimp the electrode onto the connector."
+        ],
+        "correct": "b. thread the electrode into the connector using the wrench from the elbow kit."
+    },
+    {
+        "question": "60. (425) What depth do you dig the trench for a below-ground check of a pole?",
+        "options": [
+            "a. 4 to 6 inches.",
+            "b. 8 to 18 inches.",
+            "c. 12 to 24 inches.",
+            "d. 24 to 36 inches."
+        ],
+        "correct": "b. 8 to 18 inches."
+    },
+    {
+        "question": "61. (425) Decay usually starts at what location on a crossarm?",
+        "options": [
+            "a. Top.",
+            "b. Ends.",
+            "c. Bottom.",
+            "d. Pin holes."
+        ],
+        "correct": "d. Pin holes."
+    },
+    {
+        "question": "62. (425) What condition can cause a crossarm to twist?",
+        "options": [
+            "a. Improper sag.",
+            "b. Lightning or voltage surges.",
+            "c. Unbalanced strain or insufficient guying.",
+            "d. Crossarm unseasoned when it was installed."
+        ],
+        "correct": "c. Unbalanced strain or insufficient guying."
+    },
+    {
+        "question": "63. (426) When a span shows too much sag while adjacent spans appear normal,",
+        "options": [
+            "a. the conductor has stretched from being hit by a falling object.",
+            "b. the cause is a twisted crossarm.",
+            "c. it's a sign of loose tie wires.",
+            "d. it's a result of poor guying."
+        ],
+        "correct": "a. the conductor has stretched from being hit by a falling object."
+    },
+    {
+        "question": "64. (426) We must make voltage and current readings on capacitor installations at least",
+        "options": [
+            "a. annually.",
+            "b. twice a year.",
+            "c. 4 times a year.",
+            "d. 6 times a year."
+        ],
+        "correct": "c. 4 times a year."
+    },
+    {
+        "question": "65. (427) What do we use to cut tree limbs that are beyond arm's reach?",
+        "options": [
+            "a. Pole saw.",
+            "b. Forester saw.",
+            "c. Docking saw.",
+            "d. Crosscut saw."
+        ],
+        "correct": "a. Pole saw."
+    },
+    {
+        "question": "66. (427) Where would you put the tree pruner to add a third section?",
+        "options": [
+            "a. Send it to the shop.",
+            "b. Lay it flat on the ground.",
+            "c. Lean it against a tree limb.",
+            "d. Lay it across the truck bed."
+        ],
+        "correct": "c. Lean it against a tree limb."
+    },
+    {
+        "question": "67. (427) What species of trees do we usually top?",
+        "options": [
+            "a. Spruce, pine, and fir.",
+            "b. Pine, elm, and pecan.",
+            "c. Oak, elm, and hackberry.",
+            "d. Willow, cottonwood, and poplar."
+        ],
+        "correct": "d. Willow, cottonwood, and poplar."
+    },
+    {
+        "question": "68. (428) What is usually the first step in troubleshooting a tripped overhead distribution circuit?",
+        "options": [
+            "a. Test the circuit.",
+            "b. Inspect the circuit visually.",
+            "c. Apply necessary ground sets.",
+            "d. Try to reset the circuit's recloser."
+        ],
+        "correct": "b. Inspect the circuit visually."
+    },
+    {
+        "question": "69. (428) What do we use to test a distribution line for a ground?",
+        "options": [
+            "a. Megger.",
+            "b. Ammeter.",
+            "c. Voltmeter.",
+            "d. Phase rotation meter."
+        ],
+        "correct": "a. Megger."
+    },
+    {
+        "question": "70. (428) Which of these is not one of the three main causes of power line noise?",
+        "options": [
+            "a. Defective equipment insulation.",
+            "b. Bonded ground wires on the utility pole.",
+            "c. Electrostatic leakage from ungrounded hardware.",
+            "d. Loose connections in the primary or neutral circuit."
+        ],
+        "correct": "b. Bonded ground wires on the utility pole."
+    },
+    {
+        "question": "71. (429) What must the electrician do before working on deenergized lines?",
+        "options": [
+            "a. Notify reporting official.",
+            "b. Test and ground the lines.",
+            "c. Close the normally open switch.",
+            "d. Don rubber protective equipment."
+        ],
+        "correct": "b. Test and ground the lines."
+    },
+    {
+        "question": "72. (429) How is the cable used for ground sets constructed?",
+        "options": [
+            "a. 600-volts insulated rubber or synthetic-covered flexible copper.",
+            "b. 5,000-volts insulated rubber or synthetic-covered flexible copper.",
+            "c. 600-volts insulated rubber or synthetic-covered hard-drawn copper.",
+            "d. 5,000-volts insulated rubber or synthetic-covered hard-drawn copper."
+        ],
+        "correct": "a. 600-volts insulated rubber or synthetic-covered flexible copper."
+    },
+    {
+        "question": "73. (430) When a break occurs in an energized line, how is the line at the break affected?",
+        "options": [
+            "a. Both ends of the wire are melted.",
+            "b. Both ends of the wire are hardened.",
+            "c. The whole wire get very brittle and charred.",
+            "d. The center disappears, leaving soft wire on either side."
+        ],
+        "correct": "d. The center disappears, leaving soft wire on either side."
+    },
+    {
+        "question": "74. (430) What do you use to check a suspected damaged transformer?",
+        "options": [
+            "a. Megger.",
+            "b. Oil tester.",
+            "c. Voltmeter.",
+            "d. Clamp-on ammeter."
+        ],
+        "correct": "a. Megger."
+    },
+    {
+        "question": "75. (431) What must you do before working on energized lines?",
+        "options": [
+            "a. Inspect the utility pole for heart-rot.",
+            "b. Fill out AF Form 980, Caution Abnormal Conditions tag.",
+            "c. Inspect hot line tools and equipment for proper operation.",
+            "d. Fill out AF Form 103, Base Civil Engineering Work Clearance Request."
+        ],
+        "correct": "d. Fill out AF Form 103, Base Civil Engineering Work Clearance Request."
+    },
+    {
+        "question": "76. (431) What two connector types do we use when splicing energized conductors?",
+        "options": [
+            "a. Split-bolt and automatic.",
+            "b. Compression and automatic.",
+            "c. Hot line clamp and split-bolt.",
+            "d. Compression and hot line clamp."
+        ],
+        "correct": "b. Compression and automatic."
+    },
+    {
+        "question": "77. (431) In making a midspan splice on an energized line, position the personnel bucket of the bucket truck",
+        "options": [
+            "a. at a 45° angle to the break.",
+            "b. parallel to the area to be spliced.",
+            "c. directly under the area to be spliced.",
+            "d. so the linemen can face the splice area from the front of the bucket."
+        ],
+        "correct": "d. so the linemen can face the splice area from the front of the bucket."
+    },
+    {
+        "question": "78. (432) What tie stick head do we normally use to untie tie wires?",
+        "options": [
+            "a. Fixed head.",
+            "b. Rotary blade.",
+            "c. Rotary prong.",
+            "d. Double prong."
+        ],
+        "correct": "b. Rotary blade."
+    },
+    {
+        "question": "79. (432) Once we untie the tie wires what do we use to raise the auxiliary crossarm assembly?",
+        "options": [
+            "a. Wire tongs.",
+            "b. A handline.",
+            "c. The mast pole.",
+            "d. A snatch block."
+        ],
+        "correct": "d. A snatch block."
+    },
+    {
+        "question": "80. (433) When the pole has a single crossarm supporting three phase conductors how many line hoses are needed for a pole change?",
+        "options": [
+            "a. 8.",
+            "b. 10.",
+            "c. 12.",
+            "d. 14."
+        ],
+        "correct": "a. 8."
+    },
+    {
+        "question": "81. (433) When replacing a pole, how many feet above the pole do you raise the auxiliary arm?",
+        "options": [
+            "a. 3 to 4 feet.",
+            "b. 5 to 6 feet.",
+            "c. 6 to 7 feet.",
+            "d. 7 to 8 feet."
+        ],
+        "correct": "a. 3 to 4 feet."
+    },
+    {
+        "question": "82. (433) The high voltage audible indicator makes an audible sound when placed",
+        "options": [
+            "a. on a hot stick.",
+            "b. on the utility pole.",
+            "c. in the bucket truck.",
+            "d. in an electrostatic field."
+        ],
+        "correct": "d. in an electrostatic field."
+    },
+    {
+        "question": "83. (434) The act of tying a tagline to each outside conductor with a bowline knot and pulling the conductors out of the work area is called",
+        "options": [
+            "conductors out of the work area is called",
+            "a. tying off.",
+            "b. bowlining.",
+            "c. tagging out.",
+            "d. line knotting."
+        ],
+        "correct": "c. tagging out."
+    },
+    {
+        "question": "84. (434) After you remove the crossarm, who lowers it to the ground?",
+        "options": [
+            "a. The linemen.",
+            "b. The supervisor.",
+            "c. The ground person.",
+            "d. The ranking 5-level."
+        ],
+        "correct": "c. The ground person."
+    },
+    {
+        "question": "85. (435) Service meters are used to determine",
+        "options": [
+            "a. if sufficient voltage is reaching a facility or organization.",
+            "b. how large a service is needed for a facility or organization.",
+            "c. if sufficient amperage is reaching a facility or organization.",
+            "d. how much power has been used by a facility or organization."
+        ],
+        "correct": "d. how much power has been used by a facility or organization."
+    },
+    {
+        "question": "86. (435) The service meter normally measures",
+        "options": [
+            "a. kilowatts.",
+            "b. volt-amps.",
+            "c. power factor.",
+            "d. kilowatt-hours."
+        ],
+        "correct": "d. kilowatt-hours."
+    },
+    {
+        "question": "87. (435) What is the formula to find the amount of watt-hours used?",
+        "options": [
+            "a. Volts multiplied by amps.",
+            "b. Power factor times wattage.",
+            "c. Multiplier times the previous reading.",
+            "d. New reading minus the previous reading."
+        ],
+        "correct": "d. New reading minus the previous reading."
+    },
+    {
+        "question": "88. (435) When transposing the numbers from the dial meter to a piece of paper, start on the.",
+        "options": [
+            "a. right hand dial then work to the left.",
+            "b. left hand dial then work to the right.",
+            "c. top dial then work to the bottom.",
+            "d. bottom dial then work to the top."
+        ],
+        "correct": "a. right hand dial then work to the left."
+    },
+    {
+        "question": "89. (436) What is the approximate bending radius for underground cable?",
+        "options": [
+            "a. 5 to 12 times cable diameter.",
+            "b. 10 to 15 times cable diameter.",
+            "c. 5 to 12 times insulation thickness.",
+            "d. 10 to 15 times insulation thickness."
+        ],
+        "correct": "a. 5 to 12 times cable diameter."
+    },
+    {
+        "question": "90. (436) How much straight cable needs to exist on each side of a cable splice for racking purposes?",
+        "options": [
+            "a. 6 inches.",
+            "b. 12 inches.",
+            "c. 1 ½ feet.",
+            "d. 2 feet."
+        ],
+        "correct": "a. 6 inches."
+    },
+    {
+        "question": "91. (436) What type of tape is used for fireproofing underground cable in manholes?",
+        "options": [
+            "a. Asbestos.",
+            "b. Waxed nylon.",
+            "c. Aluminum shielding.",
+            "d. Polymeric elastomer."
+        ],
+        "correct": "d. Polymeric elastomer."
+    },
+    {
+        "question": "92. (436) What type of cable test is made after its installed but before it is placed into service?",
+        "options": [
+            "a. Proof test.",
+            "b. Factory test.",
+            "c. Acceptance test.",
+            "d. Maintenance test."
+        ],
+        "correct": "c. Acceptance test."
+    },
+    {
+        "question": "93. (436) Generally if a cable's insulation is deteriorating, what does a direct current high potential(DC Hypot) cable test indicate for each succeeding test?",
+        "options": [
+            "a. Lower resistance or a lower power factor.",
+            "b. Lower resistance or a higher power factor.",
+            "c. Higher resistance or a lower power factor.",
+            "d. Higher resistance or a higher power factor."
+        ],
+        "correct": "c. Higher resistance or a lower power factor."
+    },
+    {
+        "question": "94. (437) What is the easiest and quickest way to locate a cable fault?",
+        "options": [
+            "a. Visually.",
+            "b. Ohm method.",
+            "c. Tracer method.",
+            "d. Re-energizing the circuit."
+        ],
+        "correct": "a. Visually."
+    },
+    {
+        "question": "95. (437) When you check for a grounded conductor with a volt-ohmmeter, what reading would indicate a grounded conductor?",
+        "options": [
+            "a. Low voltage.",
+            "b. High voltage.",
+            "c. Low resistance.",
+            "d. High resistance."
+        ],
+        "correct": "c. Low resistance."
+    },
+    {
+        "question": "96. (437) When you use the mm-1 fault locator or the thumper to locate a cable fault, when you are over the fault location",
+        "options": [
+            "a. the signal increases with both testers.",
+            "b. the signal decreases with both testers.",
+            "c. fault locator signal increases at the fault; thumper signal decreases.",
+            "d. fault locator signal fades out at the fault; thumper signal increases to the loudest volume."
+        ],
+        "correct": "c. fault locator signal increases at the fault; thumper signal decreases."
+    },
+    {
+        "question": "97. (438) In many cases, a cable fault is located at a",
+        "options": [
+            "a. splice.",
+            "b. duct entrance.",
+            "c. bend in the cable.",
+            "d. cable ground connection."
+        ],
+        "correct": "a. splice."
+    },
+    {
+        "question": "98. (438) Which cable splice kit requires the most labor to install?",
+        "options": [
+            "a. Heat-shrinkable.",
+            "b. Power cable joint.",
+            "c. Conventional taped splice kit.",
+            "d. Separable insulated connectors."
+        ],
+        "correct": "c. Conventional taped splice kit."
+    },
+    {
+        "question": "99. (439) What should be your first step when troubleshooting a pad mount transformer?",
+        "options": [
+            "a. Take a complete set of secondary phase-to-phase and phase-to-ground voltage readings.",
+            "b. Take a complete set of primary phase-to-phase and phase-to-ground voltage readings.",
+            "c. Take phase-to-phase voltage readings on the secondary side of the transformer.",
+            "d. Take phase-to-ground voltage readings on the primary side."
+        ],
+        "correct": "a. Take a complete set of secondary phase-to-phase and phase-to-ground voltage readings."
+    },
+    {
+        "question": "100. (439) If tests indicate an off-ratio winding, how would you verify whether or not the problem was in the transformer?",
+        "options": [
+            "a. Take primary current readings on all three phases.",
+            "b. Take secondary current readings on all three phases.",
+            "c. Take voltage readings on the primary side of the transformer.",
+            "d. De-energize the transformer and take resistance readings on the transformer windings."
+        ],
+        "correct": "c. Take voltage readings on the primary side of the transformer."
+    },
+    {
+        "question": "1. (601) What is the next step in installing strobe lights after you ground the series circuit adapter and master strobe?",
+        "options": [
+            "a. Set the on-off switches to the on position.",
+            "b. Set the strobe master switch to remote.",
+            "c. Discharge the capacitors.",
+            "d. Install the flash tube."
+        ],
+        "correct": "c. Discharge the capacitors."
+    },
+    {
+        "question": "2. (601) What is the TAG's first step in installing the strobe units?",
+        "options": [
+            "a. Position the strobe master unit so that its window faces away from the runway.",
+            "b. Position the strobe master unit so that its window faces toward the runway.",
+            "c. Position the series circuit adapter (SCA) next to the strobe slave.",
+            "d. Connect the strobe unit to the SCA."
+        ],
+        "correct": "a. Position the strobe master unit so that its window faces away from the runway."
+    },
+    {
+        "question": "3. (601) What is the next step after the TAG installs the 1000 foot crossbar?",
+        "options": [
+            "a. Go back to the outboard strobe location and install it.",
+            "b. Go directly to the threshold and position the lights.",
+            "c. Position the inboard strobe slave unit.",
+            "d. Install the approach lights."
+        ],
+        "correct": "d. Install the approach lights."
+    },
+    {
+        "question": "4. (601) What is the final step in installing the runway edge lights?",
+        "options": [
+            "a. Connect the fixture to an isolation transformer.",
+            "b. Connect the fixture to the rest of the airfield circuit.",
+            "c. Install an isolation transformer inboard of the fixture.",
+            "d. Anchor each light fixture with two ballast rings or one stake."
+        ],
+        "correct": "d. Anchor each light fixture with two ballast rings or one stake."
+    },
+    {
+        "question": "5. (601) What do you do first when leveling and aiming a precision approach path indicator (PAPI)unit?",
+        "options": [
+            "a. Level the unit from side to side by adjusting the unit's two front knobs.",
+            "b. Level the unit from front to back by adjusting the unit's rear knob.",
+            "c. Adjust the aim of the unit to provide a 3-degree glide slope.",
+            "d. Adjust the PAPI unit's tilt switch."
+        ],
+        "correct": "a. Level the unit from side to side by adjusting the unit's two front knobs."
+    },
+    {
+        "question": "6. (601) What is the final step in installation of the precision approach path indicator (PAPI) units?",
+        "options": [
+            "a. Install a photocell on either unit.",
+            "b. Stake each unit securely to the ground.",
+            "c. Align each unit so that it is parallel with the runway.",
+            "d. Adjust the tilt switch so that the bubble is in the middle."
+        ],
+        "correct": "d. Adjust the tilt switch so that the bubble is in the middle."
+    },
+    {
+        "question": "7. (601) How do you begin the procedure for installing the emergency airfield lighting system obstruction lights?",
+        "options": [
+            "a. Install the batteries into the fixture.",
+            "b. Connect the fixture straight into the runway circuit.",
+            "c. Connect the fixture to the runway circuit through a transformer.",
+            "d. Connect the fixture to the runway circuit through a series circuit adapter (SCA)."
+        ],
+        "correct": "a. Install the batteries into the fixture."
+    },
+    {
+        "question": "8. (602) When performing an open circuit test on the regulator, what is the next step after turning the circuit breaker off?",
+        "options": [
+            "a. Turn the intensity selector switch to the OFF position.",
+            "b. Turn the intensity selector switch to the LOW intensity setting.",
+            "c. Install the male-to-male adapter cable into the output current plugs.",
+            "d. Remove the male-to-male adapter cable from the output current plugs."
+        ],
+        "correct": "d. Remove the male-to-male adapter cable from the output current plugs."
+    },
+    {
+        "question": "9. (603) When replacing a lamp on a runway edge light, how do you remove the lamp from its base?",
+        "options": [
+            "a. Grip the lamp by its ceramic base and pull straight up.",
+            "b. Turn the lamp in a counter-clockwise direction.",
+            "c. Loosen the screws holding the lamp in place.",
+            "d. Turn the lamp in a clock-wise direction."
+        ],
+        "correct": "a. Grip the lamp by its ceramic base and pull straight up."
+    },
+    {
+        "question": "10. (603) How do you remove the red lens from an obstruction light?",
+        "options": [
+            "a. Unscrew the lens in a clock-wise direction.",
+            "b. Unscrew the lens in a counter-clockwise direction.",
+            "c. Remove the screws holding the lens in place and pull the lens straight up.",
+            "d. Loosen the screws holding the lens in place, turn it to the right, and pull it straight up."
+        ],
+        "correct": "d. Loosen the screws holding the lens in place, turn it to the right, and pull it straight up."
+    },
+    {
+        "question": "11. (603) Which of the following is a step in the process of changing out a lamp in a strobe unit?",
+        "options": [
+            "a. Disconnect the fixture from the series circuit adapter.",
+            "b. Disconnect the fixture from the airfield circuit.",
+            "c. Connect the fixture's case to ground.",
+            "d. Short the capacitors."
+        ],
+        "correct": "d. Short the capacitors."
+    },
+    {
+        "question": "12. (603) What is the procedure for removing the electrical connection from a precision approach path indicator (PAPI) lamp?",
+        "options": [
+            "a. Loosen the terminal screw and remove the connection from the lamp.",
+            "b. Push in the connector and turn it counterclockwise.",
+            "c. Pull the connection straight back off the lamp.",
+            "d. Push in the connector and turn it clockwise."
+        ],
+        "correct": "b. Push in the connector and turn it counterclockwise."
+    },
+    {
+        "question": "13. (604) What generator is used for emergency backup of facilities that are mission essential, such as communications centers and command posts?",
+        "options": [
+            "communications centers and command posts?",
+            "a. Mission essential power (MEP) 805.",
+            "b. MEP 805A.",
+            "c. MEP 806A.",
+            "d. MEP 807."
+        ],
+        "correct": "c. MEP 806A."
+    },
+    {
+        "question": "14. (605) Besides conductor size, what is another important factor to consider when reducing voltage drop in an electrical circuit?",
+        "options": [
+            "a. Conduit size.",
+            "b. Insulation type.",
+            "c. Equipment load.",
+            "d. Circuit distance."
+        ],
+        "correct": "d. Circuit distance."
+    },
+    {
+        "question": "15. (605) You have a #8 AWG stranded copper conductor with 0.778 ohms of resistance for each1,000 feet of length. If you run that cabling 100 feet between the power plant and the load, the total resistance would be",
+        "options": [
+            "a. 77.8 ohms.",
+            "b. 155.6 ohms.",
+            "c. 0.1556 ohms.",
+            "d. 0.00778 ohms."
+        ],
+        "correct": "d. 0.00778 ohms."
+    },
+    {
+        "question": "16. (606) How do you start the engine of a mission essential power (MEP) 806B generator?",
+        "options": [
+            "a. Turn on ENGINE CONTROL switch.",
+            "b. Close the ENGINE CONTROL switch.",
+            "c. Close the ENGINE CONTROL circuit breaker.",
+            "d. Hold ENGINE CONTROL switch in the START for 2 seconds."
+        ],
+        "correct": "d. Hold ENGINE CONTROL switch in the START for 2 seconds."
+    },
+    {
+        "question": "17. (606) What is the first step to shutting down a generator?",
+        "options": [
+            "a. Turn off the generator.",
+            "b. Place ENGINE CONTROL switch in the OFF position.",
+            "c. Select SHUTDOWN COMPUTER on CIM display screen.",
+            "d. Hold alternating current (AC) CIRCUIT INTERRUPT switch in OPEN position to open the load contactor."
+        ],
+        "correct": "d. Hold alternating current (AC) CIRCUIT INTERRUPT switch in OPEN position to open the load contactor."
+    },
+    {
+        "question": "18. (607) When operating in extremely cold climates, what must you do to prevent the battery from freezing when you add water?",
+        "options": [
+            "a. Reposition the battery closer to the engine.",
+            "b. Use a weak salt solution to fill the battery.",
+            "c. Immediately mix the fluid by charging the battery.",
+            "d. Do not add fluid when below freezing temperatures are expected."
+        ],
+        "correct": "c. Immediately mix the fluid by charging the battery."
+    },
+    {
+        "question": "19. (608) The Basic Expeditionary Airfield Resources Order of Battle (BOB) is based on increments on of how many personnel?",
+        "options": [
+            "a. 250.",
+            "b. 500.",
+            "c. 750.",
+            "d. 1,000."
+        ],
+        "correct": "a. 250."
+    },
+    {
+        "question": "20. (608) On a 25-kw power distribution panel (PDP), what is the 60-amp output utilized for?",
+        "options": [
+            "a. To connect another PDP.",
+            "b. This PDP does not have 60-amp output.",
+            "c. Backfeed connection from the secondary distribution panel (SDC).",
+            "d. To connect a field deployable environmental control unit (FDECU)."
+        ],
+        "correct": "d. To connect a field deployable environmental control unit (FDECU)."
+    },
+    {
+        "question": "21. (609) How many light masts come with the remote area lighting system (RALS)?",
+        "options": [
+            "a. 11.",
+            "b. 12.",
+            "c. 13.",
+            "d. 14."
+        ],
+        "correct": "c. 13."
+    },
+    {
+        "question": "22. (609) What is the proper wattage and lamp type used on the remote area lighting system (RALS)?",
+        "options": [
+            "a. 500-watt quartz.",
+            "b. 250-watt halogen.",
+            "c. 100-watt low-pressure sodium.",
+            "d. 150-watt high-pressure sodium."
+        ],
+        "correct": "d. 150-watt high-pressure sodium."
+    },
+    {
+        "question": "23. (609) You can establish automatic operation of a fully operational remote area lighting system(RALS) by positioning the override switch to",
+        "options": [
+            "a. ON.",
+            "b. OFF.",
+            "c. AUTO.",
+            "d. MANUAL."
+        ],
+        "correct": "c. AUTO."
+    },
+    {
+        "question": "24. (610) What is the output rating of the diesel generator on the telescoping floodlight set?",
+        "options": [
+            "a. 30 kilowatt (kW).",
+            "b. 15 kW.",
+            "c. 10 kW.",
+            "d. 6 kW."
+        ],
+        "correct": "d. 6 kW."
+    },
+    {
+        "question": "25. (610) For proper operation, you need to keep the telescoping floodlight set generator output between ",
+        "options": [
+            "a. 97 and 110 volts alternating current (VAC).",
+            "b. 119 and 125 VAC.",
+            "c. 197 and 210 VAC.",
+            "d. 233 and 247 VAC."
+        ],
+        "correct": "d. 233 and 247 VAC."
+    },
+    {
+        "question": "26. (610) What is the full height of the telescoping floodlight set trailer tower",
+        "options": [
+            "a. 26 feet.",
+            "b. 29 feet.",
+            "c. 30 feet.",
+            "d. 35 feet."
+        ],
+        "correct": "b. 29 feet."
+    },
+    {
+        "question": "27. (610) How often must you clean the air filter in the generator on the telescoping floodlight set when operating under dusty conditions?",
+        "options": [
+            "a. Once a day.",
+            "b. Once a week.",
+            "c. Every 8 hours.",
+            "d. Every 16 hours."
+        ],
+        "correct": "a. Once a day."
+    },
+    {
+        "question": "28. (611) The reverse osmosis water purification unit (ROWPU) requires a power supply capable of providing",
+        "options": [
+            "a. 240/416 volts alternating current (VAC).",
+            "b. 120/208 VAC.",
+            "c. 240 VAC.",
+            "d. 120 VAC."
+        ],
+        "correct": "b. 120/208 VAC."
+    },
+    {
+        "question": "29. (611) What is used to ground the reverse osmosis water purification unit (ROWPU)?",
+        "options": [
+            "a. The contact between the earth and the frame of the unit is a sufficient ground.",
+            "b. A three-piece ground rod that is stored on the control panel.",
+            "c. A ¾ inch ground rod that is 10 feet in length.",
+            "d. A 10 foot metal discharge pipe."
+        ],
+        "correct": "b. A three-piece ground rod that is stored on the control panel."
+    },
+    {
+        "question": "30. (611) What safety precaution should be taken prior to disconnecting any pipes or equipment on the reverse osmosis water purification unit (ROWPU)?",
+        "options": [
+            "a. Close all control valves.",
+            "b. Open all drains and vents.",
+            "c. Turn off chemical feed pumps.",
+            "d. Prime the reverse osmosis pump."
+        ],
+        "correct": "b. Open all drains and vents."
+    },
+    {
+        "question": "31. (611) Where is the reverse osmosis water purification unit (ROWPU) ground rod stored?",
+        "options": [
+            "a. Under the circuit breaker box.",
+            "b. In the generator compartment.",
+            "c. Under the junction box.",
+            "d. On the control panel."
+        ],
+        "correct": "d. On the control panel."
+    },
+    {
+        "question": "32. (612) Which contingency asset requires two dedicated secondary distribution centers (SDC) to meet its high load demands?",
+        "options": [
+            "a. Field laundry unit.",
+            "b. Harvest Eagle kitchen.",
+            "c. Reverse osmosis water purification unit (ROWPU).",
+            "d. Basic expeditionary airfield resources (BEAR) kitchen."
+        ],
+        "correct": "d. Basic expeditionary airfield resources (BEAR) kitchen."
+    },
+    {
+        "question": "33. (612) The basic expeditionary airfield resources (BEAR) kitchen is powered by two generators,one 60 kW and one",
+        "options": [
+            "a. 5 kilowatt (kW).",
+            "b. 30 kW.",
+            "c. 100 kW.",
+            "d. 200 kW."
+        ],
+        "correct": "b. 30 kW."
+    },
+    {
+        "question": "34. (612) When operating how often is the basic expeditionary airfield resources (BEAR) kitchen electrical system inspected?",
+        "options": [
+            "a. Quarterly.",
+            "b. Monthly.",
+            "c. Weekly.",
+            "d. Daily."
+        ],
+        "correct": "c. Weekly."
+    },
+    {
+        "question": "35. (613) What is the primary distribution voltage of the basic expeditionary airfield resources(BEAR) electrical system?",
+        "options": [
+            "a. 12,470 volts alternating current (VAC).",
+            "b. 4,160 VAC.",
+            "c. 2,400 VAC.",
+            "d. 240 VAC."
+        ],
+        "correct": "b. 4,160 VAC."
+    },
+    {
+        "question": "36. (613) What is the output of the 750-kW, mission essential power (MEP)-12 generator in a basic expeditionary airfield resources (BEAR) package?",
+        "options": [
+            "a. Three-phase, 4,160 volts.",
+            "b. Three-phase, 2,400 volts.",
+            "c. Single-phase, 4,160 volts.",
+            "d. Single-phase, 2,400 volts."
+        ],
+        "correct": "a. Three-phase, 4,160 volts."
+    },
+    {
+        "question": "37. (614) What type of cable termination is used for the primary switching center (PSC) connections?",
+        "options": [
+            "a. Joy splices.",
+            "b. Load-break elbows.",
+            "c. Tape termination kits.",
+            "d. Heat-shrink molded terminations."
+        ],
+        "correct": "b. Load-break elbows."
+    },
+    {
+        "question": "38. (614) Which way point is used to tie two primary switching centers (PSC) together?",
+        "options": [
+            "a. 3.",
+            "b. 4.",
+            "c. 5.",
+            "d. 6."
+        ],
+        "correct": "d. 6."
+    },
+    {
+        "question": "39. (614) When connecting two primary switching centers (PCS) together using 500 MCM copper cable, what is required to make the connection?",
+        "options": [
+            "a. 200 amp loadbreak.",
+            "b. 600 amp loadbreak.",
+            "c. 200 amp deadbreak.",
+            "d. 600 amp deadbreak."
+        ],
+        "correct": "d. 600 amp deadbreak."
+    },
+    {
+        "question": "40. (614) What is used to compensate for voltage drop in a secondary distribution center (SDC)?",
+        "options": [
+            "a. Larger cable.",
+            "b. Tap changes.",
+            "c. Copper conductors.",
+            "d. 200-kVA transformer."
+        ],
+        "correct": "b. Tap changes."
+    },
+    {
+        "question": "41. (614) What is the conductor size and insulation value of the basic expeditionary airfield resources(BEAR) high-voltage electrical cable?",
+        "options": [
+            "a. #6, 15 kilovolts (kV).",
+            "b. #1/0, 5 kV.",
+            "c. #6, 5 kV.",
+            "d. #1/0, 15 kV."
+        ],
+        "correct": "b. #1/0, 5 kV."
+    },
+    {
+        "question": "42. (614) You should bury primary cables to a depth of at least",
+        "options": [
+            "a. 8 inches.",
+            "b. 12 inches.",
+            "c. 18 inches.",
+            "d. 24 inches."
+        ],
+        "correct": "c. 18 inches."
+    },
+    {
+        "question": "43. (614) How many ways on the primary switching center (PSC) have load interrupter switches?",
+        "options": [
+            "a. 1.",
+            "b. 2.",
+            "c. 3.",
+            "d. 4."
+        ],
+        "correct": "b. 2."
+    },
+    {
+        "question": "44. (614) Before performing maintenance on the secondary distribution center (SDC) you",
+        "options": [
+            "a. shut down the primary switching center (PSC).",
+            "b. close the mission essential power breaker.",
+            "c. contact the disaster control center.",
+            "d. ensure all power is removed."
+        ],
+        "correct": "d. ensure all power is removed."
+    },
+    {
+        "question": "45. (614) What is the mostly likely problem when there is no power to any of the outbound primary distribution center feeders?",
+        "options": [
+            "a. Defective load-break elbow.",
+            "b. High-voltage cable failure.",
+            "c. 200-amp fuse blown.",
+            "d. Power source failure."
+        ],
+        "correct": "d. Power source failure."
+    },
+    {
+        "question": "46. (615) The recommended distance for secondary runs from the secondary distribution center(SDC) is not to exceed",
+        "options": [
+            "a. 400 feet.",
+            "b. 600 feet.",
+            "c. 800 feet.",
+            "d. 1,000 feet."
+        ],
+        "correct": "c. 800 feet."
+    },
+    {
+        "question": "47. (615) What basic expeditionary airfield resources (BEAR) asset is used as the main distribution point for secondary circuits?",
+        "options": [
+            "a. Contractor control cubicles.",
+            "b. Primary switching center (PSC).",
+            "c. Remote airfield lighting set (RALS).",
+            "d. Secondary distribution center (SDC)."
+        ],
+        "correct": "d. Secondary distribution center (SDC)."
+    },
+    {
+        "question": "48. (615) How many 120/208 volts alternating current output circuits can the secondary distribution center (SDC) provide?",
+        "options": [
+            "a. 2.",
+            "b. 6.",
+            "c. 12.",
+            "d. 16."
+        ],
+        "correct": "d. 16."
+    },
+    {
+        "question": "49. (615) Which power distribution panel is associated with the tent extendible modular personnel(TEMPER) tent?",
+        "options": [
+            "a. 15 kilowatt (kW).",
+            "b. 25 kW.",
+            "c. 100 kW.",
+            "d. 200 kW."
+        ],
+        "correct": "b. 25 kW."
+    },
+    {
+        "question": "50. (615) What cable size is used to connect the low-voltage mission essential power generator to the secondary distribution center (SDC)?",
+        "options": [
+            "a. 100-foot, 60-amp.",
+            "b. 50-foot, 150-amp.",
+            "c. 25-foot, 200-amp.",
+            "d. 25-foot, 100-amp."
+        ],
+        "correct": "c. 25-foot, 200-amp."
+    },
+    {
+        "question": "51. (615) How do you de-energize the transformer windings of one secondary distribution center(SDC) without de-energizing any of the interconnected SDCs?",
+        "options": [
+            "a. Turn off the main circuit breaker.",
+            "b. Pull the three fused disconnects in the high-voltage compartment.",
+            "c. De-energize the main feeder at the primary switching center (PSC).",
+            "d. Disconnect the load-break elbows in the high-voltage compartment."
+        ],
+        "correct": "b. Pull the three fused disconnects in the high-voltage compartment."
+    },
+    {
+        "question": "52. (616) What can you do to ground the system if the ground rod cannot be driven into the earth during deployments to locations where low voltage will be used for a short time?",
+        "options": [
+            "a. Connect generator ground to system neutral.",
+            "b. Bury the ground rod in a horizontal trench that is 18 inches deep.",
+            "c. No grounds are required for low-voltage short-time deployments.",
+            "d. Drive the ground rod in as far as it will go, and cut off the excess."
+        ],
+        "correct": "b. Bury the ground rod in a horizontal trench that is 18 inches deep."
+    },
+    {
+        "question": "53. (616) What mixture of salt and water normally increases the conductivity of the soil that is in contact with a ground rod?",
+        "options": [
+            "a. 1 pound of salt per 1 gallon of water.",
+            "b. 1 pound salt per 3 gallons of water.",
+            "c. 3 pounds of salt per 1 gallon of water.",
+            "d. 3 pounds of salt per 5 gallons of water."
+        ],
+        "correct": "c. 3 pounds of salt per 1 gallon of water."
+    },
+    {
+        "question": "54. (617) How many light streamers are installed in each tent?",
+        "options": [
+            "a. 1.",
+            "b. 2.",
+            "c. 3.",
+            "d. 4."
+        ],
+        "correct": "a. 1."
+    },
+    {
+        "question": "55. (617) When dissembling the tent lighting assets, where do you store the components?",
+        "options": [
+            "a. In the proper storage containers.",
+            "b. In an approved cargo container.",
+            "c. In the middle of the tent.",
+            "d. In a convenient location."
+        ],
+        "correct": "a. In the proper storage containers."
+    }
+
+]
