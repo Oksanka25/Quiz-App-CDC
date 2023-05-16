@@ -1,22 +1,1003 @@
 [
     {
-        "question": "1. (301) Which section of the Operation and Service Instructions Manual contains instructions for uncrating, installing, and preparing equipment for initial operations?",
+        "question": "1. (401) What valuable tool in the electric shop will show you the physical location of distribution system components?",
         "options": [
-            "a. Section 1.",
-            "b. Section 2.",
-            "c. Section 3.",
-            "d. Section 4."
+            "a. Schematic Drawing.",
+            "b. One Line Diagram.",
+            "c. As-Built Drawing.",
+            "d. Distribution Map."
         ],
-        "correct": "c. Section 3."
+        "correct": "d. Distribution Map."
     },
     {
-        "question": "2. (301) Which section of the Operation and Service Instructions Manual contains step-by-step instructions for starting, operating, and stopping equipment?",
+        "question": "2. (401) What informs electric shop personnel of unique conditions on the distribution system?",
         "options": [
-            "a. Section 1.",
-            "b. Section 2.",
-            "c. Section 3.",
-            "d. Section 4."
+            "a. Switching Chart.",
+            "b. Distribution Map.",
+            "c. One Line Diagram.",
+            "d. Abnormal Conditions listing."
         ],
-        "correct": "d. Section 4."
+        "correct": "d. Abnormal Conditions listing."
+    },
+    {
+        "question": "3. (402) What types of conductor support construction should be used on distribution systems locatedin high moisture environments?",
+        "options": [
+            "a. Steel Crossarms or Fiberglass Crossarms.",
+            "b. Fiberglass Crossarms or Wood Crossarms.",
+            "c. Epoxy Fiberglass Arms or Steel Crossarms.",
+            "d. Fiberglass Crossarms or Epoxy Fiberglass Arms."
+        ],
+        "correct": "d. Fiberglass Crossarms or Epoxy Fiberglass Arms."
+    },
+    {
+        "question": "4. (402) What insulator type is commonly connected to one another?",
+        "options": [
+            "a. Pin.",
+            "b. Strain.",
+            "c. Deadend.",
+            "d. Suspension."
+        ],
+        "correct": "d. Suspension."
+    },
+    {
+        "question": "5. (402) What insulator will you use on low-voltage or neutral conductors?",
+        "options": [
+            "a. Pin.",
+            "b. Strain.",
+            "c. Spool.",
+            "d. Suspension."
+        ],
+        "correct": "c. Spool."
+    },
+    {
+        "question": "6. (402) What insulator is used to insulate guy wires?",
+        "options": [
+            "a. Pin.",
+            "b. Strain.",
+            "c. Spool.",
+            "d. Suspension."
+        ],
+        "correct": "b. Strain."
+    },
+    {
+        "question": "7. (402) The American National Standards Institute class of an insulator is determined by the",
+        "options": [
+            "a. operating voltage.",
+            "b. atmospheric pollution.",
+            "c. atmospheric pollution and arcing voltage.",
+            "d. atmospheric pollution and operating voltage."
+        ],
+        "correct": "d. atmospheric pollution and operating voltage."
+    },
+    {
+        "question": "8. (403) In addition to engineers or the planning section, who assists in making a \"staking sheet\" of the area over which the line is to pass?",
+        "options": [
+            "a. A line crew.",
+            "b. A survey crew.",
+            "c. The graphics shop.",
+            "d. The electrical supervisor."
+        ],
+        "correct": "b. A survey crew."
+    },
+    {
+        "question": "9. (403) The AF Form 103, Base Civil Engineering Work Clearance Request, is used for",
+        "options": [
+            "a. staking sheets.",
+            "b. digging permits.",
+            "c. right-of-way requests.",
+            "d. overhead line locations."
+        ],
+        "correct": "b. digging permits."
+    },
+    {
+        "question": "10. (404) How many inches deeper do we set poles that are subject to more strain than normal?",
+        "options": [
+            "a. 2.",
+            "b. 4.",
+            "c. 6.",
+            "d. 8."
+        ],
+        "correct": "c. 6."
+    },
+    {
+        "question": "11. (405) What tool do workers use to position poles on the ground?",
+        "options": [
+            "a. Pike pole.",
+            "b. Cant hook.",
+            "c. Digging bar.",
+            "d. Tamping bar."
+        ],
+        "correct": "b. Cant hook."
+    },
+    {
+        "question": "12. (405) A large number of poles to be stored are sorted by",
+        "options": [
+            "a. class.",
+            "b. length.",
+            "c. length and class.",
+            "d. length and type of treatment."
+        ],
+        "correct": "b. length."
+    },
+    {
+        "question": "13. (405) We usually load poles on a trailer using the",
+        "options": [
+            "a. boom method.",
+            "b. A-frame method.",
+            "c. gin-pole method.",
+            "d. snatch-block method."
+        ],
+        "correct": "a. boom method."
+    },
+    {
+        "question": "14. (406) Where is a wood pole \"branded\"?",
+        "options": [
+            "a. At the top.",
+            "b. On the bottom.",
+            "c. 5 feet from the top.",
+            "d. 10 feet up from the butt."
+        ],
+        "correct": "d. 10 feet up from the butt."
+    },
+    {
+        "question": "15. (406) Where local conditions shorten the life of wood poles which pole is preferred?",
+        "options": [
+            "a. Steel.",
+            "b. Concrete.",
+            "c. Aluminum.",
+            "d. Fiberglass."
+        ],
+        "correct": "b. Concrete."
+    },
+    {
+        "question": "16. (406) Aluminum poles are most likely used for",
+        "options": [
+            "a. distribution lines.",
+            "b. transmission lines.",
+            "c. secondary service drops.",
+            "d. roadway and area lighting circuits."
+        ],
+        "correct": "d. roadway and area lighting circuits."
+    },
+    {
+        "question": "17. (407) What type of roof do we find on untreated wood poles?",
+        "options": [
+            "a. Slant.",
+            "b. Gable.",
+            "c. Conical.",
+            "d. Double-cut.."
+        ],
+        "correct": "a. Slant."
+    },
+    {
+        "question": "18. (407) What must you do before you cut the roof on a wood pole?",
+        "options": [
+            "a. Locate the front of pole.",
+            "b. Chock both sides of pole.",
+            "c. Locate balance point of pole.",
+            "d. Find the pole's face side and back side."
+        ],
+        "correct": "d. Find the pole's face side and back side."
+    },
+    {
+        "question": "19. (407) What size wood bit do you use to drill the hole for a crossarm through-bolt?",
+        "options": [
+            "a. 7/16-inch.",
+            "b. 9/16-inch.",
+            "c. 11/16-inch.",
+            "d. 13/16-inch."
+        ],
+        "correct": "c. 11/16-inch."
+    },
+    {
+        "question": "20. (408) In using the line truck and winch to set a pole, before you raise the pole slightly attach the winch line",
+        "options": [
+            "a. above the midpoint of the pole.",
+            "b. above the butt end of the pole.",
+            "c. below the top of the pole.",
+            "d. below the crossarm."
+        ],
+        "correct": "a. above the midpoint of the pole."
+    },
+    {
+        "question": "21. (408) If a pole must be set in an energized line, what two additional articles of equipment must be used?",
+        "options": [
+            "a. Wire tong and pulling rope.",
+            "b. Rubber gloves and pole guard.",
+            "c. Pole guard and conductor spreader.",
+            "d. Pulling rope and conductor spreader."
+        ],
+        "correct": "b. Rubber gloves and pole guard."
+    },
+    {
+        "question": "22. (409) The proper type of pole anchor depends largely upon",
+        "options": [
+            "a. pole height.",
+            "b. soil conditions.",
+            "c. length of conductor span.",
+            "d. wind and snow conditions."
+        ],
+        "correct": "b. soil conditions."
+    },
+    {
+        "question": "23. (409) What type of anchor do we use for hard or compact soil?",
+        "options": [
+            "a. Cone.",
+            "b. Screw.",
+            "c. Expanding.",
+            "d. Log deadman."
+        ],
+        "correct": "c. Expanding."
+    },
+    {
+        "question": "24. (409) What type of guy do we normally use at a curve in the line?",
+        "options": [
+            "a. Side guy.",
+            "b. Span guy.",
+            "c. Down guy.",
+            "d. Corner guy."
+        ],
+        "correct": "a. Side guy."
+    },
+    {
+        "question": "25. (409) Which of these combinations do you use to draw up a guy wire and hold it in place for attachment to the anchor rod?",
+        "options": [
+            "a. Crimps and winch line.",
+            "b. Chain hoist and two strand grips.",
+            "c. Sheave attachment and cable puller.",
+            "d. Cable attachment and two thimble-eyes."
+        ],
+        "correct": "b. Chain hoist and two strand grips."
+    },
+    {
+        "question": "26. (410) What factors are considered when establishing the three loading areas for conductors in theUnited States?",
+        "options": [
+            "a. Latitudinal and transversal loading.",
+            "b. Longitudinal and horizontal loading.",
+            "c. Horizontal, longitudinal, and vertical loading.",
+            "d. Longitudinal, transverse, and vertical loading."
+        ],
+        "correct": "d. Longitudinal, transverse, and vertical loading."
+    },
+    {
+        "question": "27. (411) How far apart are the pole pins spaced for a 12.470 kilovolt line?",
+        "options": [
+            "a. 18 inches.",
+            "b. 24 inches.",
+            "c. 30 inches.",
+            "d. 36 inches."
+        ],
+        "correct": "c. 30 inches."
+    },
+    {
+        "question": "28. (411) In vertical construction, where do we install the first conductor in relation to the top of the utility pole?",
+        "options": [
+            "a. 9 inches below the top.",
+            "b. 12 inches below the top.",
+            "c. 18 inches below the top.",
+            "d. 24 inches below the top."
+        ],
+        "correct": "a. 9 inches below the top."
+    },
+    {
+        "question": "29. (411) When raising a crossarm the person on the ground uses",
+        "options": [
+            "a. two clove hitches.",
+            "b. a bowline and half hitch.",
+            "c. a half hitch and clove hitch.",
+            "d. a lineman's hitch and bowline."
+        ],
+        "correct": "c. a half hitch and clove hitch."
+    },
+    {
+        "question": "30. (412) You use a conductor pulled from pole to pole over the crossarms instead of first laying it out on the ground when",
+        "options": [
+            "a. the area is very wet.",
+            "b. very small wire is used.",
+            "c. the ground is rough or stony.",
+            "d. there are many trees in the area."
+        ],
+        "correct": "c. the ground is rough or stony."
+    },
+    {
+        "question": "31. (412) When building a new pole line, if you are on the second pole which conductor does the person on the ground send up first?",
+        "options": [
+            "a. \"A\" phase.",
+            "b. The neutral.",
+            "c. The inside conductor.",
+            "d. The outside conductor."
+        ],
+        "correct": "c. The inside conductor."
+    },
+    {
+        "question": "32. (413) Which splice uses tapered jaws to hold the conductor?",
+        "options": [
+            "a. Compression.",
+            "b. Twist sleeve.",
+            "c. Sleeve joint.",
+            "d. Automatic."
+        ],
+        "correct": "d. Automatic."
+    },
+    {
+        "question": "33. (413) What do you do to prevent a hot-line clamp from burning a main conductor?",
+        "options": [
+            "a. Use a stirrup.",
+            "b. Use only similar metals.",
+            "c. Ensure hot-line clamps are put on tight.",
+            "d. Attach hot-line clamps onto armor rods and tie wires."
+        ],
+        "correct": "a. Use a stirrup."
+    },
+    {
+        "question": "34. (414) What type of insulator is used at the dead end for a primary conductor?",
+        "options": [
+            "a. Pin.",
+            "b. Post.",
+            "c. Strain.",
+            "d. Suspension."
+        ],
+        "correct": "d. Suspension."
+    },
+    {
+        "question": "35. (414) How long after the preliminary sagging must you wait to allow conductors to \"creep\"?",
+        "options": [
+            "a. 30 minutes to 4 hours.",
+            "b. 15 to 30 minutes.",
+            "c. 4 to 6 hours.",
+            "d. 6 to 8 hours.‚õïý"
+        ],
+        "correct": "a. 30 minutes to 4 hours."
+    },
+    {
+        "question": "36. (414) What size tie wire do we use for No. 2 conductor?",
+        "options": [
+            "a. No. 8.",
+            "b. No. 6.",
+            "c. No. 4.",
+            "d. No. 2."
+        ],
+        "correct": "c. No. 4."
+    },
+    {
+        "question": "37. (415) Pad mounting is the preferred mounting method for what transformer size?",
+        "options": [
+            "a. 75 kilovolt-ampere (kVA).",
+            "b. 100 kVA.",
+            "c. 175 kVA.",
+            "d. 225 kVA."
+        ],
+        "correct": "a. 75 kilovolt-ampere (kVA)."
+    },
+    {
+        "question": "38. (415) Which method do we most likely use to install light, single-phase transformers?",
+        "options": [
+            "a. Gin-pole.",
+            "b. Hand-line.",
+            "c. Chain hoist.",
+            "d. Block and tackle."
+        ],
+        "correct": "d. Block and tackle."
+    },
+    {
+        "question": "39. (415) Where do you connect the top and bottom connection points of a transformer's lightning arrester?",
+        "options": [
+            "a. Top to transformer, bottom to fused cutout.",
+            "b. Top to ground wire, bottom to transformer.",
+            "c. Top to primary wire, bottom to fused cutout.",
+            "d. Top to primary wire, bottom to ground wire."
+        ],
+        "correct": "d. Top to primary wire, bottom to ground wire."
+    },
+    {
+        "question": "40. (416) What can we install to raise the power factor in a distribution circuit?",
+        "options": [
+            "a. Capacitors.",
+            "b. Transformers.",
+            "c. Sectionalizers.",
+            "d. Variable resistors."
+        ],
+        "correct": "a. Capacitors."
+    },
+    {
+        "question": "41. (416) What device do we use across a capacitor's terminals to gradually discharge the capacitor?",
+        "options": [
+            "a. Resistor.",
+            "b. Condenser.",
+            "c. Transformer.",
+            "d. Shorting stick."
+        ],
+        "correct": "a. Resistor."
+    },
+    {
+        "question": "42. (417) What minimum depth below grade should you install a 12,470 volts alternating current(VAC) circuit using rigid, nonmetallic conduit?",
+        "options": [
+            "a. 24 inches.",
+            "b. 36 inches.",
+            "c. 18 inches.",
+            "d. 42 inches."
+        ],
+        "correct": "c. 18 inches."
+    },
+    {
+        "question": "43. (417) Ducts that terminate in a building must be sealed to prevent",
+        "options": [
+            "a. fire and smoke from entering a building.",
+            "b. insects and gases from entering a building.",
+            "c. gases and rodents from entering a building.",
+            "d. insects and rodents from entering a building."
+        ],
+        "correct": "c. gases and rodents from entering a building."
+    },
+    {
+        "question": "44. (418) What information is marked on manhole covers?",
+        "options": [
+            "a. Cable direction.",
+            "b. Circuit identification.",
+            "c. Presence of high voltage.",
+            "d. Ownership or type of utility."
+        ],
+        "correct": "d. Ownership or type of utility."
+    },
+    {
+        "question": "45. (418) What is the minimum size of a constructed manhole?",
+        "options": [
+            "a. 4 feet by 6 feet by 6 feet.",
+            "b. 6 feet by 7 feet by 6 feet.",
+            "c. 8 feet by 8 feet by 8 feet.",
+            "d. 8 feet by 10 feet by 8 feet."
+        ],
+        "correct": "a. 4 feet by 6 feet by 6 feet."
+    },
+    {
+        "question": "46. (418) The use of 90° bends in duct lines is permitted for",
+        "options": [
+            "a. pole risers.",
+            "b. stranded copper cables.",
+            "c. duct runs of less than 50 feet.",
+            "d. cables that are no. 2 AWG or smaller."
+        ],
+        "correct": "a. pole risers."
+    },
+    {
+        "question": "47. (419) What is the purpose of a vault?",
+        "options": [
+            "a. House multiple cable racks.",
+            "b. Isolate electrical equipment.",
+            "c. House submersible regulators.",
+            "d. Open faulted underground cable."
+        ],
+        "correct": "b. Isolate electrical equipment."
+    },
+    {
+        "question": "48. (419) Junction boxes located in an underground vault must",
+        "options": [
+            "a. be painted.",
+            "b. have ventilation ports.",
+            "c. provide a water-tight seal.",
+            "d. be no smaller than 24 inches."
+        ],
+        "correct": "c. provide a water-tight seal."
+    },
+    {
+        "question": "49. (420) The mechanical strength of underground cable is not a major concern because the cable is",
+        "options": [
+            "a. insulated.",
+            "b. hard drawn.",
+            "c. not under tension.",
+            "d. kept cooler underground."
+        ],
+        "correct": "c. not under tension."
+    },
+    {
+        "question": "50. (420) What material is used between the conductor and the cable insulation?",
+        "options": [
+            "a. Metal braid.",
+            "b. Plastic sheath.",
+            "c. Varnish cambric.",
+            "d. Strand shielding."
+        ],
+        "correct": "d. Strand shielding."
+    },
+    {
+        "question": "51. (421) When pulling cable, the snatch block and pulling rope is attached to",
+        "options": [
+            "a. a wire rope and flexible duct.",
+            "b. coupling rods in the manhole.",
+            "c. the pulling-in iron in the manhole.",
+            "d. a wire rope and flexible steel conduit."
+        ],
+        "correct": "c. the pulling-in iron in the manhole."
+    },
+    {
+        "question": "52. (421) What is the device used to attach the underground cable to the pulling rope?",
+        "options": [
+            "a. Snatch block.",
+            "b. Feeding tube.",
+            "c. Basket grip.",
+            "d. Mandrel."
+        ],
+        "correct": "c. Basket grip."
+    },
+    {
+        "question": "53. (422) Which procedure do you use to assure that a duct is clear of obstructions?",
+        "options": [
+            "a. Rigging.",
+            "b. Drawing.",
+            "c. Rodding.",
+            "d. Swabbing."
+        ],
+        "correct": "c. Rodding."
+    },
+    {
+        "question": "54. (422) Why is proper cable reel placement important?",
+        "options": [
+            "a. Ensures bend in the cable is not reversed.",
+            "b. To allow the reel to be lubricated properly.",
+            "c. Ensures cable is installed in the correct duct.",
+            "d. Proper cable reel placement is not important."
+        ],
+        "correct": "a. Ensures bend in the cable is not reversed."
+    },
+    {
+        "question": "55. (422) How many people does it take to pull underground cable safely using the winch method?",
+        "options": [
+            "a. 4.",
+            "b. 5.",
+            "c. 6.",
+            "d. 7."
+        ],
+        "correct": "b. 5."
+    },
+    {
+        "question": "56. (423) What term describes an underground cable that is brought up through a conduit and attached to an overhead line?",
+        "options": [
+            "a. Riser.",
+            "b. Duct run.",
+            "c. Termination.",
+            "d. Transition duct."
+        ],
+        "correct": "a. Riser."
+    },
+    {
+        "question": "57. (423) The device used to terminate high-voltage cables is called a",
+        "options": [
+            "a. high-voltage termination.",
+            "b. skirted cable end seal.",
+            "c. skirted weatherhead.",
+            "d. conduit riser."
+        ],
+        "correct": "a. high-voltage termination."
+    },
+    {
+        "question": "58. (424) When making a load-break elbow, before attaching the crimp connector to the cable make sure you",
+        "options": [
+            "a. clean the cable with alcohol.",
+            "b. apply corrosion inhibitor to the cable.",
+            "c. align the hole on the end of the connector with the equipment bushing.",
+            "d. apply semi-conducting tape to the conductor for the length of the elbow."
+        ],
+        "correct": "c. align the hole on the end of the connector with the equipment bushing."
+    },
+    {
+        "question": "59. (424) After sliding the elbow over the connector and cable the next step is to",
+        "options": [
+            "a. attach the threaded electrode to the connector using a pair of adjustable pliers.",
+            "b. thread the electrode into the connector using the wrench from the elbow kit.",
+            "c. thread the electrode into the connector until it is hand tight.",
+            "d. crimp the electrode onto the connector."
+        ],
+        "correct": "b. thread the electrode into the connector using the wrench from the elbow kit."
+    },
+    {
+        "question": "60. (425) What depth do you dig the trench for a below-ground check of a pole?",
+        "options": [
+            "a. 4 to 6 inches.",
+            "b. 8 to 18 inches.",
+            "c. 12 to 24 inches.",
+            "d. 24 to 36 inches."
+        ],
+        "correct": "b. 8 to 18 inches."
+    },
+    {
+        "question": "61. (425) Decay usually starts at what location on a crossarm?",
+        "options": [
+            "a. Top.",
+            "b. Ends.",
+            "c. Bottom.",
+            "d. Pin holes."
+        ],
+        "correct": "d. Pin holes."
+    },
+    {
+        "question": "62. (425) What condition can cause a crossarm to twist?",
+        "options": [
+            "a. Improper sag.",
+            "b. Lightning or voltage surges.",
+            "c. Unbalanced strain or insufficient guying.",
+            "d. Crossarm unseasoned when it was installed."
+        ],
+        "correct": "c. Unbalanced strain or insufficient guying."
+    },
+    {
+        "question": "63. (426) When a span shows too much sag while adjacent spans appear normal,",
+        "options": [
+            "a. the conductor has stretched from being hit by a falling object.",
+            "b. the cause is a twisted crossarm.",
+            "c. it's a sign of loose tie wires.",
+            "d. it's a result of poor guying."
+        ],
+        "correct": "a. the conductor has stretched from being hit by a falling object."
+    },
+    {
+        "question": "64. (426) We must make voltage and current readings on capacitor installations at least",
+        "options": [
+            "a. annually.",
+            "b. twice a year.",
+            "c. 4 times a year.",
+            "d. 6 times a year."
+        ],
+        "correct": "c. 4 times a year."
+    },
+    {
+        "question": "65. (427) What do we use to cut tree limbs that are beyond arm's reach?",
+        "options": [
+            "a. Pole saw.",
+            "b. Forester saw.",
+            "c. Docking saw.",
+            "d. Crosscut saw."
+        ],
+        "correct": "a. Pole saw."
+    },
+    {
+        "question": "66. (427) Where would you put the tree pruner to add a third section?",
+        "options": [
+            "a. Send it to the shop.",
+            "b. Lay it flat on the ground.",
+            "c. Lean it against a tree limb.",
+            "d. Lay it across the truck bed."
+        ],
+        "correct": "c. Lean it against a tree limb."
+    },
+    {
+        "question": "67. (427) What species of trees do we usually top?",
+        "options": [
+            "a. Spruce, pine, and fir.",
+            "b. Pine, elm, and pecan.",
+            "c. Oak, elm, and hackberry.",
+            "d. Willow, cottonwood, and poplar."
+        ],
+        "correct": "d. Willow, cottonwood, and poplar."
+    },
+    {
+        "question": "68. (428) What is usually the first step in troubleshooting a tripped overhead distribution circuit?",
+        "options": [
+            "a. Test the circuit.",
+            "b. Inspect the circuit visually.",
+            "c. Apply necessary ground sets.",
+            "d. Try to reset the circuit's recloser."
+        ],
+        "correct": "b. Inspect the circuit visually."
+    },
+    {
+        "question": "69. (428) What do we use to test a distribution line for a ground?",
+        "options": [
+            "a. Megger.",
+            "b. Ammeter.",
+            "c. Voltmeter.",
+            "d. Phase rotation meter."
+        ],
+        "correct": "a. Megger."
+    },
+    {
+        "question": "70. (428) Which of these is not one of the three main causes of power line noise?",
+        "options": [
+            "a. Defective equipment insulation.",
+            "b. Bonded ground wires on the utility pole.",
+            "c. Electrostatic leakage from ungrounded hardware.",
+            "d. Loose connections in the primary or neutral circuit."
+        ],
+        "correct": "b. Bonded ground wires on the utility pole."
+    },
+    {
+        "question": "71. (429) What must the electrician do before working on deenergized lines?",
+        "options": [
+            "a. Notify reporting official.",
+            "b. Test and ground the lines.",
+            "c. Close the normally open switch.",
+            "d. Don rubber protective equipment."
+        ],
+        "correct": "b. Test and ground the lines."
+    },
+    {
+        "question": "72. (429) How is the cable used for ground sets constructed?",
+        "options": [
+            "a. 600-volts insulated rubber or synthetic-covered flexible copper.",
+            "b. 5,000-volts insulated rubber or synthetic-covered flexible copper.",
+            "c. 600-volts insulated rubber or synthetic-covered hard-drawn copper.",
+            "d. 5,000-volts insulated rubber or synthetic-covered hard-drawn copper."
+        ],
+        "correct": "a. 600-volts insulated rubber or synthetic-covered flexible copper."
+    },
+    {
+        "question": "73. (430) When a break occurs in an energized line, how is the line at the break affected?",
+        "options": [
+            "a. Both ends of the wire are melted.",
+            "b. Both ends of the wire are hardened.",
+            "c. The whole wire get very brittle and charred.",
+            "d. The center disappears, leaving soft wire on either side."
+        ],
+        "correct": "d. The center disappears, leaving soft wire on either side."
+    },
+    {
+        "question": "74. (430) What do you use to check a suspected damaged transformer?",
+        "options": [
+            "a. Megger.",
+            "b. Oil tester.",
+            "c. Voltmeter.",
+            "d. Clamp-on ammeter."
+        ],
+        "correct": "a. Megger."
+    },
+    {
+        "question": "75. (431) What must you do before working on energized lines?",
+        "options": [
+            "a. Inspect the utility pole for heart-rot.",
+            "b. Fill out AF Form 980, Caution Abnormal Conditions tag.",
+            "c. Inspect hot line tools and equipment for proper operation.",
+            "d. Fill out AF Form 103, Base Civil Engineering Work Clearance Request."
+        ],
+        "correct": "d. Fill out AF Form 103, Base Civil Engineering Work Clearance Request."
+    },
+    {
+        "question": "76. (431) What two connector types do we use when splicing energized conductors?",
+        "options": [
+            "a. Split-bolt and automatic.",
+            "b. Compression and automatic.",
+            "c. Hot line clamp and split-bolt.",
+            "d. Compression and hot line clamp."
+        ],
+        "correct": "b. Compression and automatic."
+    },
+    {
+        "question": "77. (431) In making a midspan splice on an energized line, position the personnel bucket of the bucket truck",
+        "options": [
+            "a. at a 45° angle to the break.",
+            "b. parallel to the area to be spliced.",
+            "c. directly under the area to be spliced.",
+            "d. so the linemen can face the splice area from the front of the bucket."
+        ],
+        "correct": "d. so the linemen can face the splice area from the front of the bucket."
+    },
+    {
+        "question": "78. (432) What tie stick head do we normally use to untie tie wires?",
+        "options": [
+            "a. Fixed head.",
+            "b. Rotary blade.",
+            "c. Rotary prong.",
+            "d. Double prong."
+        ],
+        "correct": "b. Rotary blade."
+    },
+    {
+        "question": "79. (432) Once we untie the tie wires what do we use to raise the auxiliary crossarm assembly?",
+        "options": [
+            "a. Wire tongs.",
+            "b. A handline.",
+            "c. The mast pole.",
+            "d. A snatch block."
+        ],
+        "correct": "d. A snatch block."
+    },
+    {
+        "question": "80. (433) When the pole has a single crossarm supporting three phase conductors how many line hoses are needed for a pole change?",
+        "options": [
+            "a. 8.",
+            "b. 10.",
+            "c. 12.",
+            "d. 14."
+        ],
+        "correct": "a. 8."
+    },
+    {
+        "question": "81. (433) When replacing a pole, how many feet above the pole do you raise the auxiliary arm?",
+        "options": [
+            "a. 3 to 4 feet.",
+            "b. 5 to 6 feet.",
+            "c. 6 to 7 feet.",
+            "d. 7 to 8 feet."
+        ],
+        "correct": "a. 3 to 4 feet."
+    },
+    {
+        "question": "82. (433) The high voltage audible indicator makes an audible sound when placed",
+        "options": [
+            "a. on a hot stick.",
+            "b. on the utility pole.",
+            "c. in the bucket truck.",
+            "d. in an electrostatic field."
+        ],
+        "correct": "d. in an electrostatic field."
+    },
+    {
+        "question": "83. (434) The act of tying a tagline to each outside conductor with a bowline knot and pulling the conductors out of the work area is called",
+        "options": [
+            "conductors out of the work area is called",
+            "a. tying off.",
+            "b. bowlining.",
+            "c. tagging out.",
+            "d. line knotting."
+        ],
+        "correct": "c. tagging out."
+    },
+    {
+        "question": "84. (434) After you remove the crossarm, who lowers it to the ground?",
+        "options": [
+            "a. The linemen.",
+            "b. The supervisor.",
+            "c. The ground person.",
+            "d. The ranking 5-level."
+        ],
+        "correct": "c. The ground person."
+    },
+    {
+        "question": "85. (435) Service meters are used to determine",
+        "options": [
+            "a. if sufficient voltage is reaching a facility or organization.",
+            "b. how large a service is needed for a facility or organization.",
+            "c. if sufficient amperage is reaching a facility or organization.",
+            "d. how much power has been used by a facility or organization."
+        ],
+        "correct": "d. how much power has been used by a facility or organization."
+    },
+    {
+        "question": "86. (435) The service meter normally measures",
+        "options": [
+            "a. kilowatts.",
+            "b. volt-amps.",
+            "c. power factor.",
+            "d. kilowatt-hours."
+        ],
+        "correct": "d. kilowatt-hours."
+    },
+    {
+        "question": "87. (435) What is the formula to find the amount of watt-hours used?",
+        "options": [
+            "a. Volts multiplied by amps.",
+            "b. Power factor times wattage.",
+            "c. Multiplier times the previous reading.",
+            "d. New reading minus the previous reading."
+        ],
+        "correct": "d. New reading minus the previous reading."
+    },
+    {
+        "question": "88. (435) When transposing the numbers from the dial meter to a piece of paper, start on the.",
+        "options": [
+            "a. right hand dial then work to the left.",
+            "b. left hand dial then work to the right.",
+            "c. top dial then work to the bottom.",
+            "d. bottom dial then work to the top."
+        ],
+        "correct": "a. right hand dial then work to the left."
+    },
+    {
+        "question": "89. (436) What is the approximate bending radius for underground cable?",
+        "options": [
+            "a. 5 to 12 times cable diameter.",
+            "b. 10 to 15 times cable diameter.",
+            "c. 5 to 12 times insulation thickness.",
+            "d. 10 to 15 times insulation thickness."
+        ],
+        "correct": "a. 5 to 12 times cable diameter."
+    },
+    {
+        "question": "90. (436) How much straight cable needs to exist on each side of a cable splice for racking purposes?",
+        "options": [
+            "a. 6 inches.",
+            "b. 12 inches.",
+            "c. 1 ½ feet.",
+            "d. 2 feet."
+        ],
+        "correct": "a. 6 inches."
+    },
+    {
+        "question": "91. (436) What type of tape is used for fireproofing underground cable in manholes?",
+        "options": [
+            "a. Asbestos.",
+            "b. Waxed nylon.",
+            "c. Aluminum shielding.",
+            "d. Polymeric elastomer."
+        ],
+        "correct": "d. Polymeric elastomer."
+    },
+    {
+        "question": "92. (436) What type of cable test is made after its installed but before it is placed into service?",
+        "options": [
+            "a. Proof test.",
+            "b. Factory test.",
+            "c. Acceptance test.",
+            "d. Maintenance test."
+        ],
+        "correct": "c. Acceptance test."
+    },
+    {
+        "question": "93. (436) Generally if a cable's insulation is deteriorating, what does a direct current high potential(DC Hypot) cable test indicate for each succeeding test?",
+        "options": [
+            "a. Lower resistance or a lower power factor.",
+            "b. Lower resistance or a higher power factor.",
+            "c. Higher resistance or a lower power factor.",
+            "d. Higher resistance or a higher power factor."
+        ],
+        "correct": "c. Higher resistance or a lower power factor."
+    },
+    {
+        "question": "94. (437) What is the easiest and quickest way to locate a cable fault?",
+        "options": [
+            "a. Visually.",
+            "b. Ohm method.",
+            "c. Tracer method.",
+            "d. Re-energizing the circuit."
+        ],
+        "correct": "a. Visually."
+    },
+    {
+        "question": "95. (437) When you check for a grounded conductor with a volt-ohmmeter, what reading would indicate a grounded conductor?",
+        "options": [
+            "a. Low voltage.",
+            "b. High voltage.",
+            "c. Low resistance.",
+            "d. High resistance."
+        ],
+        "correct": "c. Low resistance."
+    },
+    {
+        "question": "96. (437) When you use the mm-1 fault locator or the thumper to locate a cable fault, when you are over the fault location",
+        "options": [
+            "a. the signal increases with both testers.",
+            "b. the signal decreases with both testers.",
+            "c. fault locator signal increases at the fault; thumper signal decreases.",
+            "d. fault locator signal fades out at the fault; thumper signal increases to the loudest volume."
+        ],
+        "correct": "c. fault locator signal increases at the fault; thumper signal decreases."
+    },
+    {
+        "question": "97. (438) In many cases, a cable fault is located at a",
+        "options": [
+            "a. splice.",
+            "b. duct entrance.",
+            "c. bend in the cable.",
+            "d. cable ground connection."
+        ],
+        "correct": "a. splice."
+    },
+    {
+        "question": "98. (438) Which cable splice kit requires the most labor to install?",
+        "options": [
+            "a. Heat-shrinkable.",
+            "b. Power cable joint.",
+            "c. Conventional taped splice kit.",
+            "d. Separable insulated connectors."
+        ],
+        "correct": "c. Conventional taped splice kit."
+    },
+    {
+        "question": "99. (439) What should be your first step when troubleshooting a pad mount transformer?",
+        "options": [
+            "a. Take a complete set of secondary phase-to-phase and phase-to-ground voltage readings.",
+            "b. Take a complete set of primary phase-to-phase and phase-to-ground voltage readings.",
+            "c. Take phase-to-phase voltage readings on the secondary side of the transformer.",
+            "d. Take phase-to-ground voltage readings on the primary side."
+        ],
+        "correct": "a. Take a complete set of secondary phase-to-phase and phase-to-ground voltage readings."
+    },
+    {
+        "question": "100. (439) If tests indicate an off-ratio winding, how would you verify whether or not the problem was in the transformer?",
+        "options": [
+            "a. Take primary current readings on all three phases.",
+            "b. Take secondary current readings on all three phases.",
+            "c. Take voltage readings on the primary side of the transformer.",
+            "d. De-energize the transformer and take resistance readings on the transformer windings."
+        ],
+        "correct": "c. Take voltage readings on the primary side of the transformer."
     }
 ]

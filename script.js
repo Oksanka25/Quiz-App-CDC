@@ -22,11 +22,10 @@ const volumes = [
     { label: "Start Volume 2", filePath: "volume2" },
     { label: "Start Volume 3", filePath: "volume3" },
     { label: "Start Volumes 1-3", filePath: "volume1-3" },
-    { label: "Start Volume 4", filePath: "volume3" },
-    { label: "Start Volume 5", filePath: "volume3" },
-    { label: "Start Volume 6", filePath: "volume3" },
-    { label: "Start Volume 7", filePath: "volume3" },
-    { label: "Start Volume 8", filePath: "volume3" },
+    { label: "Start Volume 4", filePath: "volume4" },
+    { label: "Start Volume 5", filePath: "volume5" },
+    { label: "Start Volume 6", filePath: "volume6" },
+    { label: "Start Volume 7", filePath: "volume7" },
     { label: "Start Test Volume ", filePath: "test-volume" },
 ];
 
