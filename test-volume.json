@@ -1,0 +1,22 @@
+[
+    {
+        "question": "1. (301) Which section of the Operation and Service Instructions Manual contains instructions for uncrating, installing, and preparing equipment for initial operations?",
+        "options": [
+            "a. Section 1.",
+            "b. Section 2.",
+            "c. Section 3.",
+            "d. Section 4."
+        ],
+        "correct": "c. Section 3."
+    },
+    {
+        "question": "2. (301) Which section of the Operation and Service Instructions Manual contains step-by-step instructions for starting, operating, and stopping equipment?",
+        "options": [
+            "a. Section 1.",
+            "b. Section 2.",
+            "c. Section 3.",
+            "d. Section 4."
+        ],
+        "correct": "d. Section 4."
+    }
+]

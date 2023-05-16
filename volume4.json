@@ -1,0 +1,702 @@
+[
+    {
+        "question": "1. (001) Light fixtures are classified by ",
+        "options": [
+            "a. the way they distribute light.",
+            "b. the way they are installed.",
+            "c. their width and length.",
+            "d. their size and weight."
+        ],
+        "correct": "a. the way they distribute light."
+    },
+    {
+        "question": "2. (001) Which light classification directs from 40 to 60 percent of its light upward above the area to be lighted?",
+        "options": [
+            "a. Indirect.",
+            "b. Semidirect.",
+            "c. Semi-indirect.",
+            "d. General diffusing."
+        ],
+        "correct": "d. General diffusing."
+    },
+    {
+        "question": "3. (001) Which classification of light fixture directs all its light so that the entire ceiling and upper side walls become the light source?",
+        "options": [
+            "a. Indirect.",
+            "b. Semidirect.",
+            "c. Semi-indirect.",
+            "d. General diffusing."
+        ],
+        "correct": "a. Indirect."
+    },
+    {
+        "question": "4. (001) What is the unit of measurement for lumens per square meter?",
+        "options": [
+            "a. Lux",
+            "b. Foot-candle",
+            "c. Candlepower",
+            "d. Meter-candle"
+        ],
+        "correct": "a. Lux"
+    },
+    {
+        "question": "5. (001) The efficiency range of a lamp is measured in lumens per",
+        "options": [
+            "a. volt.",
+            "b. ohm.",
+            "c. watt.",
+            "d. amp."
+        ],
+        "correct": "c. watt."
+    },
+    {
+        "question": "6. (002) Incandescent lamps have efficiencies ranging from ",
+        "options": [
+            "a. 1 to 6 lumens per Watt." ,
+            "b. 6 to 24 lumens per Watt.",
+            "c. 24 to 60 lumens per Watt.",
+            "d. 60 to 240 lumens per Watt."
+        ],
+        "correct": "b. 6 to 24 lumens per Watt."
+    },
+    {
+        "question": "7. (002) What is the diameter of a T8 lamp? ",
+        "options": [
+            "a. 8/2 inch.",
+            "b. 8/4 inch.",
+            "c. 8/8 inch.",
+            "d. 8/16 inch."
+        ],
+        "correct": "c. 8/8 inch."
+    },
+    {
+        "question": "8. (002) What frequency should you expect to find in electronic ballasts used in fluorescent lighting systems? ",
+        "options": [
+            "a. 120 to 208 hertz (Hz).",
+            "b. 400 to 600 Hz.",
+            "c. 2,400 to 4,160 Hz.",
+            "d. 25,000 to 40,000 Hz."
+        ],
+        "correct": "d. 25,000 to 40,000 Hz."
+    },
+    {
+        "question": "9. (002) What is used to power a light emitting diode (LED) array in a non-integrated LED fixture? ",
+        "options": [
+            "a. LED starter.",
+            "b. LED driver.",
+            "c. LED ballast.",
+            "d. LED transformer."
+        ],
+        "correct": "b. LED driver."
+    },
+    {
+        "question": "10. (003) What is a disadvantage of high-intensity discharge (HID) lamps?",
+        "options": [
+            "a. Low lumen per watt output.",
+            "b. Lamp size is large.",
+            "c. Lamp life is short.",
+            "d. Restrike time."
+        ],
+        "correct": "d. Restrike time."
+    },
+    {
+        "question": "11. (003) What are the voltages that the 150-watt high-pressure sodium (HPS) lamp comes in?",
+        "options": [
+            "a. 55 and 100 volts.",
+            "b. 55 and 220 volts.",
+            "c. 120 and 277 volts.",
+            "d. 100 and 480 volts."
+        ],
+        "correct": "a. 55 and 100 volts."
+    },
+    {
+        "question": "12. (003) What color light is associated with high-pressure sodium (HPS) lamps? ",
+        "options": [
+            "a. Violet.",
+            "b. Golden.",
+            "c. Green-blue.",
+            "d. Blue-white."
+        ],
+        "correct": "b. Golden."
+    },
+    {
+        "question": "13. (004) Which type of fixture is installed by laying it into the grid of a suspended ceiling?",
+        "options": [
+            "a. Surface mount.",
+            "b. Flush mount.",
+            "c. Wall mount.",
+            "d. Troffer."
+        ],
+        "correct": "d. Troffer."
+    },
+    {
+        "question": "14. (004) When installing an octagon box for a new flush mount fixture what is important to ensure that the mounting method does not fail? ",
+        "options": [
+            "a. Box is sized to support the fixture.",
+            "b. The fixture is less than 10 pounds.",
+            "c. Fixture is secured using sheetrock screws.",
+            "d. Fill capacity of the box to allow enough space for connections."
+        ],
+        "correct": "a. Box is sized to support the fixture."
+    },
+    {
+        "question": "15. (005) What are the two types of phase cut dimmers? ",
+        "options": [
+            "a. Forward and reverse.",
+            "b. Analog and digital.",
+            "c. Positive and negative.",
+            "d. Single pole and double pole."
+        ],
+        "correct": "a. Forward and reverse."
+    },
+    {
+        "question": "16. (005) How does a phase cut dimmer operate? ",
+        "options": [
+            "a. A variable resistor is used to lower the voltage.", 
+            "b. Two or more resistors are used to form a voltage divider.",
+            "c. The root mean square (RMS) voltage is reduced by turning off a portion of the input waveform.",
+            "d. Semiconductor switches are used to turn off only the negative portion of the input waveform."
+        ],
+        "correct": "c. The root mean square (RMS) voltage is reduced by turning off a portion of the input waveform."
+    },
+    {
+        "question": "17. (005) What is the light output of a fixture using a 0-10V ballast with 10 volts on the low voltage control circuit? ",
+        "options": [
+            "a. 10 %.",
+            "b. 50 %.",
+            "c. 80 %.",
+            "d. 100 %."
+        ],
+        "correct": "a. 10 %."
+    },
+    {
+        "question": "18. (006) What type of light fixture is typically used to illuminate aircraft on the parking apron? ",
+        "options": [
+            "a. 500-watt (W) floodlight.",
+            "b. 150W Cobra Head.",
+            "c. Low-pressure sodium (LPS) light fixture.",
+            "d. 1000W - 1500W high intensity discharge (HID) floodlight."
+        ],
+        "correct": "d. 1000W - 1500W high intensity discharge (HID) floodlight."
+    },
+    {
+        "question": "19. (006) In an incandescent lamp, how much consumed energy is lost in the form of heat? ",
+        "options": [
+            "a. 10 %.",
+            "b. 50 %.",
+            "c. 75 %.",
+            "d. 90 %."
+        ],
+        "correct": "d. 90 %."
+    },
+    {
+        "question": "20. (006) What device is used in high-intensity discharge (HID) lamps to limit current as the lamp heats up? ",
+        "options": [
+            "a. Ballast.",
+            "b. Inductor.",
+            "c. Resistor.",
+            "d. Capacitor."
+        ],
+        "correct": "a. Ballast."
+    },
+    {
+        "question": "21. (006) What letter represents the American National Standards Institute's special designation code for high-pressure sodium (HPS) lamps? ",
+        "options": [
+            "a. S.",
+            "b. H.",
+            "c. L.",
+            "d. M."
+        ],
+        "correct": "a. S."
+    },
+    {
+        "question": "22. (007) When installing fixtures, ensure uniform lighting by ",
+        "options": [
+            "a. using only mercury vapor fixtures.",
+            "b. adjusting fixtures to 5º from horizontal.",
+            "c. using only high-pressure sodium fixtures.", 
+            "d. adjusting fixtures so that illuminated areas overlap."
+        ],
+        "correct": "d. adjusting fixtures so that illuminated areas overlap."
+    },
+    {
+        "question": "23. (007) To ensure that the proper amount of light is provided after fixture installation, check the lighting with ",
+        "options": [
+            "a. a stake.",
+            "b. a voltmeter.",
+            "c. a light meter.",
+            "d. an ohmmeter."
+        ],
+        "correct": "c. a light meter."
+    },
+    {
+        "question": "24. (007) When troubleshooting a 120-volt photocell, which conductor should provide power to the light fixture?  ",
+        "options": [
+            "a. Load (red).",
+            "b. Line (black).",
+            "c. Neutral (white).",
+            "d. None of the above."
+        ],
+        "correct": "a. Load (red)."
+    },
+    {
+        "question": "25. (007) To prevent injury during re-lamping procedures, you must ",
+        "options": [
+            "a. wear leather gloves.",
+            "b. de-energize the light fixture.",
+            "c. wear approved safety goggles.",
+            "d. do all of the above tasks."
+        ],
+        "correct": "d. do all of the above tasks."
+    },
+    {
+        "question": "26. (008) Which airfield lights have yellow filters installed for the last 2,000 feet of runaway? ",
+        "options": [
+            "a. Threshold lights.",
+            "b. Runway edge lights.",
+            "c. Terminating bar lights.", 
+            "d. Runway distance marker lights."
+        ],
+        "correct": "b. Runway edge lights."
+    },
+    {
+        "question": "27. (008) Which airfield lights provide positive identification of the beginning of the operational runway surface for approaching aircraft? ",
+        "options": [
+            "a. Threshold lights.",
+            "b. Runway edge lights.",
+            "c. Terminating bar lights.", 
+            "d. Runway distance marker lights."
+        ],
+        "correct": "a. Threshold lights."
+    },
+    {
+        "question": "28. (008) Which airfield fixture is unidirectional?",
+        "options": [
+            "a. Runway centerline.",
+            "b. Taxiway edge.",
+            "c. Runway edge.",
+            "d. Approach."
+        ],
+        "correct": "d. Approach."
+    },
+    {
+        "question": "29. (008) Which of the following items are found on ALSF-2 approaches? ",
+        "options": [
+            "a. Runway edge lights.",
+            "b. Runway end lights.",
+            "c. Terminating bar.",
+            "d. 500 foot bar."
+        ],
+        "correct": "d. 500 foot bar."
+    },
+    {
+        "question": "30. (008) What color is used for the taxiway edge light? ",
+        "options": [
+            "a. Yellow.",
+            "b. White.",
+            "c. Blue.",
+            "d. Red."
+        ],
+        "correct": "c. Blue."
+    },
+    {
+        "question": "31. (009) One of the main control panels for the airfield lights is in the vault; where is the other panel located? ",
+        "options": [
+            "a. Control tower.",
+            "b. Base operations.",
+            "c. Aircraft terminal.",
+            "d. Center of the approach."
+        ],
+        "correct": "a. Control tower."
+    },
+    {
+        "question": "32. (010) What should you have available if your system uses 48-volt DC control? ",
+        "options": [
+            "a. An extra master sequence panel.",
+            "b. An extra power supply module.",
+            "c. Low-burden pilot relay panel.", 
+            "d. A large battery."
+        ],
+        "correct": "b. An extra power supply module."
+    },
+    {
+        "question": "33. (010) The standard control cable for an airfield lighting control system has how many conductors?",
+        "options": [
+            "a. 4.",
+            "b. 5.",
+            "c. 6.",
+            "d. 7."
+        ],
+        "correct": "d. 7."
+    },
+    {
+        "question": "34. (010) Which airfield vault device is used to swap location of control of the airfield lights?",
+        "options": [
+            "a. MA-1 panel.",
+            "b. Transfer switch.",
+            "c. Pilot relay panel.",
+            "d. Circuit breaker panel."
+        ],
+        "correct": "b. Transfer switch."
+    },
+    {
+        "question": "35. (010) What size cable is used for airfield light field circuits? ",
+        "options": [
+            "a. No. 2.",
+            "b. No. 4.",
+            "c. No. 6.",
+            "d. No. 8."
+        ],
+        "correct": "d. No. 8."
+    },
+    {
+        "question": "36. (011) How are the output leads of an airfield regulator labeled?",
+        "options": [
+            "a. X1 and X2.",
+            "b. X1 and X3.",
+            "c. H1 and H2.",
+            "d. H1 and H3."
+        ],
+        "correct": "c. H1 and H2."
+    },
+    {
+        "question": "37. (011) What size counterpoise is used for airfield lighting circuits? ",
+        "options": [
+            "a. No. 4 American wire gauge (AWG).",
+            "b. No. 2 AWG.",
+            "c. No. 1/0 AWG.",
+            "d. No. 2/0 AWG."
+        ],
+        "correct": "a. No. 4 American wire gauge (AWG)."
+    },
+    {
+        "question": "38. (011) What must be done before replacing an isolating (IL) transformer?",
+        "options": [
+            "a. Apply two half-lapped layers of tape to the connectors.",
+            "b. Call the electrical superintendent for clearance.",
+            "c. Cut the ends off of the old IL transformer.",
+            "d. De-energize, tag, and ground the circuit."
+        ],
+        "correct": "d. De-energize, tag, and ground the circuit."
+    },
+    {
+        "question": "39. (011) What feature is common to elevated airfield lights?",
+        "options": [
+            "a. They use a higher wattage lamp than other lights.",
+            "b. They use a lower wattage lamp than other lights.",
+            "c. They are built with frangible construction.",
+            "d. They are sturdier than semiflush lights."
+        ],
+        "correct": "c. They are built with frangible construction."
+    },
+    {
+        "question": "40. (012) The primary purpose of the rotating/airport beacon is to",
+        "options": [
+            "a. mark the highest airfield obstruction.",
+            "b. inform pilots of their altitude.",
+            "c. determine visibility distances.",
+            "d. guide the pilot to the airfield."
+        ],
+        "correct": "d. guide the pilot to the airfield."
+    },
+    {
+        "question": "41. (012) How many revolutions per minute (RPM) does the airport beacon turn?",
+        "options": [
+            "a. 6.",
+            "b. 12.",
+            "c. 15.",
+            "d. 20."
+        ],
+        "correct": "a. 6."
+    },
+    {
+        "question": "42. (012) What occurs when the operating lamp in the airport beacon fails?",
+        "options": [
+            "a. A buzzer is activated in the tower.",
+            "b. A signal light in the vault is activated.",
+            "c. Base operations initiates an emergency service call.",
+            "d. A reserve lamp is placed in operation automatically."
+        ],
+        "correct": "d. A reserve lamp is placed in operation automatically."
+    },
+    {
+        "question": "43. (012) What voltage is necessary to run the airport beacon? ",
+        "options": [
+            "a. 120 volts.",
+            "b. 120/240 volts.",
+            "c. 240/416 volts.",
+            "d. 2,400 volts."
+        ],
+        "correct": "b. 120/240 volts."
+    },
+    {
+        "question": "44. (013) What device can be used to change voltage up or down for the airport beacon lamps? ",
+        "options": [
+            "a. MA-1 panel.",
+            "b. The beacon motor's tap block.",
+            "c. The tap changer in the distribution transformer.", 
+            "d. The constant-current regulator that feeds the beacon circuit."
+        ],
+        "correct": "c. The tap changer in the distribution transformer."
+    },
+    {
+        "question": "45. (013) What do we use to clean the airport beacon's slip rings? ",
+        "options": [
+            "a. Wood alcohol.",
+            "b. Light sanding.",
+            "c. Penetrating oil.",
+            "d. A burnishing tool."
+        ],
+        "correct": "a. Wood alcohol."
+    },
+    {
+        "question": "46.(014) What station marks the start of the strobe system?",
+        "options": [
+            "a.Station 20+00.",
+            "b.Station 20+10.",
+            "c.Station 30+00.",
+            "d.Station 30+10."
+        ],
+        "correct": "c.Station 30+00."
+    },
+    {
+        "question": "47.(014) How often does each strobe light unit flash?",
+        "options": [
+            "a.Once each second.",
+            "b.Twice each second.",
+            "c.Once every 2 seconds.",
+            "d.Once every 4 seconds."
+        ],
+        "correct": "b.Twice each second."
+    },
+    {
+        "question": "48.(014) The strobe system is capable of producing how many brightness steps?.",
+        "options": [
+            "a. 1.",
+            "b. 2.",
+            "c. 3.",
+            "d. 4."
+        ],
+        "correct": "c. 3."
+    },
+    {
+        "question": "49.(014) The wire that connects the flash head to the individual control cabinet is rated at",
+        "options": [
+            "a.600 V.",
+            "b.3 kV.",
+            "c.5 kV.",
+            "d.15 kV."
+        ],
+        "correct": "b.3 kV."
+    },
+    {
+        "question": "50.(014) When does the hour (elapsed-time) meter operate?",
+        "options": [
+            "a.Any time system is turned on.",
+            "b.When system is in stand-by mode.",
+            "c.When system is operated on high intensity.",
+            "d.When system is operated on medium intensity."
+        ],
+        "correct": "c.When system is operated on high intensity."
+    },
+    {
+        "question": "51.(014) What would indicate a failure condition on the lightning protection varistors?",
+        "options": [
+            "a.Blown fuse F1.",
+            "b.Changes color to blue.",
+            "c.Charring on the surface.",
+            "d.Lamp L3 blinks intermittently."
+        ],
+        "correct": "c.Charring on the surface."
+    },
+    {
+        "question": "52.(015) How long does it take the flash capacitors to bleed off their charge?",
+        "options": [
+            "a.1 second.",
+            "b.1 minute.",
+            "c.30 seconds.",
+            "d.30 minutes."
+        ],
+        "correct": "b.1 minute."
+    },
+    {
+        "question": "53.(015) What is indicated when two skips occur within 100 flashes of the condenser discharge system?",
+        "options": [
+            "a.Excessive dirt accumulation on the lens.",
+            "b.Over voltage to the flasher.",
+            "c.Misaligned fixture.",
+            "d.A worn out lamp."
+        ],
+        "correct": "d.A worn out lamp."
+    },
+    {
+        "question": "54. (016) After notifying the control tower, what should you do before working on control circuits? ",
+        "options": [
+            "a. Isolate the circuit.",
+            "b. Notify your supervisor.", 
+            "c. Test the circuit with an ohmmeter.",
+            "d. Open fused cutouts on transformer."
+        ],
+        "correct": "a. Isolate the circuit."
+    },
+    {
+        "question": "55. (016) What indication is considered \"good\" when you read across a closed switch with a voltmeter?",
+        "options": [
+            "a. One-half output voltage.",
+            "b. One-half input voltage.", 
+            "c. Full input voltage.",
+            "d. Zero volts."
+        ],
+        "correct": "d. Zero volts."
+    },
+    {
+        "question": "56. (016) To check the coil of a deenergized relay, use ",
+        "options": [
+            "a. a voltmeter.",
+            "b. an ammeter.",
+            "c. an ohmmeter.",
+            "d. a circuit tracer."
+        ],
+        "correct": "c. an ohmmeter."
+    },
+    {
+        "question": "57. (017) How are animals prevented from chewing on airfield lighting fixture cords? ",
+        "options": [
+            "a. Fixtures are designed so that no cords are exposed.",
+            "b. Using a yellow colored fixture to scare them away.",
+            "c. By applying pesticides to the fixture.",
+            "d. By energizing portions of the fixture."
+        ],
+        "correct": "a. Fixtures are designed so that no cords are exposed."
+    },
+    {
+        "question": "58. (017) What is used to maintain contact with the tower when away from the truck?",
+        "options": [
+            "a. Runners.",
+            "b. Hand signals.",
+            "c. Hand-held radios.",
+            "d. Flashlight signals."
+        ],
+        "correct": "c. Hand-held radios."
+    },
+    {
+        "question": "59. (017) What should you do just before screwing an elevated fixture coupling onto the base?",
+        "options": [
+            "a. Tighten the lock-ring until it is fully seated to the base.",
+            "b. Twist the entire fixture clockwise several full rotations.",
+            "c. Loosen the lock-ring until it is completely free of the fixture.",
+            "d. Twist the entire fixture counterclockwise several full rotations."
+        ],
+        "correct": "d. Twist the entire fixture counterclockwise several full rotations."
+    },
+    {
+        "question": "60. (018) Which approach lighting system maintenance item must be performed daily? ",
+        "options": [
+            "a. Replace gaskets.",
+            "b. Clean and polish lenses.",
+            "c. Check and record burned out lamps.",
+            "d. Check and record secondary amperage readings."
+        ],
+        "correct": "c. Check and record burned out lamps."
+    },
+    {
+        "question": "61. (018) When should you check all approach light fixtures for alignment? ",
+        "options": [
+            "a. Weekly.",
+            "b. Biweekly.",
+            "c. Once a year.",
+            "d. Twice a year."
+        ],
+        "correct": "d. Twice a year."
+    },
+    {
+        "question": "62. (019) Where is the precision approach path indicator (PAPI) system located? ",
+        "options": [
+            "a. Always facing north.",
+            "b. Always facing south.",
+            "c. On the left side of the runway.",
+            "d. On the right side of the runway."
+        ],
+        "correct": "c. On the left side of the runway."
+    },
+    {
+        "question": "63. (019) What occurs when a precision approach path indicator (PAPI) unit gets misaligned by more than ½ degree up or 1 degree down?",
+        "options": [
+            "a. A buzzer sounds in the tower cab.",
+            "b. A tilt switch opens the entire circuit.",
+            "c. A warning light is turned on at the unit.",
+            "d. A warning light is turned on at the vault."
+        ],
+        "correct": "b. A tilt switch opens the entire circuit."
+    },
+    {
+        "question": "64. (020) How often are dielectric oil tests made on airfield regulators?",
+        "options": [
+            "a. Monthly.",
+            "b. Quarterly.",
+            "c. Semiannually.",
+            "d. Annually."
+        ],
+        "correct": "d. Annually."
+    },
+    {
+        "question": "65. (020) When you tie together two airfield light circuits for emergency operation, what do you do to prevent regulator overload?",
+        "options": [
+            "a. Increase regulator current output.",
+            "b. Remove every third airfield light from the new circuit.",
+            "c. Move the control wire from step 5 relay to step 4 relay.",
+            "d. Parallel the two circuits before you connect them to the regulator."
+        ],
+        "correct": "c. Move the control wire from step 5 relay to step 4 relay."
+    },
+    {
+        "question": "66. (021) What meter do you use to perform insulation resistance tests on airfield light circuits?",
+        "options": [
+            "a. Hypot.",
+            "b. Multimeter.",
+            "c. Megohmmeter.",
+            "d. Signal-generator."
+        ],
+        "correct": "c. Megohmmeter."
+    },
+    {
+        "question": "67. (021) To perform a direct current (DC) hi-potential test on a high-intensity runway edge circuit, what voltage value do you use?",
+        "options": [
+            "a. 5,000.",
+            "b. 10,000.",
+            "c. 15,000.",
+            "d. 20,000."
+        ],
+        "correct": "a. 5,000."
+    },
+    {
+        "question": "68. (021) In order to perform a direct current (DC) hi-potential test on an airfield light circuit, what do you do with the leads once you remove them from the airfield regulator? ",
+        "options": [
+            "a. Short both leads.",
+            "b. Ground both leads.",
+            "c. Support one lead and ground the other.",
+            "d. Support both leads and keep them clear of each other and the ground."
+        ],
+        "correct": "d. Support both leads and keep them clear of each other and the ground."
+    },
+    {
+        "question": "69. (021) When using radios, which two words should you use to describe circuit conditions? ",
+        "options": [
+            "a. Off/on.",
+            "b. Go/no-go.",
+            "c. Open/closed.",
+            "d. Inside/outside."
+        ],
+        "correct": "c. Open/closed."
+    },
+    {
+        "question": "70. (021) Which method of troubleshooting is potentially destructive, and should not be used first? ",
+        "options": [
+            "a. Insulation resistance testing.",
+            "b. Intentional grounding.", 
+            "c. Intentional opening.",
+            "d. Cable tracing."
+        ],
+        "correct": "b. Intentional grounding."
+    }
+]
