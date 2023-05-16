@@ -1,22 +1,553 @@
 [
     {
-        "question": "1. (301) Which section of the Operation and Service Instructions Manual contains instructions for uncrating, installing, and preparing equipment for initial operations?",
+        "question": "1. (601) What is the next step in installing strobe lights after you ground the series circuit adapter and master strobe?",
         "options": [
-            "a. Section 1.",
-            "b. Section 2.",
-            "c. Section 3.",
-            "d. Section 4."
+            "a. Set the on-off switches to the on position.",
+            "b. Set the strobe master switch to remote.",
+            "c. Discharge the capacitors.",
+            "d. Install the flash tube."
         ],
-        "correct": "c. Section 3."
+        "correct": "c. Discharge the capacitors."
     },
     {
-        "question": "2. (301) Which section of the Operation and Service Instructions Manual contains step-by-step instructions for starting, operating, and stopping equipment?",
+        "question": "2. (601) What is the TAG's first step in installing the strobe units?",
         "options": [
-            "a. Section 1.",
-            "b. Section 2.",
-            "c. Section 3.",
-            "d. Section 4."
+            "a. Position the strobe master unit so that its window faces away from the runway.",
+            "b. Position the strobe master unit so that its window faces toward the runway.",
+            "c. Position the series circuit adapter (SCA) next to the strobe slave.",
+            "d. Connect the strobe unit to the SCA."
         ],
-        "correct": "d. Section 4."
+        "correct": "a. Position the strobe master unit so that its window faces away from the runway."
+    },
+    {
+        "question": "3. (601) What is the next step after the TAG installs the 1000 foot crossbar?",
+        "options": [
+            "a. Go back to the outboard strobe location and install it.",
+            "b. Go directly to the threshold and position the lights.",
+            "c. Position the inboard strobe slave unit.",
+            "d. Install the approach lights."
+        ],
+        "correct": "d. Install the approach lights."
+    },
+    {
+        "question": "4. (601) What is the final step in installing the runway edge lights?",
+        "options": [
+            "a. Connect the fixture to an isolation transformer.",
+            "b. Connect the fixture to the rest of the airfield circuit.",
+            "c. Install an isolation transformer inboard of the fixture.",
+            "d. Anchor each light fixture with two ballast rings or one stake."
+        ],
+        "correct": "d. Anchor each light fixture with two ballast rings or one stake."
+    },
+    {
+        "question": "5. (601) What do you do first when leveling and aiming a precision approach path indicator (PAPI)unit?",
+        "options": [
+            "a. Level the unit from side to side by adjusting the unit's two front knobs.",
+            "b. Level the unit from front to back by adjusting the unit's rear knob.",
+            "c. Adjust the aim of the unit to provide a 3-degree glide slope.",
+            "d. Adjust the PAPI unit's tilt switch."
+        ],
+        "correct": "a. Level the unit from side to side by adjusting the unit's two front knobs."
+    },
+    {
+        "question": "6. (601) What is the final step in installation of the precision approach path indicator (PAPI) units?",
+        "options": [
+            "a. Install a photocell on either unit.",
+            "b. Stake each unit securely to the ground.",
+            "c. Align each unit so that it is parallel with the runway.",
+            "d. Adjust the tilt switch so that the bubble is in the middle."
+        ],
+        "correct": "d. Adjust the tilt switch so that the bubble is in the middle."
+    },
+    {
+        "question": "7. (601) How do you begin the procedure for installing the emergency airfield lighting system obstruction lights?",
+        "options": [
+            "a. Install the batteries into the fixture.",
+            "b. Connect the fixture straight into the runway circuit.",
+            "c. Connect the fixture to the runway circuit through a transformer.",
+            "d. Connect the fixture to the runway circuit through a series circuit adapter (SCA)."
+        ],
+        "correct": "a. Install the batteries into the fixture."
+    },
+    {
+        "question": "8. (602) When performing an open circuit test on the regulator, what is the next step after turning the circuit breaker off?",
+        "options": [
+            "a. Turn the intensity selector switch to the OFF position.",
+            "b. Turn the intensity selector switch to the LOW intensity setting.",
+            "c. Install the male-to-male adapter cable into the output current plugs.",
+            "d. Remove the male-to-male adapter cable from the output current plugs."
+        ],
+        "correct": "d. Remove the male-to-male adapter cable from the output current plugs."
+    },
+    {
+        "question": "9. (603) When replacing a lamp on a runway edge light, how do you remove the lamp from its base?",
+        "options": [
+            "a. Grip the lamp by its ceramic base and pull straight up.",
+            "b. Turn the lamp in a counter-clockwise direction.",
+            "c. Loosen the screws holding the lamp in place.",
+            "d. Turn the lamp in a clock-wise direction."
+        ],
+        "correct": "a. Grip the lamp by its ceramic base and pull straight up."
+    },
+    {
+        "question": "10. (603) How do you remove the red lens from an obstruction light?",
+        "options": [
+            "a. Unscrew the lens in a clock-wise direction.",
+            "b. Unscrew the lens in a counter-clockwise direction.",
+            "c. Remove the screws holding the lens in place and pull the lens straight up.",
+            "d. Loosen the screws holding the lens in place, turn it to the right, and pull it straight up."
+        ],
+        "correct": "d. Loosen the screws holding the lens in place, turn it to the right, and pull it straight up."
+    },
+    {
+        "question": "11. (603) Which of the following is a step in the process of changing out a lamp in a strobe unit?",
+        "options": [
+            "a. Disconnect the fixture from the series circuit adapter.",
+            "b. Disconnect the fixture from the airfield circuit.",
+            "c. Connect the fixture's case to ground.",
+            "d. Short the capacitors."
+        ],
+        "correct": "d. Short the capacitors."
+    },
+    {
+        "question": "12. (603) What is the procedure for removing the electrical connection from a precision approach path indicator (PAPI) lamp?",
+        "options": [
+            "a. Loosen the terminal screw and remove the connection from the lamp.",
+            "b. Push in the connector and turn it counterclockwise.",
+            "c. Pull the connection straight back off the lamp.",
+            "d. Push in the connector and turn it clockwise."
+        ],
+        "correct": "b. Push in the connector and turn it counterclockwise."
+    },
+    {
+        "question": "13. (604) What generator is used for emergency backup of facilities that are mission essential, such as communications centers and command posts?",
+        "options": [
+            "communications centers and command posts?",
+            "a. Mission essential power (MEP) 805.",
+            "b. MEP 805A.",
+            "c. MEP 806A.",
+            "d. MEP 807."
+        ],
+        "correct": "c. MEP 806A."
+    },
+    {
+        "question": "14. (605) Besides conductor size, what is another important factor to consider when reducing voltage drop in an electrical circuit?",
+        "options": [
+            "a. Conduit size.",
+            "b. Insulation type.",
+            "c. Equipment load.",
+            "d. Circuit distance."
+        ],
+        "correct": "d. Circuit distance."
+    },
+    {
+        "question": "15. (605) You have a #8 AWG stranded copper conductor with 0.778 ohms of resistance for each1,000 feet of length. If you run that cabling 100 feet between the power plant and the load, the total resistance would be",
+        "options": [
+            "a. 77.8 ohms.",
+            "b. 155.6 ohms.",
+            "c. 0.1556 ohms.",
+            "d. 0.00778 ohms."
+        ],
+        "correct": "d. 0.00778 ohms."
+    },
+    {
+        "question": "16. (606) How do you start the engine of a mission essential power (MEP) 806B generator?",
+        "options": [
+            "a. Turn on ENGINE CONTROL switch.",
+            "b. Close the ENGINE CONTROL switch.",
+            "c. Close the ENGINE CONTROL circuit breaker.",
+            "d. Hold ENGINE CONTROL switch in the START for 2 seconds."
+        ],
+        "correct": "d. Hold ENGINE CONTROL switch in the START for 2 seconds."
+    },
+    {
+        "question": "17. (606) What is the first step to shutting down a generator?",
+        "options": [
+            "a. Turn off the generator.",
+            "b. Place ENGINE CONTROL switch in the OFF position.",
+            "c. Select SHUTDOWN COMPUTER on CIM display screen.",
+            "d. Hold alternating current (AC) CIRCUIT INTERRUPT switch in OPEN position to open the load contactor."
+        ],
+        "correct": "d. Hold alternating current (AC) CIRCUIT INTERRUPT switch in OPEN position to open the load contactor."
+    },
+    {
+        "question": "18. (607) When operating in extremely cold climates, what must you do to prevent the battery from freezing when you add water?",
+        "options": [
+            "a. Reposition the battery closer to the engine.",
+            "b. Use a weak salt solution to fill the battery.",
+            "c. Immediately mix the fluid by charging the battery.",
+            "d. Do not add fluid when below freezing temperatures are expected."
+        ],
+        "correct": "c. Immediately mix the fluid by charging the battery."
+    },
+    {
+        "question": "19. (608) The Basic Expeditionary Airfield Resources Order of Battle (BOB) is based on increments on of how many personnel?",
+        "options": [
+            "a. 250.",
+            "b. 500.",
+            "c. 750.",
+            "d. 1,000."
+        ],
+        "correct": "a. 250."
+    },
+    {
+        "question": "20. (608) On a 25-kw power distribution panel (PDP), what is the 60-amp output utilized for?",
+        "options": [
+            "a. To connect another PDP.",
+            "b. This PDP does not have 60-amp output.",
+            "c. Backfeed connection from the secondary distribution panel (SDC).",
+            "d. To connect a field deployable environmental control unit (FDECU)."
+        ],
+        "correct": "d. To connect a field deployable environmental control unit (FDECU)."
+    },
+    {
+        "question": "21. (609) How many light masts come with the remote area lighting system (RALS)?",
+        "options": [
+            "a. 11.",
+            "b. 12.",
+            "c. 13.",
+            "d. 14."
+        ],
+        "correct": "c. 13."
+    },
+    {
+        "question": "22. (609) What is the proper wattage and lamp type used on the remote area lighting system (RALS)?",
+        "options": [
+            "a. 500-watt quartz.",
+            "b. 250-watt halogen.",
+            "c. 100-watt low-pressure sodium.",
+            "d. 150-watt high-pressure sodium."
+        ],
+        "correct": "d. 150-watt high-pressure sodium."
+    },
+    {
+        "question": "23. (609) You can establish automatic operation of a fully operational remote area lighting system(RALS) by positioning the override switch to",
+        "options": [
+            "a. ON.",
+            "b. OFF.",
+            "c. AUTO.",
+            "d. MANUAL."
+        ],
+        "correct": "c. AUTO."
+    },
+    {
+        "question": "24. (610) What is the output rating of the diesel generator on the telescoping floodlight set?",
+        "options": [
+            "a. 30 kilowatt (kW).",
+            "b. 15 kW.",
+            "c. 10 kW.",
+            "d. 6 kW."
+        ],
+        "correct": "d. 6 kW."
+    },
+    {
+        "question": "25. (610) For proper operation, you need to keep the telescoping floodlight set generator output between ",
+        "options": [
+            "a. 97 and 110 volts alternating current (VAC).",
+            "b. 119 and 125 VAC.",
+            "c. 197 and 210 VAC.",
+            "d. 233 and 247 VAC."
+        ],
+        "correct": "d. 233 and 247 VAC."
+    },
+    {
+        "question": "26. (610) What is the full height of the telescoping floodlight set trailer tower",
+        "options": [
+            "a. 26 feet.",
+            "b. 29 feet.",
+            "c. 30 feet.",
+            "d. 35 feet."
+        ],
+        "correct": "b. 29 feet."
+    },
+    {
+        "question": "27. (610) How often must you clean the air filter in the generator on the telescoping floodlight set when operating under dusty conditions?",
+        "options": [
+            "a. Once a day.",
+            "b. Once a week.",
+            "c. Every 8 hours.",
+            "d. Every 16 hours."
+        ],
+        "correct": "a. Once a day."
+    },
+    {
+        "question": "28. (611) The reverse osmosis water purification unit (ROWPU) requires a power supply capable of providing",
+        "options": [
+            "a. 240/416 volts alternating current (VAC).",
+            "b. 120/208 VAC.",
+            "c. 240 VAC.",
+            "d. 120 VAC."
+        ],
+        "correct": "b. 120/208 VAC."
+    },
+    {
+        "question": "29. (611) What is used to ground the reverse osmosis water purification unit (ROWPU)?",
+        "options": [
+            "a. The contact between the earth and the frame of the unit is a sufficient ground.",
+            "b. A three-piece ground rod that is stored on the control panel.",
+            "c. A ¾ inch ground rod that is 10 feet in length.",
+            "d. A 10 foot metal discharge pipe."
+        ],
+        "correct": "b. A three-piece ground rod that is stored on the control panel."
+    },
+    {
+        "question": "30. (611) What safety precaution should be taken prior to disconnecting any pipes or equipment on the reverse osmosis water purification unit (ROWPU)?",
+        "options": [
+            "a. Close all control valves.",
+            "b. Open all drains and vents.",
+            "c. Turn off chemical feed pumps.",
+            "d. Prime the reverse osmosis pump."
+        ],
+        "correct": "b. Open all drains and vents."
+    },
+    {
+        "question": "31. (611) Where is the reverse osmosis water purification unit (ROWPU) ground rod stored?",
+        "options": [
+            "a. Under the circuit breaker box.",
+            "b. In the generator compartment.",
+            "c. Under the junction box.",
+            "d. On the control panel."
+        ],
+        "correct": "d. On the control panel."
+    },
+    {
+        "question": "32. (612) Which contingency asset requires two dedicated secondary distribution centers (SDC) to meet its high load demands?",
+        "options": [
+            "a. Field laundry unit.",
+            "b. Harvest Eagle kitchen.",
+            "c. Reverse osmosis water purification unit (ROWPU).",
+            "d. Basic expeditionary airfield resources (BEAR) kitchen."
+        ],
+        "correct": "d. Basic expeditionary airfield resources (BEAR) kitchen."
+    },
+    {
+        "question": "33. (612) The basic expeditionary airfield resources (BEAR) kitchen is powered by two generators,one 60 kW and one",
+        "options": [
+            "a. 5 kilowatt (kW).",
+            "b. 30 kW.",
+            "c. 100 kW.",
+            "d. 200 kW."
+        ],
+        "correct": "b. 30 kW."
+    },
+    {
+        "question": "34. (612) When operating how often is the basic expeditionary airfield resources (BEAR) kitchen electrical system inspected?",
+        "options": [
+            "a. Quarterly.",
+            "b. Monthly.",
+            "c. Weekly.",
+            "d. Daily."
+        ],
+        "correct": "c. Weekly."
+    },
+    {
+        "question": "35. (613) What is the primary distribution voltage of the basic expeditionary airfield resources(BEAR) electrical system?",
+        "options": [
+            "a. 12,470 volts alternating current (VAC).",
+            "b. 4,160 VAC.",
+            "c. 2,400 VAC.",
+            "d. 240 VAC."
+        ],
+        "correct": "b. 4,160 VAC."
+    },
+    {
+        "question": "36. (613) What is the output of the 750-kW, mission essential power (MEP)-12 generator in a basic expeditionary airfield resources (BEAR) package?",
+        "options": [
+            "a. Three-phase, 4,160 volts.",
+            "b. Three-phase, 2,400 volts.",
+            "c. Single-phase, 4,160 volts.",
+            "d. Single-phase, 2,400 volts."
+        ],
+        "correct": "a. Three-phase, 4,160 volts."
+    },
+    {
+        "question": "37. (614) What type of cable termination is used for the primary switching center (PSC) connections?",
+        "options": [
+            "a. Joy splices.",
+            "b. Load-break elbows.",
+            "c. Tape termination kits.",
+            "d. Heat-shrink molded terminations."
+        ],
+        "correct": "b. Load-break elbows."
+    },
+    {
+        "question": "38. (614) Which way point is used to tie two primary switching centers (PSC) together?",
+        "options": [
+            "a. 3.",
+            "b. 4.",
+            "c. 5.",
+            "d. 6."
+        ],
+        "correct": "d. 6."
+    },
+    {
+        "question": "39. (614) When connecting two primary switching centers (PCS) together using 500 MCM copper cable, what is required to make the connection?",
+        "options": [
+            "a. 200 amp loadbreak.",
+            "b. 600 amp loadbreak.",
+            "c. 200 amp deadbreak.",
+            "d. 600 amp deadbreak."
+        ],
+        "correct": "d. 600 amp deadbreak."
+    },
+    {
+        "question": "40. (614) What is used to compensate for voltage drop in a secondary distribution center (SDC)?",
+        "options": [
+            "a. Larger cable.",
+            "b. Tap changes.",
+            "c. Copper conductors.",
+            "d. 200-kVA transformer."
+        ],
+        "correct": "b. Tap changes."
+    },
+    {
+        "question": "41. (614) What is the conductor size and insulation value of the basic expeditionary airfield resources(BEAR) high-voltage electrical cable?",
+        "options": [
+            "a. #6, 15 kilovolts (kV).",
+            "b. #1/0, 5 kV.",
+            "c. #6, 5 kV.",
+            "d. #1/0, 15 kV."
+        ],
+        "correct": "b. #1/0, 5 kV."
+    },
+    {
+        "question": "42. (614) You should bury primary cables to a depth of at least",
+        "options": [
+            "a. 8 inches.",
+            "b. 12 inches.",
+            "c. 18 inches.",
+            "d. 24 inches."
+        ],
+        "correct": "c. 18 inches."
+    },
+    {
+        "question": "43. (614) How many ways on the primary switching center (PSC) have load interrupter switches?",
+        "options": [
+            "a. 1.",
+            "b. 2.",
+            "c. 3.",
+            "d. 4."
+        ],
+        "correct": "b. 2."
+    },
+    {
+        "question": "44. (614) Before performing maintenance on the secondary distribution center (SDC) you",
+        "options": [
+            "a. shut down the primary switching center (PSC).",
+            "b. close the mission essential power breaker.",
+            "c. contact the disaster control center.",
+            "d. ensure all power is removed."
+        ],
+        "correct": "d. ensure all power is removed."
+    },
+    {
+        "question": "45. (614) What is the mostly likely problem when there is no power to any of the outbound primary distribution center feeders?",
+        "options": [
+            "a. Defective load-break elbow.",
+            "b. High-voltage cable failure.",
+            "c. 200-amp fuse blown.",
+            "d. Power source failure."
+        ],
+        "correct": "d. Power source failure."
+    },
+    {
+        "question": "46. (615) The recommended distance for secondary runs from the secondary distribution center(SDC) is not to exceed",
+        "options": [
+            "a. 400 feet.",
+            "b. 600 feet.",
+            "c. 800 feet.",
+            "d. 1,000 feet."
+        ],
+        "correct": "c. 800 feet."
+    },
+    {
+        "question": "47. (615) What basic expeditionary airfield resources (BEAR) asset is used as the main distribution point for secondary circuits?",
+        "options": [
+            "a. Contractor control cubicles.",
+            "b. Primary switching center (PSC).",
+            "c. Remote airfield lighting set (RALS).",
+            "d. Secondary distribution center (SDC)."
+        ],
+        "correct": "d. Secondary distribution center (SDC)."
+    },
+    {
+        "question": "48. (615) How many 120/208 volts alternating current output circuits can the secondary distribution center (SDC) provide?",
+        "options": [
+            "a. 2.",
+            "b. 6.",
+            "c. 12.",
+            "d. 16."
+        ],
+        "correct": "d. 16."
+    },
+    {
+        "question": "49. (615) Which power distribution panel is associated with the tent extendible modular personnel(TEMPER) tent?",
+        "options": [
+            "a. 15 kilowatt (kW).",
+            "b. 25 kW.",
+            "c. 100 kW.",
+            "d. 200 kW."
+        ],
+        "correct": "b. 25 kW."
+    },
+    {
+        "question": "50. (615) What cable size is used to connect the low-voltage mission essential power generator to the secondary distribution center (SDC)?",
+        "options": [
+            "a. 100-foot, 60-amp.",
+            "b. 50-foot, 150-amp.",
+            "c. 25-foot, 200-amp.",
+            "d. 25-foot, 100-amp."
+        ],
+        "correct": "c. 25-foot, 200-amp."
+    },
+    {
+        "question": "51. (615) How do you de-energize the transformer windings of one secondary distribution center(SDC) without de-energizing any of the interconnected SDCs?",
+        "options": [
+            "a. Turn off the main circuit breaker.",
+            "b. Pull the three fused disconnects in the high-voltage compartment.",
+            "c. De-energize the main feeder at the primary switching center (PSC).",
+            "d. Disconnect the load-break elbows in the high-voltage compartment."
+        ],
+        "correct": "b. Pull the three fused disconnects in the high-voltage compartment."
+    },
+    {
+        "question": "52. (616) What can you do to ground the system if the ground rod cannot be driven into the earth during deployments to locations where low voltage will be used for a short time?",
+        "options": [
+            "a. Connect generator ground to system neutral.",
+            "b. Bury the ground rod in a horizontal trench that is 18 inches deep.",
+            "c. No grounds are required for low-voltage short-time deployments.",
+            "d. Drive the ground rod in as far as it will go, and cut off the excess."
+        ],
+        "correct": "b. Bury the ground rod in a horizontal trench that is 18 inches deep."
+    },
+    {
+        "question": "53. (616) What mixture of salt and water normally increases the conductivity of the soil that is in contact with a ground rod?",
+        "options": [
+            "a. 1 pound of salt per 1 gallon of water.",
+            "b. 1 pound salt per 3 gallons of water.",
+            "c. 3 pounds of salt per 1 gallon of water.",
+            "d. 3 pounds of salt per 5 gallons of water."
+        ],
+        "correct": "c. 3 pounds of salt per 1 gallon of water."
+    },
+    {
+        "question": "54. (617) How many light streamers are installed in each tent?",
+        "options": [
+            "a. 1.",
+            "b. 2.",
+            "c. 3.",
+            "d. 4."
+        ],
+        "correct": "a. 1."
+    },
+    {
+        "question": "55. (617) When dissembling the tent lighting assets, where do you store the components?",
+        "options": [
+            "a. In the proper storage containers.",
+            "b. In an approved cargo container.",
+            "c. In the middle of the tent.",
+            "d. In a convenient location."
+        ],
+        "correct": "a. In the proper storage containers."
     }
 ]
