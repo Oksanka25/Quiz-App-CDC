@@ -864,7 +864,8 @@
         "options": [
             "a. Fused cutouts.",
             "b. Circuit breakers.",
-            "c. Fused cutouts and a backup oil circuit recloser. d. Knife blades and a normally open air-break switch."
+            "c. Fused cutouts and a backup oil circuit recloser.", 
+            "d. Knife blades and a normally open air-break switch."
         ],
         "correct": "d. Knife blades and a normally open air-break switch."
     },
@@ -1155,7 +1156,7 @@
             "c. from direct drive through the engine.",
             "d. from the engine through the back transmission."
         ],
-        "correct": "b. through the power takeoff"
+        "correct": "b. through the power takeoff."
     },
     {
         "question": "47. (224) How is the rope put on the capstan?",
