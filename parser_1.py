@@ -18,7 +18,7 @@ for card in soup.select('.SetPageTerm-inner'):
     cards.append(card_dict)
 
 
-with open('volume7.json', 'w', encoding='utf-8') as f:
+with open('volume5.json', 'w', encoding='utf-8') as f:
     json.dump(cards, f, ensure_ascii=False, indent=4)
 
 print(json.dumps(cards, indent=4))

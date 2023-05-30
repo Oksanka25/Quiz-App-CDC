@@ -1,720 +1,550 @@
 [
     {
-        "question": "1. (201) Which section of the Operation and Service Instructions Manual contains instructions for uncrating, installing, and preparing equipment for initial operations?",
+        "question": "1. (201) What voltage classes can be used for a Distribution System?",
         "options": [
-            "a. Section 1.",
-            "b. Section 2.",
-            "c. Section 3.",
-            "d. Section 4."
+            "a. 5 kilovolts (kV), 15 kV, and 25 kV.",
+            "b. 5 kV, 15 kV, 20 kV and 25 kV.",
+            "c. 5 kV, 15 kV, 20 kV, and 35 kV.",
+            "d. 5 kV, 15 kV, 25 kV, and 35 kV."
         ],
-        "correct": "c. Section 3."
+        "correct": "d. 5 kV, 15 kV, 25 kV, and 35 kV."
     },
     {
-        "question": "2. (201) Which section of the Operation and Service Instructions Manual contains step-by-step instructions for starting, operating, and stopping equipment?",
+        "question": "2. (202) The main substation is usually located as close as possible to ",
         "options": [
-            "a. Section 1.",
-            "b. Section 2.",
-            "c. Section 3.",
-            "d. Section 4."
+            "a. the center of the base load distribution.",
+            "b. the geographic center of the base.",
+            "c. the command post.",
+            "d. base operations."
         ],
-        "correct": "d. Section 4."
+        "correct": "a. the center of the base load distribution."
     },
     {
-        "question": "3. (202) Which time compliance technical order (TCTO) requires you to discontinue use of equipment until prescribed maintenance work is completed?",
+        "question": "3. (202) Which item is designed to open a circuit automatically under load and then restore the service quickly once the fault has cleared?",
         "options": [
-            "a. Interim TCTOs.",
-            "b. Record TCTOs.",
-            "c. Urgent action TCTOs.",
-            "d. Immediate action TCTOs."
+            "a. Fused cutout.",
+            "b. Sectionalizer.",
+            "c. Circuit breaker.",
+            "d. Pole-top switch."
         ],
-        "correct": "d. Immediate action TCTOs."
+        "correct": "c. Circuit breaker."
     },
     {
-        "question": "4. (202) The time compliance technical order (TCTO) that must be issued if the risk involved is tolerable only within definite time limits is the ",
-        "options": [
-            "a. record TCTO.",
-            "b. interim TCTO.",
-            "c. urgent action TCTO.",
-            "d. immediate action TCTO."
-        ],
-        "correct": "c. urgent action TCTO."
-    },
-    {
-        "question": "5. (203) What do all technical order (TO) indexes have as the first number? ",
-        "options": [
-            "a. Zero (0).",
-            "b. One (1).",
-            "c. Two (2).",
-            "d. Three (3)."
-        ],
-        "correct": "a. Zero (0)."
-    },
-    {
-        "question": "6. (204) What format is used to submit corrections to a technical order (TO)?",
-        "options": [
-            "a. TO 00-5-1, AF Technical Order System.",
-            "b. TO 0-1-01, Numerical Index and Requirements Tables.",
-            "c. AFTO Form 158, Technical Order Review Comment Sheet.",
-            "d. AFTO Form 22, Technical Manual (TM) Change Recommendation and Reply."
-        ],
-        "correct": "d. AFTO Form 22, Technical Manual (TM) Change Recommendation and Reply."
-    },
-    {
-        "question": "7. (204) Which technical order (TO) improvement recommendation requires action within 40 days of its receipt?",
-        "options": [
-            "a. Urgent.",
-            "b. Routine.",
-            "c. Time compliance.",
-            "d. Emergency/critical hazard."
-        ],
-        "correct": "a. Urgent."
-    },
-    {
-        "question": "8. (204) What type of technical order (TO) improvement recommendation is submitted if prescribed maintenance procedures reduce the operational life of equipment?",
-        "options": [
-            "a. Urgent.",
-            "b. Routine.",
-            "c. Emergency.",
-            "d. Time compliance."
-        ],
-        "correct": "b. Routine."
-    },
-    {
-        "question": "9. (205) How are Unified Criteria Facilities (UFC) organized?",
-        "options": [
-            "a. Units and Volumes.",
-            "b. Chapters and Articles.",
-            "c. Chapters and Volumes.",
-            "d. Series and Sub-Categories."
-        ],
-        "correct": "d. Series and Sub-Categories."
-    },
-    {
-        "question": "10. (205) What information is in Chapter 1 of a Unified Criteria Facilities (UFC)?",
-        "options": [
-            "a. General overview listing the purpose, scope, and references for the UFC.",
-            "b. Table of contents.",
-            "c. Foreword.",
-            "d. Glossary."
-        ],
-        "correct": "a. General overview listing the purpose, scope, and references for the UFC."
-    },
-    {
-        "question": "11. (206) Who publishes the National Electric Code? ",
-        "options": [
-            "a. National Fire Protection Association (NFPA).",
-            "b. American National Standards Institute (ANSI).",
-            "c. National Electrical Manufactures Association (NEMA).",
-            "d. Institute of Electrical and Electronics Engineers (IEEE)."
-        ],
-        "correct": "a. National Fire Protection Association (NFPA)."
-    },
-    {
-        "question": "12. (206) What publication number is the National Electric Code?",
-        "options": [
-            "a. National Fire Protection Association (NFPA) 70E.",
-            "b. NFPA 72.",
-            "c. NFPA 70B.",
-            "d. NFPA 70."
-        ],
-        "correct": "d. NFPA 70."
-    },
-    {
-        "question": "13. (206) What publication number is the Standard for Electrical Safety in the Workplace? ",
-        "options": [
-            "a. National Fire Protection Association (NFPA) 70E.",
-            "b. NFPA 72.",
-            "c. NFPA 70B.",
-            "d. NFPA 70."
-        ],
-        "correct": "a. National Fire Protection Association (NFPA) 70E."
-    },
-    {
-        "question": "14. (207) What number is the maximum ohmic reading for static grounds according to current Air Force directives? ",
-        "options": [
-            "a. 10.",
-            "b. 1,000.",
-            "c. 10,000.",
-            "d. 100,000."
-        ],
-        "correct": "c. 10,000."
-    },
-    {
-        "question": "15. (207) An equipment ground is a grounding system that ",
-        "options": [
-            "a. stabilizes voltage between two or more metallic objects.",
-            "b. removes excess voltage from current carrying metallic objects.",
-            "c. drains off static electricity before a sparking potential is reached.",
-            "d. connects to earth all nonconcurrent carrying metal parts of an electrical wiring system."
-        ],
-        "correct": "d. connects to earth all nonconcurrent carrying metal parts of an electrical wiring system."
-    },
-    {
-        "question": "16. (207) What maximum ground resistance is the value for an electrical system with a voltage of 600 volts alternating current (VAC) or less?",
-        "options": [
-            "a. 1 ohm.",
-            "b. 5 ohms.",
-            "c. 10 ohms.",
-            "d. 25 ohms."
-        ],
-        "correct": "d. 25 ohms."
-    },
-    {
-        "question": "17. (207) During which season could you expect to measure the lowest ground reading? ",
-        "options": [
-            "a. Fall.",
-            "b. Spring.",
-            "c. Summer.",
-            "d. Winter."
-        ],
-        "correct": "b. Spring."
-    },
-    {
-        "question": "18. (208) Which location is the correct location for grounding a system neutral? ",
-        "options": [
-            "b. Source side of service entrance.",
-            "c. Load side of service entrance and outlets.",
-            "d. Source side of service entrance and outlets."
-        ],
-        "correct": "b. Source side of service entrance."
-    },
-    {
-        "question": "19. (208) A system neutral conductor is likely grounded improperly (grounded on the load side of the service entrance disconnect), if the ohmic value is less than ",
-        "options": [
-            "a. 10K.",
-            "b. 20K.",
-            "c. 30K.",
-            "d. 40K."
-        ],
-        "correct": "b. 20K."
-    },
-    {
-        "question": "20. (209) At what intervals should a wye-connected distribution system neutral be grounded? ",
-        "options": [
-            "a. At a distance not to exceed ¼ mile.",
-            "b. At a distance not to exceed ½ mile.",
-            "c. At a distance not to exceed 1 mile.",
-            "d. This system neutral is not grounded."
-        ],
-        "correct": "a. At a distance not to exceed ¼ mile."
-    },
-    {
-        "question": "21. (209) What recommended depth is the top of a ground rod driven for distribution pole grounding? ",
-        "options": [
-            "a. At ground level.",
-            "b. Below ground level.",
-            "c. 1 foot above ground level.",
-            "d. 2 feet below ground level."
-        ],
-        "correct": "d. 2 feet below ground level."
-    },
-    {
-        "question": "22. (210) The metal frame of a building can be used as a facility ground ",
-        "options": [
-            "a. if the frame is effectively grounded.",
-            "b. if the building is equipped with air terminals.",
-            "c. only when it is supported by insulated flanges.",
-            "d. only if the braces are separately bonded to the ground loop."
-        ],
-        "correct": "a. if the frame is effectively grounded."
-    },
-    {
-        "question": "23. (210) What are the requirements for a facility ground rod? ",
-        "options": [
-            "a. 4 feet long; copper-clad steel, solid copper, or galvanized steel.",
-            "b. 8 feet long; copper-clad steel, solid copper, or galvanized steel.",
-            "c. 4 feet long; copper-clad steel, solid copper, or stainless steel.",
-            "d. 8 feet long; copper-clad steel, solid copper, or stainless steel."
-        ],
-        "correct": "d. 8 feet long; copper-clad steel, solid copper, or stainless steel."
-    },
-    {
-        "question": "24. (210) Which is the minimum allowed resistance for an electrode used for communications network grounds? ",
-        "options": [
-            "a. 25 ohms.",
-            "b. 20 ohms.",
-            "c. 10 ohms.",
-            "d. 5 ohms."
-        ],
-        "correct": "c. 10 ohms."
-    },
-    {
-        "question": "25. (210) Isolated ground (IG) receptacles are used in circuits feeding electronic devices to ",
-        "options": [
-            "a. minimize noise.",
-            "b. filter voltage spikes.",
-            "c. stabilize current draw.",
-            "d. block high voltage generated from lightning strikes."
-        ],
-        "correct": "a. minimize noise."
-    },
-    {
-        "question": "26. (210) In an isolated ground (IG) receptacle, the ",
-        "options": [
-            "a. grounding pin is purposely insulated from the outlet box.",
-            "b. IG will be bonded to other grounds in the immediate area.",
-            "c. IG must have its own lightning arrester.",
-            "d. IG must have its own driven ground rod."
-        ],
-        "correct": "a. grounding pin is purposely insulated from the outlet box."
-    },
-    {
-        "question": "27. (211) What happens if a bare grounding wire touches the hot conductor terminal of a receptacle inside of a properly grounded outlet box? ",
-        "options": [
-            "a. Equipment plugged in the receptacle receives excessive current and overheats.",
-            "b. The neutrals for the entire facility become hot conductors.",
-            "c. The circuit breaker for that circuit trips.",
-            "d. The outlet voltage is doubled."
-        ],
-        "correct": "c. The circuit breaker for that circuit trips."
-    },
-    {
-        "question": "28. (211) Physical failure of grounding systems usually occurs in which portion of the system? ",
-        "options": [
-            "a. In the service panel.",
-            "b. The ground electrode.",
-            "c. Just above and below ground level.",
-            "d. At the point where it attaches to the equipment."
-        ],
-        "correct": "c. Just above and below ground level."
-    },
-    {
-        "question": "29. (211) In an interior wiring system with metallic conduit, through how many possible paths can return ground fault flow?",
-        "options": [
-            "a. Zero.",
-            "b. One.",
-            "c. Two.",
-            "d. Three."
-        ],
-        "correct": "c. Two."
-    },
-    {
-        "question": "30. (211) What test can you perform to ensure that the above grade components in a grounding system have a low resistance path to ground? ",
-        "options": [
-            "a. Earth resistance test.",
-            "b. Vibroground test.",
-            "c. Continuity test.",
-            "d. Clamp-on test."
-        ],
-        "correct": "c. Continuity test."
-    },
-    {
-        "question": "31. (212) What characteristics are the properties of good insulators?",
-        "options": [
-            "a. Clean dry surfaces in low humidity; can hold their charge.",
-            "b. Clean dry surfaces in high humidity; can hold their charge.",
-            "c. Contaminated surfaces in low humidity; can hold their charge.",
-            "d. Clean dry surfaces in any humidity; permit leakage to take place."
-        ],
-        "correct": "a. Clean dry surfaces in low humidity; can hold their charge."
-    },
-    {
-        "question": "32. (212) What minimum sparking voltage is generally accepted for the shortest measurable length of gap?",
-        "options": [
-            "a. 12 volts.",
-            "b. 125 volts.",
-            "c. 240 volts.",
-            "d. 350 volts."
-        ],
-        "correct": "d. 350 volts."
-    },
-    {
-        "question": "33. (213) Under proper conditions, approximately how much voltage can be charged up by a drop of liquid falling through the air? ",
-        "options": [
-            "a. 50 volts.",
-            "b. 500 volts.",
-            "c. 1,000 volts.",
-            "d. 10,000 volts."
-        ],
-        "correct": "d. 10,000 volts."
-    },
-    {
-        "question": "34. (213) At what voltage can a static charge ignite gasoline? ",
-        "options": [
-            "a. 120 volts.",
-            "b. 750 volts.",
-            "c. 1,500 volts.",
-            "d. 7,500 volts."
-        ],
-        "correct": "c. 1,500 volts."
-    },
-    {
-        "question": "35. (213) Unwanted electrical charges in hazardous areas are dissipated by using ",
-        "options": [
-            "a. rubber mats.",
-            "b. air filtration systems.",
-            "c. a continuous electrical path to ground.",
-            "d. static elimination bars at all entry points."
-        ],
-        "correct": "c. a continuous electrical path to ground."
-    },
-    {
-        "question": "36. (213) Which is not necessary for an adequate ground for static electricity? ",
-        "options": [
-            "a. High mechanical strength.",
-            "b. Very low resistance.",
-            "c. Secure connections.",
-            "d. A continuous path."
-        ],
-        "correct": "b. Very low resistance."
-    },
-    {
-        "question": "37. (213) Which size copper wire is used to bond conductive objects when they are not concealed or mechanically protected? ",
-        "options": [
-            "a. No. 16 American Wire Gauge (AWG).",
-            "b. No. 12 AWG.",
-            "c. No. 8 AWG.",
-            "d. No. 6 AWG."
-        ],
-        "correct": "d. No. 6 AWG."
-    },
-    {
-        "question": "38. (214) The type of ionic current that describes the rate of electron loss from earth is called ",
-        "options": [
-            "a. air-earth.",
-            "b. air-water.",
-            "c. sky-earth.",
-            "d. sky-water."
-        ],
-        "correct": "a. air-earth."
-    },
-    {
-        "question": "39. (214) The process of separating air molecules into positive ions and negative electrons is called ",
-        "options": [
-            "a. ionization.",
-            "b. salinization.",
-            "c. de-ionization.",
-            "d. de-salinization."
-        ],
-        "correct": "a. ionization."
-    },
-    {
-        "question": "40. (215) Lightning grounds are designed ",
-        "options": [
-            "a. to handle high voltages.",
-            "b. to carry large currents.",
-            "c. for high capacitance.",
-            "d. for high impedance."
-        ],
-        "correct": "b. to carry large currents."
-    },
-    {
-        "question": "41. (215) What size is the minimum for grounding conductors used for hazardous locations? ",
-        "options": [
-            "a. No. 6 American Wire Gauge (AWG).",
-            "b. No. 4 AWG.",
-            "c. No. 1/0 AWG.",
-            "d. No. 4/0 AWG."
-        ],
-        "correct": "c. No. 1/0 AWG."
-    },
-    {
-        "question": "42. (215) The maximum spacing, in feet, between air terminals is ",
-        "options": [
-            "a. 25.",
-            "b. 50.",
-            "c. 100.",
-            "d. 150."
-        ],
-        "correct": "a. 25."
-    },
-    {
-        "question": "43. (215) What number of inches is the minimum radius for lightning protection conductors bend? ",
-        "options": [
-            "a. One.",
-            "b. Two.",
-            "c. Four.",
-            "d. Eight."
-        ],
-        "correct": "d. Eight."
-    },
-    {
-        "question": "44. (216) Grounding of lightning protection systems should conform to ",
-        "options": [
-            "a. National Fire Protection Association (NFPA) 77.",
-            "b. NFPA 78.",
-            "c. NFPA 780.",
-            "d. NFPA 802."
-        ],
-        "correct": "c. NFPA 780."
-    },
-    {
-        "question": "45. (216) What size ground rods are used in a lightning protection system? ",
-        "options": [
-            "a. 8 feet in length, and 1/2-inch diameter.",
-            "b. 8 feet in length, and 3/4-inch diameter.",
-            "c. 10 feet in length, and 1/2-inch diameter.",
-            "d. 10 feet in length, and 3/4-inch diameter."
-        ],
-        "correct": "d. 10 feet in length, and 3/4-inch diameter."
-    },
-    {
-        "question": "46. (216) When ground rods are used with a loop conductor, how deep are ground rod tops driven?",
-        "options": [
-            "a. 6 inches below finished grade.",
-            "b. 18 inches below finished grade.",
-            "c. To same elevation as loop conductor below finished grade.",
-            "d. To same elevation as the facility ground below finished grade."
-        ],
-        "correct": "c. To same elevation as loop conductor below finished grade."
-    },
-    {
-        "question": "47. (216) What is the minimum size copper wire used to connect different grounding systems? ",
-        "options": [
-            "a. 14 American Wire Gauge (AWG).",
-            "b. 6 AWG.",
-            "c. 2 AWG.",
-            "d. 1/0 AWG."
-        ],
-        "correct": "b. 6 AWG."
-    },
-    {
-        "question": "48. (217) What number of feet must down conductors not exceed? ",
-        "options": [
-            "a. 25.",
-            "b. 50.",
-            "c. 100.",
-            "d. 125."
-        ],
-        "correct": "c. 100."
-    },
-    {
-        "question": "49. (217) How far into the ground must grounding rings be buried? ",
-        "options": [
-            "a. 10 inches.",
-            "b. 15 inches.",
-            "c. 30 inches.",
-            "d. 45 inches."
-        ],
-        "correct": "c. 30 inches."
-    },
-    {
-        "question": "50. (218) The ions that leave the metal and enter into the solution are ",
-        "options": [
-            "a. free electrons.",
-            "b. anodes.",
-            "c. positive.",
-            "d. negative."
-        ],
-        "correct": "b. anodes."
-    },
-    {
-        "question": "51. (219) How many basic ways can corrosion occur? ",
-        "options": [
-            "a. Two.",
-            "b. Three.",
-            "c. Four.",
-            "d. Five."
-        ],
-        "correct": "c. Four."
-    },
-    {
-        "question": "52. (219) Where does stray current corrosion cause greatest damage? ",
-        "options": [
-            "a. At midpoint between entry and exit of a structure. b. The bottom side of a structure.",
-            "c. Where it enters a structure.",
-            "d. Where it exits a structure."
-        ],
-        "correct": "d. Where it exits a structure."
-    },
-    {
-        "question": "53. (220) How many ways can cathodic protection be achieved? ",
-        "options": [
-            "a. 2.",
-            "b. 4.",
-            "c. 6.",
-            "d. 8."
-        ],
-        "correct": "a. 2."
-    },
-    {
-        "question": "54. (220) At least how many inches of backfill should extend from each end of the anode? ",
+        "question": "4. (202) A substation with one incoming transmission circuit and three outgoing distribution circuits has (at least) how many lightning arresters?",
         "options": [
             "a. 4.",
             "b. 8.",
-            "c. 10.",
-            "d. 12."
+            "c. 12.",
+            "d. 16."
         ],
-        "correct": "d. 12."
+        "correct": "c. 12."
     },
     {
-        "question": "55. (221) What purpose does the rectifier operational inspection serve?",
+        "question": "5. (202) Which item supplies control voltage to operate circuit breakers?",
         "options": [
-            "a. To determine the serviceability of all components required to impress current to the anodes of the impressed current system.",
-            "b. To determine the unserviceability of some components required to impress current to the anodes of the impressed current system.",
-            "c. To determine the reliability of all components required to impress current to the anodes of the impressed current system.",
-            "d. To determine the compatibility of all components required to impress current to the anodes of the impressed current system."
+            "a. Batteries.",
+            "b. Signal generators.",
+            "c. Current transformers.",
+            "d. Distribution transformers."
         ],
-        "correct": "a. To determine the serviceability of all components required to impress current to the anodes of the impressed current system."
+        "correct": "a. Batteries."
     },
     {
-        "question": "56. (221) How often should a structure be checked for depth of pitting?",
+        "question": "6. (203) In a circuit, the step-voltage regulator's primary and secondary windings are configured with the primary in ",
         "options": [
-            "a. Every two years.",
-            "b. Yearly.",
-            "c. Semiannually.",
-            "d. Monthly."
+            "a. series and the secondary in series.",
+            "b. parallel and the secondary in series.",
+            "c. series and the secondary in parallel.",
+            "d. parallel and the secondary in parallel."
         ],
-        "correct": "a. Every two years."
+        "correct": "b. parallel and the secondary in series."
     },
     {
-        "question": "57. (222) What voltage does a fire alarm system operate on, and what additional power source does the panel have? ",
+        "question": "7. (204) What item in an oil circuit breaker suppresses an arc? ",
         "options": [
-            "a. 12 volts, direct current (VDC),backup circuit.",
-            "b. 12VDC, battery backup.",
-            "c. 24VDC, backup circuit.",
-            "d. 24VDC, battery backup."
+            "a. Oil.",
+            "b. Dashpot.",
+            "c. Protective relay.",
+            "d. Current transformer."
         ],
-        "correct": "d. 24VDC, battery backup."
+        "correct": "a. Oil."
     },
     {
-        "question": "58. (222) What is defined as a situation, environmental state, or equipment state of a fire alarm? ",
+        "question": "8. (204) What oil circuit breaker components supply amperage to the protective relays?",
         "options": [
-            "a. Alarm.",
-            "b. Condition.",
-            "c. Trouble.",
-            "d. Situation."
+            "a. Timer ports.",
+            "b. Main contacts.",
+            "c. Terminal bushings.",
+            "d. Current transformers."
         ],
-        "correct": "b. Condition."
+        "correct": "d. Current transformers."
     },
     {
-        "question": "59. (222) What situation would cause the fire department dispatch center to receive a supervisory alarm? ",
+        "question": "9. (204) The insulating quality of sulfur hexafluoride (SF6), at 0 PSI, is how much greater than dry air? ",
         "options": [
-            "a. Open in a circuit.",
-            "b. Ground on a circuit.",
-            "c. Initiating device operates.",
-            "d. Someone disables the fire suppression system."
+            "a. 2½ times.",
+            "b. 4 times.",
+            "c. 6½ times.",
+            "d. 8 times."
         ],
-        "correct": "d. Someone disables the fire suppression system."
+        "correct": "a. 2½ times."
     },
     {
-        "question": "60. (223) Where in a facility will a pull station be located? ",
+        "question": "10. (205) Why are high-voltage fuses enclosed? ",
         "options": [
-            "a. Next to fire alarm control panel.",
-            "b. Near exits and in exit stairwells.",
-            "c. Mechanical room.",
-            "d. In every room."
+            "a. Aids with heat dissipation.",
+            "b. Allows for more current flow.",
+            "c. Reduces noise, gas or smoke due to a short circuit.",
+             "d. To keep melted metal from dropping into nearby equipment."
         ],
-        "correct": "b. Near exits and in exit stairwells."
+        "correct": "d. To keep melted metal from dropping into nearby equipment."
     },
     {
-        "question": "61. (223) What type of automatic detector is susceptible to false alarms in dusty environments? ",
+        "question": "11. (205) What is installed inside the insulated fiberglass tube assembly to complete the connection between the upper and lower contacts on the fuse holder? ",
         "options": [
-            "a. Heat detector.",
-            "b. Ion Smoke detector.",
-            "c. Wavelength detector.",
-            "d. Photoelectric Smoke detector."
+            "a. Door.",
+            "b. Fuse link.",
+            "c. Fuse-tube.",
+            "d. Fuse cutout."
         ],
-        "correct": "d. Photoelectric Smoke detector."
+        "correct": "b. Fuse link."
     },
     {
-        "question": "62. (223) What monitors the air in a heating, ventilation, and air conditioning (HVAC) system for signs of fire? ",
+        "question": "12. (205) How can a craftsmen easy identify blown fuse cutout? ",
         "options": [
-            "a. Heat detector.",
-            "b. Flow detector.",
-            "c. Duct detector.",
-            "d. Smoke detector."
+            "a. The tail is up.",
+            "b. Fuse link is closed.",
+            "c. A cutout door is hanging down.",
+            "d. Stinger wire is hanging from stirrup."
         ],
-        "correct": "c. Duct detector."
+        "correct": "c. A cutout door is hanging down."
     },
     {
-        "question": "63. (223) Where is the end of line resistor in a Class A circuit? ",
+        "question": "13. (206) What percent of electrical system faults are temporary? ",
         "options": [
-            "a. In the middle of the circuit.",
-            "b. At the end of the circuit.",
-            "c. In the panel.",
-            "d. Not used."
+            "a. 25.",
+            "b. 55.",
+            "c. 75.",
+            "d. 95."
         ],
-        "correct": "c. In the panel."
+        "correct": "d. 95."
     },
     {
-        "question": "64. (223) What is used in larger facilities to expand the notification appliance circuit (NAC)? ",
+        "question": "14. (206) Which of these devices does not interrupt a fault current? ",
         "options": [
-            "a. Initiating device circuit extender.",
-            "b. Power amplifier.",
-            "c. Booster panel.",
-            "d. Amp panel."
+            "a. Fused cutout.",
+            "b. Sectionalizer.",
+            "c. Oil circuit breaker.",
+            "d. Oil circuit recloser."
         ],
-        "correct": "c. Booster panel."
+        "correct": "b. Sectionalizer."
     },
     {
-        "question": "65. (223) What is the polarity of a notification appliance circuit (NAC) that has been activated?",
+        "question": "15. (207) Where are overhead switches normally mounted?",
         "options": [
-            "a. Forward.",
-            "b. Reverse.",
-            "c. Alternating.",
-            "d. None of the above."
+            "a. Inside a fenced area.",
+            "b. Underground vaults.",
+            "c. Inside metal enclosures.",
+            "d. On substation structures or utility poles."
         ],
-        "correct": "a. Forward."
+        "correct": "d. On substation structures or utility poles."
     },
     {
-        "question": "66. (224) How is an addressable circuit supervised? ",
+        "question": "16. (207) What is required for a gang operated overhead switch on a 3-phase circuit?",
         "options": [
-            "a. The detectors \"Talk\" to the fire alarm control panel (FACP).",
-            "b. The FACP broadcasts messages to all the detectors.",
-            "c. The detectors relay messages to the FACP.",
-            "d. The same as in a conventional system"
+            "a. One set of contacts.",
+            "b. Three sets of blades.",
+            "c. One set of blades and contacts.",
+            "d. Three sets of blades and contacts."
         ],
-        "correct": "a. The detectors \"Talk\" to the fire alarm control panel (FACP)."
+        "correct": "d. Three sets of blades and contacts."
     },
     {
-        "question": "67. (224) How are addressable detectors and modules assigned an address? ",
+        "question": "17. (208) What is usually installed with an oil circuit breaker to allow for equipment maintenance and allows you to keep the circuit in operation?",
         "options": [
-            "a. Device address is set when they are manufactured.",
-            "b. By turning two rotary switches on the device.",
-            "c. Setting \"dip\" switches on the device.",
-            "d. Using manufacturer software."
+            "a. Fused cutouts.",
+            "b. Circuit breakers.",
+            "c. Fused cutouts and a backup oil circuit recloser. d. Knife blades and a normally open air-break switch."
         ],
-        "correct": "b. By turning two rotary switches on the device."
+        "correct": "d. Knife blades and a normally open air-break switch."
     },
     {
-        "question": "68. (225) What commercial code specifies or mandates maintenance requirements for fire protection systems? ",
+        "question": "18. (209) The oil in oil circuit breakers is checked dielectrically .",
         "options": [
-            "a. National Fire Protection Association (NFPA) 72.",
-            "b. United Facilities Criteria (UFC) 3-601-02.",
-            "c. NFPA 70.",
-            "d. UFC 4-021-01."
+            "a. every month.",
+            "b. every 3 months.",
+            "c. every 6 months.",
+            "d. once a year."
         ],
-        "correct": "a. National Fire Protection Association (NFPA) 72."
+        "correct": "c. every 6 months."
     },
     {
-        "question": "69. (225) How often are devices normally calibrated? ",
+        "question": "19. (209) Strong odor from the gas in a sulfur hexaflouride circuit breaker is an indication that",
         "options": [
-            "a. Annually.",
-            "b. Semi-annually.",
-            "c. Every five years.",
-            "d. Every two years."
+            "a. breaker load is too high.",
+            "b. gas pressure is too high.",
+             "c. gas decomposition has taken place.",
+            "d. insulation breakdown has taken place."
         ],
-        "correct": "c. Every five years."
+        "correct": "c. gas decomposition has taken place."
     },
     {
-        "question": "70. (226) Why do mass notification systems have priority over fire alarm systems? ",
+        "question": "20. (209) Clean a modern air switch that has been closed for a long time by ",
         "options": [
-            "a. Both systems function independently.",
-            "b. Each condition is processed on a case by case basis.",
-            "c. This is a false statement, fire alarm systems have priority.",
-            "d. Perpetrators have been known to use the fire alarm system as a means of attack."
+            "a. sanding lightly with emery cloth.",
+            "b. using wire wool and silicon grease.",
+            "c. using a clean cloth and a wire brush.",
+            "d. opening and closing the switch several times."
         ],
-        "correct": "d. Perpetrators have been known to use the fire alarm system as a means of attack."
+        "correct": "d. opening and closing the switch several times."
     },
     {
-        "question": "71. (226) What color is the globe of a mass notification system (MNS) strobe in an Air Force facility? ",
+        "question": "21. (210) Battery bank maintenance is normally done",
         "options": [
-            "a. Clear.",
-            "b. Green.",
-            "c. Red.",
-            "d. Amber."
+            "a. every month.",
+            "b. every 6 months.",
+            "c. once a year.",
+            "d. every 5 years."
         ],
-        "correct": "d. Amber."
+        "correct": "a. every month."
     },
     {
-        "question": "72. (226) What wattage is the maximum size of speaker used by an in-building mass notification system (MNS) without approval by the authority having jurisdiction (AHJ)? ",
+        "question": "22. (210) What is used to test a battery cell for its specific gravity?",
         "options": [
-            "a. 8 watts.",
-            "b. 12 watts.",
-            "c. 15 watts.",
-            "d. 25 watts."
+            "a. Litmus paper.",
+            "b. Barometric gauge.",
+            "c. Colormetric chart.",
+            "d. Hydrometer syringe."
         ],
-        "correct": "c. 15 watts."
+        "correct": "d. Hydrometer syringe."
+    },
+    {
+        "question": "23. (211) Switchboard graphic instruments and revenue watt-hour meters must be calibrated every ",
+        "options": [
+            "a. year.",
+            "b. 2 years.",
+            "c. 3 years.",
+            "d. 4 years."
+        ],
+        "correct": "d. 4 years."
+    },
+    {
+        "question": "24. (212) Which device is essentially a voltage regulator and requires similar servicing?",
+        "options": [
+            "a. Air-break switch.",
+            "b. Overcurrent relay.",
+            "c. Oil circuit breaker.",
+            "d. Distribution transformer."
+        ],
+        "correct": "d. Distribution transformer."
+    },
+    {
+        "question": "25. (212) The maintenance interval for voltage regulators is every",
+        "options": [
+            "a. month.",
+            "b. 6 months.",
+            "c. year.",
+            "d. 5 years."
+        ],
+        "correct": "c. year."
+    },
+    {
+        "question": "26. (213) Battery electrolyte impurities cause",
+        "options": [
+            "a. irregular cell operation.",
+            "b. low specific gravity reading.",
+            "c. high specific gravity reading.",
+            "d. extremely high gassing of the battery."
+        ],
+        "correct": "a. irregular cell operation."
+    },
+    {
+        "question": "27. (213) After repair work on a relay you must ",
+        "options": [
+            "a. notify electrical supervisor.",
+            "b. make a relay dielectric test.",
+            "c. make a complete performance test.",
+            "d. match the tap block setting with other relays."
+        ],
+        "correct": "c. make a complete performance test."
+    },
+    {
+        "question": "28. (214) What publication outlines how to perform a flash hazard analysis to determine personal protective equipment requirement?",
+        "options": [
+            "a. Unified Facilities Criteria (UFC) 3-570-06.",
+            "b. The Linemen's and Cablemen's Handbook.",
+            "c. National Fire Protection Association (NFPA) 70 E.",
+            "d. NFPA 72."
+        ],
+        "correct": "c. National Fire Protection Association (NFPA) 70 E."
+    },
+    {
+        "question": "29. (215) Leather protectors or gauntlets should be ",
+        "options": [
+            "a. the same length as the rubber gloves.",
+            "b. 4 inches longer than the rubber gloves.",
+            "c. 1 to 3 inches longer than the rubber gloves.",
+            "d. 2 to 5 inches shorter than the rubber gloves."
+        ],
+        "correct": "d. 2 to 5 inches shorter than the rubber gloves."
+    },
+    {
+        "question": "30. (215) Which of these combinations are you likely to use inside rubber gloves?",
+        "options": [
+            "a. Nylon gloves and hand cream.",
+            "b. Cotton gloves and hand cream.",
+            "c. Nylon gloves and dusting powder.",
+            "d. Cotton gloves and dusting powder."
+        ],
+        "correct": "d. Cotton gloves and dusting powder."
+    },
+    {
+        "question": "31. (216) The supervisor must visually inspect rubber blankets every ",
+        "options": [
+            "a. week.",
+            "b. month.",
+            "c. 6 months.",
+            "d. year."
+        ],
+        "correct": "c. 6 months."
+    },
+    {
+        "question": "32. (216) How must rubber blankets be stored?",
+        "options": [
+            "a. Rolled up and taped.",
+            "b. In a designated truck bin.",
+             "c. Flat or rolled in blanket canister.",
+            "d. Folded and placed in a canvas bag."
+        ],
+        "correct": "c. Flat or rolled in blanket canister."
+    },
+    {
+        "question": "33. (216) While working, what must be done if your rubber gloves come in contact with petroleum based products?",
+        "options": [
+            "a. Wipe them off quickly.",
+            "b. Wash them with mild soap and water.",
+            "c. Stop work and perform immediate di-electric test. d. Continue working, petroleum products will have no effect on rubber."
+        ],
+        "correct": "a. Wipe them off quickly."
+    },
+    {
+        "question": "34. (216) While inspecting rubber insulating line hoses, which condition would require the line hose to be removed from service? ",
+        "options": [
+            "a. Damage extending ¼ of the wall thickness.",
+            "b. Damage extending ¼ inch in length.",
+            "c. Damage extending ¼ inch in depth.",
+            "d. Any signs of mechanical damage."
+        ],
+        "correct": "a. Damage extending ¼ of the wall thickness."
+    },
+    {
+        "question": "35. (217) What is used to clean nylon parts of body work positioning equipment? ",
+        "options": [
+            "a. Laundry detergent and a soft bristle brush.",
+            "b. Saddle soap and water.",
+            "c. Mild soap and water.",
+            "d. Neat's foot oil."
+        ],
+        "correct": "c. Mild soap and water."
+    },
+    {
+        "question": "36. (217) When leather cannot be made soft and pliable enough by saddle-soap dressing, it should be",
+        "options": [
+            "a. oiled.",
+            "b. discarded.",
+            "c. weight tested.",
+            "d. inspected for dry rot."
+        ],
+        "correct": "a. oiled."
+    },
+    {
+        "question": "37. (218) Which part of the gaff do you sharpen? ",
+        "options": [
+            "a. Top ridge.",
+            "b. Outer ridge.",
+            "c. Rounded edge.",
+            "d. Flat inner side."
+        ],
+        "correct": "d. Flat inner side."
+    },
+    {
+        "question": "38. (219) How should you plan your climbing route with respect to a single crossarm?",
+        "options": [
+            "a. Opposite the crossarm.",
+            "b. Same side as the crossarm.",
+            "c. To the left of the crossarm.",
+            "d. To the right of the crossarm."
+        ],
+        "correct": "a. Opposite the crossarm."
+    },
+    {
+        "question": "39. (219) When two workers are ascending a pole, the second worker must not start climbing until ",
+        "options": [
+            "a. the first one is on the ground.",
+            "b. the first one is in a safe work position.",
+            "c. the second one is in a safe work position.",
+            "d. the second one is directly below the first."
+        ],
+        "correct": "b. the first one is in a safe work position."
+    },
+    {
+        "question": "40. (220) Which of the following manufacturer's certification tests is acceptable for hotsticks?",
+        "options": [
+            "a. 75,000 volts alternating current (AC) per foot for 5 minutes on fiberglass and epoxy sticks.",
+            "b. 75,000 volts direct current (DC) per foot for 5 minutes on fiberglass and epoxy sticks.",
+            "c. 100,000 volts AC per foot for 5 minutes on fiberglass and epoxy sticks.",
+            "d. 100,000 volts DC per foot for 5 minutes on fiberglass and epoxy sticks."
+        ],
+        "correct": "c. 100,000 volts AC per foot for 5 minutes on fiberglass and epoxy sticks."
+    },
+    {
+        "question": "41. (221) Hot sticks are electrically tested with a",
+        "options": [
+            "a. megger.",
+            "b. voltmeter.",
+            "c. direct current (DC) hi-pot test set.",
+            "d. high-voltage phasing tool."
+        ],
+        "correct": "c. direct current (DC) hi-pot test set."
+    },
+    {
+        "question": "42. (221) How long is the 100-kilovolts (kV) test voltage applied to a hot stick? ",
+        "options": [
+            "a. 1 minute.",
+            "b. 2 minutes.",
+            "c. 3 minutes.",
+            "d. 4 minutes."
+        ],
+        "correct": "a. 1 minute."
+    },
+    {
+        "question": "43. (222) At the job site, the aerial lift device should be positioned so the work area is always",
+        "options": [
+            "a. in front of the truck.",
+            "b. directly over the truck.",
+            "c. within reach of the boom.",
+             "d. to the right side of the operator."
+        ],
+        "correct": "c. within reach of the boom."
+    },
+    {
+        "question": "44. (222) Materials or tools can only be passed from a worker on the ground to a worker on the aerial lift vehicle when ",
+        "options": [
+            "a. both workers are wearing rubber gloves.",
+            "b. the worker on the ground is wearing rubber gloves.",
+            "c. the worker on the vehicle is wearing rubber gloves.",
+            "d. the worker on the ground stands on an insulated stool."
+        ],
+        "correct": "a. both workers are wearing rubber gloves."
+    },
+    {
+        "question": "45. (223) The test voltage for an aerial lift basket test is ",
+        "options": [
+            "a. 100 kilovolts (kV) direct current (DC).",
+            "b. 125 kV DC.",
+            "c. 150 kV DC.",
+            "d. 200 kV DC."
+        ],
+        "correct": "a. 100 kilovolts (kV) direct current (DC)."
+    },
+    {
+        "question": "46. (224) The line truck winch is operated",
+        "options": [
+            "a. through the transfer case.",
+             "b. through the power takeoff.",
+            "c. from direct drive through the engine.",
+            "d. from the engine through the back transmission."
+        ],
+        "correct": "b. through the power takeoff"
+    },
+    {
+        "question": "47. (224) How is the rope put on the capstan?",
+        "options": [
+            "a. Thread it from top to bottom, with the load toward the front of the truck.",
+            "b. Thread it from bottom to top, with the load end away from the truck.",
+            "c. Wind it counterclockwise, with the load toward the rear of the truck.",
+            "d. Wind it clockwise, with the load end next to the truck."
+        ],
+        "correct": "d. Wind it clockwise, with the load end next to the truck."
+    },
+    {
+        "question": "48. (225) The purpose of hand signals is to ensure",
+        "options": [
+            "a. proper installation of poles.",
+            "b. clear communication between linemen and ground worker.",
+            "c. proper understanding between supervisor and subordinates.",
+            "d. clear communication between truck operator and ground worker."
+        ],
+        "correct": "d. clear communication between truck operator and ground worker."
+    },
+    {
+        "question": "49. (225) What does holding up a closed fist indicate? ",
+        "options": [
+            "a. Lift pole.",
+            "b. Winch up.",
+            "c. Raise boom.",
+            "d. Stop all action."
+        ],
+        "correct": "d. Stop all action."
+    },
+    {
+        "question": "50. (226) Which of these is the Operator's Inspection Guide and Trouble Report (Aircraft Towing, Base Maintenance, Deicers, High Reach and Snow Removal), on which you write up line truck inspection discrepancies?",
+        "options": [
+            "a. AF Form 373.",
+            "b. AF Form 374.",
+            "c. AF Form 1800.",
+            "d. AF Form 1806."
+        ],
+        "correct": "c. AF Form 1800."
+    },
+    {
+        "question": "51. (227) What is the more common name for a constant current transformer?",
+        "options": [
+            "a. Power transformer.",
+            "b. Distribution transformer.",
+             "c. Constant current regulator.",
+            "d. Instrumentation transformer."
+        ],
+        "correct": "c. Constant current regulator."
+    },
+    {
+        "question": "52. (228) The insulation value of transformer coils, bushings, and oil determines ",
+        "options": [
+            "a. the power that the transformer can handle.",
+            "b. the current capacity of the transformer.",
+            "c. the voltage rating of the transformer.",
+            "d. the size of the transformer."
+        ],
+        "correct": "c. the voltage rating of the transformer."
+    },
+    {
+        "question": "53. (229) When you make a delta-delta connection for lights and power, there is one unusable voltage from ",
+        "options": [
+            "a. A phase to B phase.",
+            "b. B phase to neutral.",
+            "c. B phase to C phase.",
+            "d. C phase to A phase."
+        ],
+        "correct": "b. B phase to neutral."
+    },
+    {
+        "question": "54. (230) Which meter do you use in a transformer continuity check?",
+        "options": [
+            "a. Megger.",
+            "b. Voltmeter.",
+            "c. Ohmmeter.",
+            "d. Clamp-on ammeter."
+        ],
+        "correct": "a. Megger."
+    },
+    {
+        "question": "55. (230) Which connection would you use for a continuity check on the primary winding of a transformer? ",
+        "options": [
+            "a. H1 to H2.",
+            "b. X1 to X3.",
+            "c. H1 to X3.",
+            "d. H2 to case."
+        ],
+        "correct": "a. H1 to H2."
     }
 ]
