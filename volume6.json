@@ -747,7 +747,7 @@
             "c. Inspect hot line tools and equipment for proper operation.",
             "d. Fill out AF Form 103, Base Civil Engineering Work Clearance Request."
         ],
-        "correct": "d. Fill out AF Form 103, Base Civil Engineering Work Clearance Request."
+        "correct": "c. Inspect hot line tools and equipment for proper operation."
     },
     {
         "question": "76. (431) What two connector types do we use when splicing energized conductors?",
@@ -928,7 +928,7 @@
             "c. Higher resistance or a lower power factor.",
             "d. Higher resistance or a higher power factor."
         ],
-        "correct": "c. Higher resistance or a lower power factor."
+        "correct": "b. Lower resistance or a higher power factor."
     },
     {
         "question": "94. (437) What is the easiest and quickest way to locate a cable fault?",
@@ -958,7 +958,7 @@
             "c. fault locator signal increases at the fault; thumper signal decreases.",
             "d. fault locator signal fades out at the fault; thumper signal increases to the loudest volume."
         ],
-        "correct": "c. fault locator signal increases at the fault; thumper signal decreases."
+        "correct":  "d. fault locator signal fades out at the fault; thumper signal increases to the loudest volume."
     },
     {
         "question": "97. (438) In many cases, a cable fault is located at a",
